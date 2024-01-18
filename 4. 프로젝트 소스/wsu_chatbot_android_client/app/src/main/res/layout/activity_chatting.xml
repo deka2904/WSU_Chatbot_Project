@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    tools:context=".ChattingActivity">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ChattingActivity">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:backgroundTint="#ffffff">
+
+            <androidx.drawerlayout.widget.DrawerLayout
+                android:id="@+id/navigationDrawer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:backgroundTint="#ffffff">
+
+                <androidx.constraintlayout.widget.ConstraintLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#ffffff">
+
+                    <ImageButton
+                        android:id="@+id/btnSend"
+                        android:layout_width="wrap_content"
+                        android:layout_height="49dp"
+                        android:padding="10dp"
+                        app:backgroundTint="@color/maincolor"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintHorizontal_bias="1.0"
+                        app:layout_constraintStart_toEndOf="@+id/editMessage"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toTopOf="@+id/editMessage"
+                        app:srcCompat="@android:drawable/ic_media_play"
+                        app:tint="#ffffff" />
+
+                    <AutoCompleteTextView
+                        android:id="@+id/editMessage"
+                        android:layout_width="0dp"
+                        android:layout_height="50dp"
+                        android:ems="13"
+                        android:hint="질문을 입력하세요."
+                        android:inputType="text"
+                        android:padding="5dp"
+                        android:textSize="24sp"
+                        app:layout_constraintEnd_toStartOf="@+id/btnSend"
+                        app:layout_constraintStart_toEndOf="@+id/speak"
+                        android:completionHint="원하는 질문을 선택해 주세요"
+                        android:completionThreshold="1"
+                        app:layout_constraintTop_toTopOf="@+id/speak" />
+
+                    <com.google.android.material.floatingactionbutton.FloatingActionButton
+                        android:id="@+id/speak"
+                        android:layout_width="wrap_content"
+                        android:layout_height="100dp"
+                        android:layout_marginBottom="8dp"
+                        android:padding="10dp"
+                        android:tint="#ffffff"
+                        app:backgroundTint="@color/maincolor"
+                        app:layout_constraintBottom_toBottomOf="parent"
+                        app:layout_constraintEnd_toEndOf="parent"
+                        app:layout_constraintEnd_toStartOf="@+id/editMessage"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:srcCompat="@android:drawable/ic_btn_speak_now" />
+
+                </androidx.constraintlayout.widget.ConstraintLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:backgroundTint="#ffffff">
+
+                    <ImageButton
+                        android:id="@+id/imageButton2"
+                        android:layout_width="55dp"
+                        android:layout_height="50dp"
+                        android:background="@color/maincolor"
+                        android:backgroundTint="@color/maincolor"
+                        app:srcCompat="@mipmap/ic_menu4_foreground"
+                        app:tint="#FBF9F9" />
+
+                    <include layout="@layout/toolbar_main" />
+
+                </LinearLayout>
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/chatView"
+                    android:layout_width="0dp"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginBottom="80dp"
+                    android:orientation="vertical"
+                    app:fastScrollEnabled="false"
+                    app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                    app:stackFromEnd="true"
+                    tools:itemCount="2"
+                    android:background="#ffffff">
+
+                </androidx.recyclerview.widget.RecyclerView>
+
+                <com.google.android.material.navigation.NavigationView
+                    android:id="@+id/navigationView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="start|left"
+                    app:headerLayout="@layout/nav_header"
+                    app:menu="@menu/main_navigationmenu"
+                    tools:ignore="MissingConstraints"></com.google.android.material.navigation.NavigationView>
+
+            </androidx.drawerlayout.widget.DrawerLayout>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

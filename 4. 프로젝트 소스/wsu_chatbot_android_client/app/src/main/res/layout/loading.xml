@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/SYSDOCU"
+        android:layout_width="335dp"
+        android:layout_height="350dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="100dp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="50dp"
+        android:max="100"
+        android:progressDrawable="@drawable/progressbar"
+        android:scaleY="1" />
+
+    <TextView
+        android:id="@+id/editText"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:text="   저는 우송대 입시 챗봇이에요! \n궁금한점이 있으면 물어봐 주세요!" />
+
+</LinearLayout>
+

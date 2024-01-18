@@ -1,0 +1,15 @@
+package com.github.tlaabs.chatbot;
+
+public class Recommend {
+    private String Message;
+    private String Ner;
+
+    public Recommend(String ner, String message)
+    {
+        Ner = ner;
+        Message = message;
+    }
+
+    public String getNer() {return Ner;}
+    public String getMessage() {return Message;}
+}

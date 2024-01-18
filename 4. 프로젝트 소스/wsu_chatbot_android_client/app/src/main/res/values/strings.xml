@@ -1,0 +1,12 @@
+<resources>
+    <string name="bot_name">나물이</string>
+    <string name="app_name">우송대입시 챗봇</string>
+
+
+    <!-- 이름을 정의하여 조건에 따라 페이지의 이름을 띄운다.  -->
+    <string name="next">다음</string>
+    <string name="skip">건너뛰기</string>
+    <string name="start">시작</string>
+
+
+</resources>

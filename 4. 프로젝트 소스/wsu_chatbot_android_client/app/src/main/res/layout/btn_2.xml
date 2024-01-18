@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_weight="2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:elevation="10dp"
+            app:cardBackgroundColor="#FFFFFF"
+            app:cardCornerRadius="19dp">
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/wsu" />
+
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="216dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:layout_weight="8"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="70dp"
+                android:layout_height="37dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/bot_name"
+                    android:textColor="#000000"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageButton
+                    android:id="@+id/starbtn2"
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:layout_marginBottom="4dp"
+                    app:srcCompat="@drawable/ic_staron2_foreground" />
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="2dp"
+                android:elevation="10dp"
+                app:cardBackgroundColor="@color/botback"
+                app:cardCornerRadius="3dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/botback"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/botStartMsg_2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="5dp"
+                        android:backgroundTint="@color/botback"
+                        android:padding="3dp"
+                        android:text=""
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="8dp"
+                        android:padding="3dp"
+                        android:text="[원하는 질문을 선택하세요]"
+                        android:textColor="#000000"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/holder2_botMsg" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btn_2_1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="3dp"
+                            android:layout_marginRight="3dp"
+                            android:layout_weight="1"
+                            android:drawableLeft="@drawable/size_calender"
+                            android:paddingLeft="10dp"
+                            android:text="전형일정"
+                            android:textSize="13dp"
+                            app:backgroundTint="@color/botbutton" />
+
+                        <Button
+                            android:id="@+id/btn_2_2"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="3dp"
+                            android:layout_marginRight="3dp"
+                            android:layout_weight="1"
+                            android:drawableLeft="@drawable/size_people"
+                            android:paddingLeft="10dp"
+                            android:text="모집인원"
+                            android:textSize="13dp"
+                            app:backgroundTint="@color/botbutton" />
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

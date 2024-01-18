@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/menu_1"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_tutorial"
+            android:icon="@drawable/ic_light1_foreground"
+            android:title="튜토리얼"
+            />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/ic_map_foreground"
+            android:title="카카오 캠퍼스맵"
+            />
+        <item
+            android:id="@+id/nav_video"
+            android:icon="@drawable/ic_video_foreground"
+            android:title="전공별 홍보 영상"
+            />
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="음성안내 설정"
+            />
+        <item
+            android:id="@+id/nav_questions"
+            android:icon="@drawable/questions"
+            android:title="문의사항"
+            />
+        <item
+            android:id="@+id/nav_bookmark"
+            android:icon="@drawable/ic_star_foreground"
+            android:enabled="false"
+            android:title="북마크"
+            />
+        <item
+            android:id="@+id/nav_recommend"
+            android:icon="@drawable/ic_zoom"
+            android:enabled="false"
+            android:title="추천 질문"
+            />
+
+    </group>
+        <group
+            android:id="@+id/menu_2"
+            android:checkableBehavior="single">
+
+            <item
+                android:id = "@+id/nav_login"
+                android:enabled="true"
+                android:title="로그인"/>
+
+            <item
+                android:id = "@+id/nav_logout"
+                android:enabled="false"
+                android:title="로그아웃"/>
+        </group>
+</menu>

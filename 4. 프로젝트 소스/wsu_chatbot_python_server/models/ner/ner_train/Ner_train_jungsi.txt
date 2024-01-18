@@ -1,0 +1,6681 @@
+; 정시
+$<정시:J_JUNGSI> 
+1	정시	NNP	B_J_JUNGSI
+
+; 정시 알려줘
+$<정시:J_JUNGSI>  알려줘
+1	정시	NNP	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 알려주세요
+$<정시:J_JUNGSI>  알려주세요
+1	정시	NNP	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 알려줘봐
+$<정시:J_JUNGSI>  알려줘봐
+1	정시	NNP	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 알려줘요
+$<정시:J_JUNGSI>  알려줘요
+1	정시	NNP	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시에 대해서 알려줘
+$<정시:J_JUNGSI> 에 대해서 알려줘
+1	정시	NNP	B_J_JUNGSI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시에 대해서 알려주세요
+$<정시:J_JUNGSI> 에 대해서 알려주세요
+1	정시	NNP	B_J_JUNGSI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시에 관해서 알려줘
+$<정시:J_JUNGSI> 에 관해서 알려줘
+1	정시	NNP	B_J_JUNGSI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시를 알려줘
+$<정시:J_JUNGSI> 를 알려줘
+1	정시	NNP	B_J_JUNGSI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시전형 안내하기
+$<정시전형 안내하기:J_JUNGSI> 
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+
+; 정시전형 안내하기 알려줘
+$<정시전형 안내하기:J_JUNGSI>  알려줘
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시전형 안내하기 알려주세요
+$<정시전형 안내하기:J_JUNGSI>  알려주세요
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시전형 안내하기 알려줘봐
+$<정시전형 안내하기:J_JUNGSI>  알려줘봐
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시전형 안내하기 알려줘요
+$<정시전형 안내하기:J_JUNGSI>  알려줘요
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시전형 안내하기에 대해서 알려줘
+$<정시전형 안내하기:J_JUNGSI> 에 대해서 알려줘
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시전형 안내하기에 대해서 알려주세요
+$<정시전형 안내하기:J_JUNGSI> 에 대해서 알려주세요
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시전형 안내하기에 관해서 알려줘
+$<정시전형 안내하기:J_JUNGSI> 에 관해서 알려줘
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시전형 안내하기를 알려줘
+$<정시전형 안내하기:J_JUNGSI> 를 알려줘
+1	정시전형 안내하기	NNG	B_J_JUNGSI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 전형일정 및 모집인원 안내
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN> 
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+
+; 정시 전형일정 및 모집인원 안내 알려줘
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN>  알려줘
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 전형일정 및 모집인원 안내 알려주세요
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN>  알려주세요
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 전형일정 및 모집인원 안내 알려줘봐
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN>  알려줘봐
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 전형일정 및 모집인원 안내 알려줘요
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN>  알려줘요
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 전형일정 및 모집인원 안내에 대해서 알려줘
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN> 에 대해서 알려줘
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형일정 및 모집인원 안내에 대해서 알려주세요
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN> 에 대해서 알려주세요
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 전형일정 및 모집인원 안내에 관해서 알려줘
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN> 에 관해서 알려줘
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형일정 및 모집인원 안내를 알려줘
+$<정시 전형일정 및 모집인원 안내:J_SCHEDULESANN> 를 알려줘
+1	정시 전형일정 및 모집인원 안내	NNG	B_J_SCHEDULESANN
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 전형유형별 지원안내
+$<정시 전형유형별 지원안내:J_MODELANN> 
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+
+; 정시 전형유형별 지원안내 알려줘
+$<정시 전형유형별 지원안내:J_MODELANN>  알려줘
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 전형유형별 지원안내 알려주세요
+$<정시 전형유형별 지원안내:J_MODELANN>  알려주세요
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 전형유형별 지원안내 알려줘봐
+$<정시 전형유형별 지원안내:J_MODELANN>  알려줘봐
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 전형유형별 지원안내 알려줘요
+$<정시 전형유형별 지원안내:J_MODELANN>  알려줘요
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 전형유형별 지원안내에 대해서 알려줘
+$<정시 전형유형별 지원안내:J_MODELANN> 에 대해서 알려줘
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형유형별 지원안내에 대해서 알려주세요
+$<정시 전형유형별 지원안내:J_MODELANN> 에 대해서 알려주세요
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 전형유형별 지원안내에 관해서 알려줘
+$<정시 전형유형별 지원안내:J_MODELANN> 에 관해서 알려줘
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형유형별 지원안내를 알려줘
+$<정시 전형유형별 지원안내:J_MODELANN> 를 알려줘
+1	정시 전형유형별 지원안내	NNG	B_J_MODELANN
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 입학원서접수 및 전형료안내
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE> 
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+
+; 입학원서접수 및 전형료안내 알려줘
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE>  알려줘
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 입학원서접수 및 전형료안내 알려주세요
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE>  알려주세요
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 입학원서접수 및 전형료안내 알려줘봐
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE>  알려줘봐
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 입학원서접수 및 전형료안내 알려줘요
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE>  알려줘요
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 입학원서접수 및 전형료안내에 대해서 알려줘
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE> 에 대해서 알려줘
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학원서접수 및 전형료안내에 대해서 알려주세요
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE> 에 대해서 알려주세요
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 입학원서접수 및 전형료안내에 관해서 알려줘
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE> 에 관해서 알려줘
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학원서접수 및 전형료안내를 알려줘
+$<입학원서접수 및 전형료안내:J_ADMISSIONFREE> 를 알려줘
+1	입학원서접수 및 전형료안내	NNG	B_J_ADMISSIONFREE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 입학원서 접수 및 전형료 안내
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE> 
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+
+; 입학원서 접수 및 전형료 안내 알려줘
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE>  알려줘
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 입학원서 접수 및 전형료 안내 알려주세요
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE>  알려주세요
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 입학원서 접수 및 전형료 안내 알려줘봐
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE>  알려줘봐
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 입학원서 접수 및 전형료 안내 알려줘요
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE>  알려줘요
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 입학원서 접수 및 전형료 안내에 대해서 알려줘
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE> 에 대해서 알려줘
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학원서 접수 및 전형료 안내에 대해서 알려주세요
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE> 에 대해서 알려주세요
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 입학원서 접수 및 전형료 안내에 관해서 알려줘
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE> 에 관해서 알려줘
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학원서 접수 및 전형료 안내를 알려줘
+$<입학원서 접수 및 전형료 안내:J_ADMISSIONFREE> 를 알려줘
+1	입학원서 접수 및 전형료 안내	NNG	B_J_ADMISSIONFREE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 전형일정
+$<정시 전형일정:J_SCHEDULE> 
+1	정시 전형일정	NNG	B_J_SCHEDULE
+
+; 정시 전형일정 알려줘
+$<정시 전형일정:J_SCHEDULE>  알려줘
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 전형일정 알려주세요
+$<정시 전형일정:J_SCHEDULE>  알려주세요
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 전형일정 알려줘봐
+$<정시 전형일정:J_SCHEDULE>  알려줘봐
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 전형일정 알려줘요
+$<정시 전형일정:J_SCHEDULE>  알려줘요
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 전형일정에 대해서 알려줘
+$<정시 전형일정:J_SCHEDULE> 에 대해서 알려줘
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형일정에 대해서 알려주세요
+$<정시 전형일정:J_SCHEDULE> 에 대해서 알려주세요
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 전형일정에 관해서 알려줘
+$<정시 전형일정:J_SCHEDULE> 에 관해서 알려줘
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형일정를 알려줘
+$<정시 전형일정:J_SCHEDULE> 를 알려줘
+1	정시 전형일정	NNG	B_J_SCHEDULE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 전형
+$<정시 전형:J_SCHEDULE> 
+1	정시 전형	NNG	B_J_SCHEDULE
+
+; 정시 전형 알려줘
+$<정시 전형:J_SCHEDULE>  알려줘
+1	정시 전형	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 전형 알려주세요
+$<정시 전형:J_SCHEDULE>  알려주세요
+1	정시 전형	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 전형 알려줘봐
+$<정시 전형:J_SCHEDULE>  알려줘봐
+1	정시 전형	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 전형 알려줘요
+$<정시 전형:J_SCHEDULE>  알려줘요
+1	정시 전형	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 전형에 대해서 알려줘
+$<정시 전형:J_SCHEDULE> 에 대해서 알려줘
+1	정시 전형	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형에 대해서 알려주세요
+$<정시 전형:J_SCHEDULE> 에 대해서 알려주세요
+1	정시 전형	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 전형에 관해서 알려줘
+$<정시 전형:J_SCHEDULE> 에 관해서 알려줘
+1	정시 전형	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형를 알려줘
+$<정시 전형:J_SCHEDULE> 를 알려줘
+1	정시 전형	NNG	B_J_SCHEDULE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 일정
+$<정시 일정:J_SCHEDULE> 
+1	정시 일정	NNG	B_J_SCHEDULE
+
+; 정시 일정 알려줘
+$<정시 일정:J_SCHEDULE>  알려줘
+1	정시 일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일정 알려주세요
+$<정시 일정:J_SCHEDULE>  알려주세요
+1	정시 일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일정 알려줘봐
+$<정시 일정:J_SCHEDULE>  알려줘봐
+1	정시 일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일정 알려줘요
+$<정시 일정:J_SCHEDULE>  알려줘요
+1	정시 일정	NNG	B_J_SCHEDULE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일정에 대해서 알려줘
+$<정시 일정:J_SCHEDULE> 에 대해서 알려줘
+1	정시 일정	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일정에 대해서 알려주세요
+$<정시 일정:J_SCHEDULE> 에 대해서 알려주세요
+1	정시 일정	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일정에 관해서 알려줘
+$<정시 일정:J_SCHEDULE> 에 관해서 알려줘
+1	정시 일정	NNG	B_J_SCHEDULE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일정를 알려줘
+$<정시 일정:J_SCHEDULE> 를 알려줘
+1	정시 일정	NNG	B_J_SCHEDULE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 모집인원
+$<정시 모집인원:J_RECRUITMENT> 
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+
+; 정시 모집인원 알려줘
+$<정시 모집인원:J_RECRUITMENT>  알려줘
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 모집인원 알려주세요
+$<정시 모집인원:J_RECRUITMENT>  알려주세요
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 모집인원 알려줘봐
+$<정시 모집인원:J_RECRUITMENT>  알려줘봐
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 모집인원 알려줘요
+$<정시 모집인원:J_RECRUITMENT>  알려줘요
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 모집인원에 대해서 알려줘
+$<정시 모집인원:J_RECRUITMENT> 에 대해서 알려줘
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 모집인원에 대해서 알려주세요
+$<정시 모집인원:J_RECRUITMENT> 에 대해서 알려주세요
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 모집인원에 관해서 알려줘
+$<정시 모집인원:J_RECRUITMENT> 에 관해서 알려줘
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 모집인원를 알려줘
+$<정시 모집인원:J_RECRUITMENT> 를 알려줘
+1	정시 모집인원	NNG	B_J_RECRUITMENT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 모집
+$<정시 모집:J_RECRUITMENT> 
+1	정시 모집	NNG	B_J_RECRUITMENT
+
+; 정시 모집 알려줘
+$<정시 모집:J_RECRUITMENT>  알려줘
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 모집 알려주세요
+$<정시 모집:J_RECRUITMENT>  알려주세요
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 모집 알려줘봐
+$<정시 모집:J_RECRUITMENT>  알려줘봐
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 모집 알려줘요
+$<정시 모집:J_RECRUITMENT>  알려줘요
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 모집에 대해서 알려줘
+$<정시 모집:J_RECRUITMENT> 에 대해서 알려줘
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 모집에 대해서 알려주세요
+$<정시 모집:J_RECRUITMENT> 에 대해서 알려주세요
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 모집에 관해서 알려줘
+$<정시 모집:J_RECRUITMENT> 에 관해서 알려줘
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 모집를 알려줘
+$<정시 모집:J_RECRUITMENT> 를 알려줘
+1	정시 모집	NNG	B_J_RECRUITMENT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 인원
+$<정시 인원:J_RECRUITMENT> 
+1	정시 인원	NNG	B_J_RECRUITMENT
+
+; 정시 인원 알려줘
+$<정시 인원:J_RECRUITMENT>  알려줘
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 인원 알려주세요
+$<정시 인원:J_RECRUITMENT>  알려주세요
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 인원 알려줘봐
+$<정시 인원:J_RECRUITMENT>  알려줘봐
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 인원 알려줘요
+$<정시 인원:J_RECRUITMENT>  알려줘요
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 인원에 대해서 알려줘
+$<정시 인원:J_RECRUITMENT> 에 대해서 알려줘
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 인원에 대해서 알려주세요
+$<정시 인원:J_RECRUITMENT> 에 대해서 알려주세요
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 인원에 관해서 알려줘
+$<정시 인원:J_RECRUITMENT> 에 관해서 알려줘
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 인원를 알려줘
+$<정시 인원:J_RECRUITMENT> 를 알려줘
+1	정시 인원	NNG	B_J_RECRUITMENT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 일반전형
+$<정시 일반전형:J_GENERAL> 
+1	정시 일반전형	NNG	B_J_GENERAL
+
+; 정시 일반전형 알려줘
+$<정시 일반전형:J_GENERAL>  알려줘
+1	정시 일반전형	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반전형 알려주세요
+$<정시 일반전형:J_GENERAL>  알려주세요
+1	정시 일반전형	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반전형 알려줘봐
+$<정시 일반전형:J_GENERAL>  알려줘봐
+1	정시 일반전형	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반전형 알려줘요
+$<정시 일반전형:J_GENERAL>  알려줘요
+1	정시 일반전형	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반전형에 대해서 알려줘
+$<정시 일반전형:J_GENERAL> 에 대해서 알려줘
+1	정시 일반전형	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반전형에 대해서 알려주세요
+$<정시 일반전형:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반전형	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반전형에 관해서 알려줘
+$<정시 일반전형:J_GENERAL> 에 관해서 알려줘
+1	정시 일반전형	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반전형를 알려줘
+$<정시 일반전형:J_GENERAL> 를 알려줘
+1	정시 일반전형	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 일반
+$<정시 일반:J_GENERAL> 
+1	정시 일반	NNG	B_J_GENERAL
+
+; 정시 일반 알려줘
+$<정시 일반:J_GENERAL>  알려줘
+1	정시 일반	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반 알려주세요
+$<정시 일반:J_GENERAL>  알려주세요
+1	정시 일반	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반 알려줘봐
+$<정시 일반:J_GENERAL>  알려줘봐
+1	정시 일반	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반 알려줘요
+$<정시 일반:J_GENERAL>  알려줘요
+1	정시 일반	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반에 대해서 알려줘
+$<정시 일반:J_GENERAL> 에 대해서 알려줘
+1	정시 일반	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반에 대해서 알려주세요
+$<정시 일반:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반에 관해서 알려줘
+$<정시 일반:J_GENERAL> 에 관해서 알려줘
+1	정시 일반	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반를 알려줘
+$<정시 일반:J_GENERAL> 를 알려줘
+1	정시 일반	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 일반 가
+$<정시 일반 가:J_GENERAL> 
+1	정시 일반 가	NNG	B_J_GENERAL
+
+; 정시 일반 가 알려줘
+$<정시 일반 가:J_GENERAL>  알려줘
+1	정시 일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반 가 알려주세요
+$<정시 일반 가:J_GENERAL>  알려주세요
+1	정시 일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반 가 알려줘봐
+$<정시 일반 가:J_GENERAL>  알려줘봐
+1	정시 일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반 가 알려줘요
+$<정시 일반 가:J_GENERAL>  알려줘요
+1	정시 일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반 가에 대해서 알려줘
+$<정시 일반 가:J_GENERAL> 에 대해서 알려줘
+1	정시 일반 가	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 가에 대해서 알려주세요
+$<정시 일반 가:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반 가	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반 가에 관해서 알려줘
+$<정시 일반 가:J_GENERAL> 에 관해서 알려줘
+1	정시 일반 가	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 가를 알려줘
+$<정시 일반 가:J_GENERAL> 를 알려줘
+1	정시 일반 가	NNG	B_J_GENERAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 일반 가군
+$<정시 일반 가군:J_GENERAL> 
+1	정시 일반 가군	NNG	B_J_GENERAL
+
+; 정시 일반 가군 알려줘
+$<정시 일반 가군:J_GENERAL>  알려줘
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반 가군 알려주세요
+$<정시 일반 가군:J_GENERAL>  알려주세요
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반 가군 알려줘봐
+$<정시 일반 가군:J_GENERAL>  알려줘봐
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반 가군 알려줘요
+$<정시 일반 가군:J_GENERAL>  알려줘요
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반 가군에 대해서 알려줘
+$<정시 일반 가군:J_GENERAL> 에 대해서 알려줘
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 가군에 대해서 알려주세요
+$<정시 일반 가군:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반 가군에 관해서 알려줘
+$<정시 일반 가군:J_GENERAL> 에 관해서 알려줘
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 가군를 알려줘
+$<정시 일반 가군:J_GENERAL> 를 알려줘
+1	정시 일반 가군	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 일반 나
+$<정시 일반 나:J_GENERAL> 
+1	정시 일반 나	NNG	B_J_GENERAL
+
+; 정시 일반 나 알려줘
+$<정시 일반 나:J_GENERAL>  알려줘
+1	정시 일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반 나 알려주세요
+$<정시 일반 나:J_GENERAL>  알려주세요
+1	정시 일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반 나 알려줘봐
+$<정시 일반 나:J_GENERAL>  알려줘봐
+1	정시 일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반 나 알려줘요
+$<정시 일반 나:J_GENERAL>  알려줘요
+1	정시 일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반 나에 대해서 알려줘
+$<정시 일반 나:J_GENERAL> 에 대해서 알려줘
+1	정시 일반 나	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 나에 대해서 알려주세요
+$<정시 일반 나:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반 나	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반 나에 관해서 알려줘
+$<정시 일반 나:J_GENERAL> 에 관해서 알려줘
+1	정시 일반 나	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 나를 알려줘
+$<정시 일반 나:J_GENERAL> 를 알려줘
+1	정시 일반 나	NNG	B_J_GENERAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 일반 나군
+$<정시 일반 나군:J_GENERAL> 
+1	정시 일반 나군	NNG	B_J_GENERAL
+
+; 정시 일반 나군 알려줘
+$<정시 일반 나군:J_GENERAL>  알려줘
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반 나군 알려주세요
+$<정시 일반 나군:J_GENERAL>  알려주세요
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반 나군 알려줘봐
+$<정시 일반 나군:J_GENERAL>  알려줘봐
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반 나군 알려줘요
+$<정시 일반 나군:J_GENERAL>  알려줘요
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반 나군에 대해서 알려줘
+$<정시 일반 나군:J_GENERAL> 에 대해서 알려줘
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 나군에 대해서 알려주세요
+$<정시 일반 나군:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반 나군에 관해서 알려줘
+$<정시 일반 나군:J_GENERAL> 에 관해서 알려줘
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 나군를 알려줘
+$<정시 일반 나군:J_GENERAL> 를 알려줘
+1	정시 일반 나군	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 일반 다
+$<정시 일반 다:J_GENERAL> 
+1	정시 일반 다	NNG	B_J_GENERAL
+
+; 정시 일반 다 알려줘
+$<정시 일반 다:J_GENERAL>  알려줘
+1	정시 일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반 다 알려주세요
+$<정시 일반 다:J_GENERAL>  알려주세요
+1	정시 일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반 다 알려줘봐
+$<정시 일반 다:J_GENERAL>  알려줘봐
+1	정시 일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반 다 알려줘요
+$<정시 일반 다:J_GENERAL>  알려줘요
+1	정시 일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반 다에 대해서 알려줘
+$<정시 일반 다:J_GENERAL> 에 대해서 알려줘
+1	정시 일반 다	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 다에 대해서 알려주세요
+$<정시 일반 다:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반 다	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반 다에 관해서 알려줘
+$<정시 일반 다:J_GENERAL> 에 관해서 알려줘
+1	정시 일반 다	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 다를 알려줘
+$<정시 일반 다:J_GENERAL> 를 알려줘
+1	정시 일반 다	NNG	B_J_GENERAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 일반 다군
+$<정시 일반 다군:J_GENERAL> 
+1	정시 일반 다군	NNG	B_J_GENERAL
+
+; 정시 일반 다군 알려줘
+$<정시 일반 다군:J_GENERAL>  알려줘
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 일반 다군 알려주세요
+$<정시 일반 다군:J_GENERAL>  알려주세요
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 일반 다군 알려줘봐
+$<정시 일반 다군:J_GENERAL>  알려줘봐
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 일반 다군 알려줘요
+$<정시 일반 다군:J_GENERAL>  알려줘요
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 일반 다군에 대해서 알려줘
+$<정시 일반 다군:J_GENERAL> 에 대해서 알려줘
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 다군에 대해서 알려주세요
+$<정시 일반 다군:J_GENERAL> 에 대해서 알려주세요
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 일반 다군에 관해서 알려줘
+$<정시 일반 다군:J_GENERAL> 에 관해서 알려줘
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 일반 다군를 알려줘
+$<정시 일반 다군:J_GENERAL> 를 알려줘
+1	정시 일반 다군	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 일반 가
+$<일반 가:J_GENERAL> 
+1	일반 가	NNG	B_J_GENERAL
+
+; 일반 가 알려줘
+$<일반 가:J_GENERAL>  알려줘
+1	일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반 가 알려주세요
+$<일반 가:J_GENERAL>  알려주세요
+1	일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반 가 알려줘봐
+$<일반 가:J_GENERAL>  알려줘봐
+1	일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반 가 알려줘요
+$<일반 가:J_GENERAL>  알려줘요
+1	일반 가	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반 가에 대해서 알려줘
+$<일반 가:J_GENERAL> 에 대해서 알려줘
+1	일반 가	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 가에 대해서 알려주세요
+$<일반 가:J_GENERAL> 에 대해서 알려주세요
+1	일반 가	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반 가에 관해서 알려줘
+$<일반 가:J_GENERAL> 에 관해서 알려줘
+1	일반 가	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 가를 알려줘
+$<일반 가:J_GENERAL> 를 알려줘
+1	일반 가	NNG	B_J_GENERAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 일반 가군
+$<일반 가군:J_GENERAL> 
+1	일반 가군	NNG	B_J_GENERAL
+
+; 일반 가군 알려줘
+$<일반 가군:J_GENERAL>  알려줘
+1	일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반 가군 알려주세요
+$<일반 가군:J_GENERAL>  알려주세요
+1	일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반 가군 알려줘봐
+$<일반 가군:J_GENERAL>  알려줘봐
+1	일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반 가군 알려줘요
+$<일반 가군:J_GENERAL>  알려줘요
+1	일반 가군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반 가군에 대해서 알려줘
+$<일반 가군:J_GENERAL> 에 대해서 알려줘
+1	일반 가군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 가군에 대해서 알려주세요
+$<일반 가군:J_GENERAL> 에 대해서 알려주세요
+1	일반 가군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반 가군에 관해서 알려줘
+$<일반 가군:J_GENERAL> 에 관해서 알려줘
+1	일반 가군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 가군를 알려줘
+$<일반 가군:J_GENERAL> 를 알려줘
+1	일반 가군	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 일반 나
+$<일반 나:J_GENERAL> 
+1	일반 나	NNG	B_J_GENERAL
+
+; 일반 나 알려줘
+$<일반 나:J_GENERAL>  알려줘
+1	일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반 나 알려주세요
+$<일반 나:J_GENERAL>  알려주세요
+1	일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반 나 알려줘봐
+$<일반 나:J_GENERAL>  알려줘봐
+1	일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반 나 알려줘요
+$<일반 나:J_GENERAL>  알려줘요
+1	일반 나	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반 나에 대해서 알려줘
+$<일반 나:J_GENERAL> 에 대해서 알려줘
+1	일반 나	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 나에 대해서 알려주세요
+$<일반 나:J_GENERAL> 에 대해서 알려주세요
+1	일반 나	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반 나에 관해서 알려줘
+$<일반 나:J_GENERAL> 에 관해서 알려줘
+1	일반 나	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 나를 알려줘
+$<일반 나:J_GENERAL> 를 알려줘
+1	일반 나	NNG	B_J_GENERAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 일반 나군
+$<일반 나군:J_GENERAL> 
+1	일반 나군	NNG	B_J_GENERAL
+
+; 일반 나군 알려줘
+$<일반 나군:J_GENERAL>  알려줘
+1	일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반 나군 알려주세요
+$<일반 나군:J_GENERAL>  알려주세요
+1	일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반 나군 알려줘봐
+$<일반 나군:J_GENERAL>  알려줘봐
+1	일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반 나군 알려줘요
+$<일반 나군:J_GENERAL>  알려줘요
+1	일반 나군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반 나군에 대해서 알려줘
+$<일반 나군:J_GENERAL> 에 대해서 알려줘
+1	일반 나군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 나군에 대해서 알려주세요
+$<일반 나군:J_GENERAL> 에 대해서 알려주세요
+1	일반 나군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반 나군에 관해서 알려줘
+$<일반 나군:J_GENERAL> 에 관해서 알려줘
+1	일반 나군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 나군를 알려줘
+$<일반 나군:J_GENERAL> 를 알려줘
+1	일반 나군	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 일반 다
+$<일반 다:J_GENERAL> 
+1	일반 다	NNG	B_J_GENERAL
+
+; 일반 다 알려줘
+$<일반 다:J_GENERAL>  알려줘
+1	일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반 다 알려주세요
+$<일반 다:J_GENERAL>  알려주세요
+1	일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반 다 알려줘봐
+$<일반 다:J_GENERAL>  알려줘봐
+1	일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반 다 알려줘요
+$<일반 다:J_GENERAL>  알려줘요
+1	일반 다	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반 다에 대해서 알려줘
+$<일반 다:J_GENERAL> 에 대해서 알려줘
+1	일반 다	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 다에 대해서 알려주세요
+$<일반 다:J_GENERAL> 에 대해서 알려주세요
+1	일반 다	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반 다에 관해서 알려줘
+$<일반 다:J_GENERAL> 에 관해서 알려줘
+1	일반 다	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 다를 알려줘
+$<일반 다:J_GENERAL> 를 알려줘
+1	일반 다	NNG	B_J_GENERAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 일반 다군
+$<일반 다군:J_GENERAL> 
+1	일반 다군	NNG	B_J_GENERAL
+
+; 일반 다군 알려줘
+$<일반 다군:J_GENERAL>  알려줘
+1	일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반 다군 알려주세요
+$<일반 다군:J_GENERAL>  알려주세요
+1	일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반 다군 알려줘봐
+$<일반 다군:J_GENERAL>  알려줘봐
+1	일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반 다군 알려줘요
+$<일반 다군:J_GENERAL>  알려줘요
+1	일반 다군	NNG	B_J_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반 다군에 대해서 알려줘
+$<일반 다군:J_GENERAL> 에 대해서 알려줘
+1	일반 다군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 다군에 대해서 알려주세요
+$<일반 다군:J_GENERAL> 에 대해서 알려주세요
+1	일반 다군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반 다군에 관해서 알려줘
+$<일반 다군:J_GENERAL> 에 관해서 알려줘
+1	일반 다군	NNG	B_J_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반 다군를 알려줘
+$<일반 다군:J_GENERAL> 를 알려줘
+1	일반 다군	NNG	B_J_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 학생부위주
+$<정시 학생부위주:J_STUDENT> 
+1	정시 학생부위주	NNG	B_J_STUDENT
+
+; 정시 학생부위주 알려줘
+$<정시 학생부위주:J_STUDENT>  알려줘
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 학생부위주 알려주세요
+$<정시 학생부위주:J_STUDENT>  알려주세요
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 학생부위주 알려줘봐
+$<정시 학생부위주:J_STUDENT>  알려줘봐
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 학생부위주 알려줘요
+$<정시 학생부위주:J_STUDENT>  알려줘요
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 학생부위주에 대해서 알려줘
+$<정시 학생부위주:J_STUDENT> 에 대해서 알려줘
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 학생부위주에 대해서 알려주세요
+$<정시 학생부위주:J_STUDENT> 에 대해서 알려주세요
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 학생부위주에 관해서 알려줘
+$<정시 학생부위주:J_STUDENT> 에 관해서 알려줘
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 학생부위주를 알려줘
+$<정시 학생부위주:J_STUDENT> 를 알려줘
+1	정시 학생부위주	NNG	B_J_STUDENT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 학생부
+$<정시 학생부:J_STUDENT> 
+1	정시 학생부	NNG	B_J_STUDENT
+
+; 정시 학생부 알려줘
+$<정시 학생부:J_STUDENT>  알려줘
+1	정시 학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 학생부 알려주세요
+$<정시 학생부:J_STUDENT>  알려주세요
+1	정시 학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 학생부 알려줘봐
+$<정시 학생부:J_STUDENT>  알려줘봐
+1	정시 학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 학생부 알려줘요
+$<정시 학생부:J_STUDENT>  알려줘요
+1	정시 학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 학생부에 대해서 알려줘
+$<정시 학생부:J_STUDENT> 에 대해서 알려줘
+1	정시 학생부	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 학생부에 대해서 알려주세요
+$<정시 학생부:J_STUDENT> 에 대해서 알려주세요
+1	정시 학생부	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 학생부에 관해서 알려줘
+$<정시 학생부:J_STUDENT> 에 관해서 알려줘
+1	정시 학생부	NNG	B_J_STUDENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 학생부를 알려줘
+$<정시 학생부:J_STUDENT> 를 알려줘
+1	정시 학생부	NNG	B_J_STUDENT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 학생
+$<정시 학생:J_STUDENT> 
+1	정시 학생	NNG	B_J_STUDENT
+
+; 정시 학생 알려줘
+$<정시 학생:J_STUDENT>  알려줘
+1	정시 학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 학생 알려주세요
+$<정시 학생:J_STUDENT>  알려주세요
+1	정시 학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 학생 알려줘봐
+$<정시 학생:J_STUDENT>  알려줘봐
+1	정시 학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 학생 알려줘요
+$<정시 학생:J_STUDENT>  알려줘요
+1	정시 학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 학생에 대해서 알려줘
+$<정시 학생:J_STUDENT> 에 대해서 알려줘
+1	정시 학생	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 학생에 대해서 알려주세요
+$<정시 학생:J_STUDENT> 에 대해서 알려주세요
+1	정시 학생	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 학생에 관해서 알려줘
+$<정시 학생:J_STUDENT> 에 관해서 알려줘
+1	정시 학생	NNG	B_J_STUDENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 학생를 알려줘
+$<정시 학생:J_STUDENT> 를 알려줘
+1	정시 학생	NNG	B_J_STUDENT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 학생부위주
+$<학생부위주:J_STUDENT> 
+1	학생부위주	NNG	B_J_STUDENT
+
+; 학생부위주 알려줘
+$<학생부위주:J_STUDENT>  알려줘
+1	학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 학생부위주 알려주세요
+$<학생부위주:J_STUDENT>  알려주세요
+1	학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 학생부위주 알려줘봐
+$<학생부위주:J_STUDENT>  알려줘봐
+1	학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 학생부위주 알려줘요
+$<학생부위주:J_STUDENT>  알려줘요
+1	학생부위주	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 학생부위주에 대해서 알려줘
+$<학생부위주:J_STUDENT> 에 대해서 알려줘
+1	학생부위주	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학생부위주에 대해서 알려주세요
+$<학생부위주:J_STUDENT> 에 대해서 알려주세요
+1	학생부위주	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 학생부위주에 관해서 알려줘
+$<학생부위주:J_STUDENT> 에 관해서 알려줘
+1	학생부위주	NNG	B_J_STUDENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학생부위주를 알려줘
+$<학생부위주:J_STUDENT> 를 알려줘
+1	학생부위주	NNG	B_J_STUDENT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 학생부
+$<학생부:J_STUDENT> 
+1	학생부	NNG	B_J_STUDENT
+
+; 학생부 알려줘
+$<학생부:J_STUDENT>  알려줘
+1	학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 학생부 알려주세요
+$<학생부:J_STUDENT>  알려주세요
+1	학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 학생부 알려줘봐
+$<학생부:J_STUDENT>  알려줘봐
+1	학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 학생부 알려줘요
+$<학생부:J_STUDENT>  알려줘요
+1	학생부	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 학생부에 대해서 알려줘
+$<학생부:J_STUDENT> 에 대해서 알려줘
+1	학생부	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학생부에 대해서 알려주세요
+$<학생부:J_STUDENT> 에 대해서 알려주세요
+1	학생부	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 학생부에 관해서 알려줘
+$<학생부:J_STUDENT> 에 관해서 알려줘
+1	학생부	NNG	B_J_STUDENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학생부를 알려줘
+$<학생부:J_STUDENT> 를 알려줘
+1	학생부	NNG	B_J_STUDENT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 학생
+$<학생:J_STUDENT> 
+1	학생	NNG	B_J_STUDENT
+
+; 학생 알려줘
+$<학생:J_STUDENT>  알려줘
+1	학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 학생 알려주세요
+$<학생:J_STUDENT>  알려주세요
+1	학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 학생 알려줘봐
+$<학생:J_STUDENT>  알려줘봐
+1	학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 학생 알려줘요
+$<학생:J_STUDENT>  알려줘요
+1	학생	NNG	B_J_STUDENT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 학생에 대해서 알려줘
+$<학생:J_STUDENT> 에 대해서 알려줘
+1	학생	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학생에 대해서 알려주세요
+$<학생:J_STUDENT> 에 대해서 알려주세요
+1	학생	NNG	B_J_STUDENT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 학생에 관해서 알려줘
+$<학생:J_STUDENT> 에 관해서 알려줘
+1	학생	NNG	B_J_STUDENT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학생를 알려줘
+$<학생:J_STUDENT> 를 알려줘
+1	학생	NNG	B_J_STUDENT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 농어촌학생
+$<정시 농어촌학생:J_VILLAGE> 
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+
+; 정시 농어촌학생 알려줘
+$<정시 농어촌학생:J_VILLAGE>  알려줘
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 농어촌학생 알려주세요
+$<정시 농어촌학생:J_VILLAGE>  알려주세요
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 농어촌학생 알려줘봐
+$<정시 농어촌학생:J_VILLAGE>  알려줘봐
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 농어촌학생 알려줘요
+$<정시 농어촌학생:J_VILLAGE>  알려줘요
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 농어촌학생에 대해서 알려줘
+$<정시 농어촌학생:J_VILLAGE> 에 대해서 알려줘
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 농어촌학생에 대해서 알려주세요
+$<정시 농어촌학생:J_VILLAGE> 에 대해서 알려주세요
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 농어촌학생에 관해서 알려줘
+$<정시 농어촌학생:J_VILLAGE> 에 관해서 알려줘
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 농어촌학생를 알려줘
+$<정시 농어촌학생:J_VILLAGE> 를 알려줘
+1	정시 농어촌학생	NNG	B_J_VILLAGE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 농어촌
+$<정시 농어촌:J_VILLAGE> 
+1	정시 농어촌	NNG	B_J_VILLAGE
+
+; 정시 농어촌 알려줘
+$<정시 농어촌:J_VILLAGE>  알려줘
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 농어촌 알려주세요
+$<정시 농어촌:J_VILLAGE>  알려주세요
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 농어촌 알려줘봐
+$<정시 농어촌:J_VILLAGE>  알려줘봐
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 농어촌 알려줘요
+$<정시 농어촌:J_VILLAGE>  알려줘요
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 농어촌에 대해서 알려줘
+$<정시 농어촌:J_VILLAGE> 에 대해서 알려줘
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 농어촌에 대해서 알려주세요
+$<정시 농어촌:J_VILLAGE> 에 대해서 알려주세요
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 농어촌에 관해서 알려줘
+$<정시 농어촌:J_VILLAGE> 에 관해서 알려줘
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 농어촌를 알려줘
+$<정시 농어촌:J_VILLAGE> 를 알려줘
+1	정시 농어촌	NNG	B_J_VILLAGE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 특성화고교졸업자
+$<정시 특성화고교졸업자:J_CHARA> 
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+
+; 정시 특성화고교졸업자 알려줘
+$<정시 특성화고교졸업자:J_CHARA>  알려줘
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 특성화고교졸업자 알려주세요
+$<정시 특성화고교졸업자:J_CHARA>  알려주세요
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 특성화고교졸업자 알려줘봐
+$<정시 특성화고교졸업자:J_CHARA>  알려줘봐
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 특성화고교졸업자 알려줘요
+$<정시 특성화고교졸업자:J_CHARA>  알려줘요
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 특성화고교졸업자에 대해서 알려줘
+$<정시 특성화고교졸업자:J_CHARA> 에 대해서 알려줘
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특성화고교졸업자에 대해서 알려주세요
+$<정시 특성화고교졸업자:J_CHARA> 에 대해서 알려주세요
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 특성화고교졸업자에 관해서 알려줘
+$<정시 특성화고교졸업자:J_CHARA> 에 관해서 알려줘
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특성화고교졸업자를 알려줘
+$<정시 특성화고교졸업자:J_CHARA> 를 알려줘
+1	정시 특성화고교졸업자	NNG	B_J_CHARA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 특성화
+$<정시 특성화:J_CHARA> 
+1	정시 특성화	NNG	B_J_CHARA
+
+; 정시 특성화 알려줘
+$<정시 특성화:J_CHARA>  알려줘
+1	정시 특성화	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 특성화 알려주세요
+$<정시 특성화:J_CHARA>  알려주세요
+1	정시 특성화	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 특성화 알려줘봐
+$<정시 특성화:J_CHARA>  알려줘봐
+1	정시 특성화	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 특성화 알려줘요
+$<정시 특성화:J_CHARA>  알려줘요
+1	정시 특성화	NNG	B_J_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 특성화에 대해서 알려줘
+$<정시 특성화:J_CHARA> 에 대해서 알려줘
+1	정시 특성화	NNG	B_J_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특성화에 대해서 알려주세요
+$<정시 특성화:J_CHARA> 에 대해서 알려주세요
+1	정시 특성화	NNG	B_J_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 특성화에 관해서 알려줘
+$<정시 특성화:J_CHARA> 에 관해서 알려줘
+1	정시 특성화	NNG	B_J_CHARA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특성화를 알려줘
+$<정시 특성화:J_CHARA> 를 알려줘
+1	정시 특성화	NNG	B_J_CHARA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 기초생활수급자 및 차상위계층
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION> 
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+
+; 정시 기초생활수급자 및 차상위계층 알려줘
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION>  알려줘
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 기초생활수급자 및 차상위계층 알려주세요
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION>  알려주세요
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 기초생활수급자 및 차상위계층 알려줘봐
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION>  알려줘봐
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 기초생활수급자 및 차상위계층 알려줘요
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION>  알려줘요
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 기초생활수급자 및 차상위계층에 대해서 알려줘
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION> 에 대해서 알려줘
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초생활수급자 및 차상위계층에 대해서 알려주세요
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION> 에 대해서 알려주세요
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 기초생활수급자 및 차상위계층에 관해서 알려줘
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION> 에 관해서 알려줘
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초생활수급자 및 차상위계층를 알려줘
+$<정시 기초생활수급자 및 차상위계층:J_FOUNDATION> 를 알려줘
+1	정시 기초생활수급자 및 차상위계층	NNG	B_J_FOUNDATION
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 기초생활수급자
+$<정시 기초생활수급자:J_FOUNDATION> 
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+
+; 정시 기초생활수급자 알려줘
+$<정시 기초생활수급자:J_FOUNDATION>  알려줘
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 기초생활수급자 알려주세요
+$<정시 기초생활수급자:J_FOUNDATION>  알려주세요
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 기초생활수급자 알려줘봐
+$<정시 기초생활수급자:J_FOUNDATION>  알려줘봐
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 기초생활수급자 알려줘요
+$<정시 기초생활수급자:J_FOUNDATION>  알려줘요
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 기초생활수급자에 대해서 알려줘
+$<정시 기초생활수급자:J_FOUNDATION> 에 대해서 알려줘
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초생활수급자에 대해서 알려주세요
+$<정시 기초생활수급자:J_FOUNDATION> 에 대해서 알려주세요
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 기초생활수급자에 관해서 알려줘
+$<정시 기초생활수급자:J_FOUNDATION> 에 관해서 알려줘
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초생활수급자를 알려줘
+$<정시 기초생활수급자:J_FOUNDATION> 를 알려줘
+1	정시 기초생활수급자	NNG	B_J_FOUNDATION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 기초생활
+$<정시 기초생활:J_FOUNDATION> 
+1	정시 기초생활	NNG	B_J_FOUNDATION
+
+; 정시 기초생활 알려줘
+$<정시 기초생활:J_FOUNDATION>  알려줘
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 기초생활 알려주세요
+$<정시 기초생활:J_FOUNDATION>  알려주세요
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 기초생활 알려줘봐
+$<정시 기초생활:J_FOUNDATION>  알려줘봐
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 기초생활 알려줘요
+$<정시 기초생활:J_FOUNDATION>  알려줘요
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 기초생활에 대해서 알려줘
+$<정시 기초생활:J_FOUNDATION> 에 대해서 알려줘
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초생활에 대해서 알려주세요
+$<정시 기초생활:J_FOUNDATION> 에 대해서 알려주세요
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 기초생활에 관해서 알려줘
+$<정시 기초생활:J_FOUNDATION> 에 관해서 알려줘
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초생활를 알려줘
+$<정시 기초생활:J_FOUNDATION> 를 알려줘
+1	정시 기초생활	NNG	B_J_FOUNDATION
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 기초
+$<정시 기초:J_FOUNDATION> 
+1	정시 기초	NNG	B_J_FOUNDATION
+
+; 정시 기초 알려줘
+$<정시 기초:J_FOUNDATION>  알려줘
+1	정시 기초	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 기초 알려주세요
+$<정시 기초:J_FOUNDATION>  알려주세요
+1	정시 기초	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 기초 알려줘봐
+$<정시 기초:J_FOUNDATION>  알려줘봐
+1	정시 기초	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 기초 알려줘요
+$<정시 기초:J_FOUNDATION>  알려줘요
+1	정시 기초	NNG	B_J_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 기초에 대해서 알려줘
+$<정시 기초:J_FOUNDATION> 에 대해서 알려줘
+1	정시 기초	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초에 대해서 알려주세요
+$<정시 기초:J_FOUNDATION> 에 대해서 알려주세요
+1	정시 기초	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 기초에 관해서 알려줘
+$<정시 기초:J_FOUNDATION> 에 관해서 알려줘
+1	정시 기초	NNG	B_J_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 기초를 알려줘
+$<정시 기초:J_FOUNDATION> 를 알려줘
+1	정시 기초	NNG	B_J_FOUNDATION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 특수교육대상자
+$<정시 특수교육대상자:J_EDUCATION> 
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+
+; 정시 특수교육대상자 알려줘
+$<정시 특수교육대상자:J_EDUCATION>  알려줘
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 특수교육대상자 알려주세요
+$<정시 특수교육대상자:J_EDUCATION>  알려주세요
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 특수교육대상자 알려줘봐
+$<정시 특수교육대상자:J_EDUCATION>  알려줘봐
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 특수교육대상자 알려줘요
+$<정시 특수교육대상자:J_EDUCATION>  알려줘요
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 특수교육대상자에 대해서 알려줘
+$<정시 특수교육대상자:J_EDUCATION> 에 대해서 알려줘
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특수교육대상자에 대해서 알려주세요
+$<정시 특수교육대상자:J_EDUCATION> 에 대해서 알려주세요
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 특수교육대상자에 관해서 알려줘
+$<정시 특수교육대상자:J_EDUCATION> 에 관해서 알려줘
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특수교육대상자를 알려줘
+$<정시 특수교육대상자:J_EDUCATION> 를 알려줘
+1	정시 특수교육대상자	NNG	B_J_EDUCATION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 특수교육
+$<정시 특수교육:J_EDUCATION> 
+1	정시 특수교육	NNG	B_J_EDUCATION
+
+; 정시 특수교육 알려줘
+$<정시 특수교육:J_EDUCATION>  알려줘
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 특수교육 알려주세요
+$<정시 특수교육:J_EDUCATION>  알려주세요
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 특수교육 알려줘봐
+$<정시 특수교육:J_EDUCATION>  알려줘봐
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 특수교육 알려줘요
+$<정시 특수교육:J_EDUCATION>  알려줘요
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 특수교육에 대해서 알려줘
+$<정시 특수교육:J_EDUCATION> 에 대해서 알려줘
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특수교육에 대해서 알려주세요
+$<정시 특수교육:J_EDUCATION> 에 대해서 알려주세요
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 특수교육에 관해서 알려줘
+$<정시 특수교육:J_EDUCATION> 에 관해서 알려줘
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 특수교육를 알려줘
+$<정시 특수교육:J_EDUCATION> 를 알려줘
+1	정시 특수교육	NNG	B_J_EDUCATION
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 특수교육대상자
+$<특수교육대상자:J_EDUCATION> 
+1	특수교육대상자	NNG	B_J_EDUCATION
+
+; 특수교육대상자 알려줘
+$<특수교육대상자:J_EDUCATION>  알려줘
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 특수교육대상자 알려주세요
+$<특수교육대상자:J_EDUCATION>  알려주세요
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 특수교육대상자 알려줘봐
+$<특수교육대상자:J_EDUCATION>  알려줘봐
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 특수교육대상자 알려줘요
+$<특수교육대상자:J_EDUCATION>  알려줘요
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 특수교육대상자에 대해서 알려줘
+$<특수교육대상자:J_EDUCATION> 에 대해서 알려줘
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특수교육대상자에 대해서 알려주세요
+$<특수교육대상자:J_EDUCATION> 에 대해서 알려주세요
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 특수교육대상자에 관해서 알려줘
+$<특수교육대상자:J_EDUCATION> 에 관해서 알려줘
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특수교육대상자를 알려줘
+$<특수교육대상자:J_EDUCATION> 를 알려줘
+1	특수교육대상자	NNG	B_J_EDUCATION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 특수교육
+$<특수교육:J_EDUCATION> 
+1	특수교육	NNG	B_J_EDUCATION
+
+; 특수교육 알려줘
+$<특수교육:J_EDUCATION>  알려줘
+1	특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 특수교육 알려주세요
+$<특수교육:J_EDUCATION>  알려주세요
+1	특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 특수교육 알려줘봐
+$<특수교육:J_EDUCATION>  알려줘봐
+1	특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 특수교육 알려줘요
+$<특수교육:J_EDUCATION>  알려줘요
+1	특수교육	NNG	B_J_EDUCATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 특수교육에 대해서 알려줘
+$<특수교육:J_EDUCATION> 에 대해서 알려줘
+1	특수교육	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특수교육에 대해서 알려주세요
+$<특수교육:J_EDUCATION> 에 대해서 알려주세요
+1	특수교육	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 특수교육에 관해서 알려줘
+$<특수교육:J_EDUCATION> 에 관해서 알려줘
+1	특수교육	NNG	B_J_EDUCATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특수교육를 알려줘
+$<특수교육:J_EDUCATION> 를 알려줘
+1	특수교육	NNG	B_J_EDUCATION
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 수능시험 점수
+$<정시 수능시험 점수:J_METHOD> 
+1	정시 수능시험 점수	NNG	B_J_METHOD
+
+; 정시 수능시험 점수 알려줘
+$<정시 수능시험 점수:J_METHOD>  알려줘
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 수능시험 점수 알려주세요
+$<정시 수능시험 점수:J_METHOD>  알려주세요
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 수능시험 점수 알려줘봐
+$<정시 수능시험 점수:J_METHOD>  알려줘봐
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 수능시험 점수 알려줘요
+$<정시 수능시험 점수:J_METHOD>  알려줘요
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 수능시험 점수에 대해서 알려줘
+$<정시 수능시험 점수:J_METHOD> 에 대해서 알려줘
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능시험 점수에 대해서 알려주세요
+$<정시 수능시험 점수:J_METHOD> 에 대해서 알려주세요
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 수능시험 점수에 관해서 알려줘
+$<정시 수능시험 점수:J_METHOD> 에 관해서 알려줘
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능시험 점수를 알려줘
+$<정시 수능시험 점수:J_METHOD> 를 알려줘
+1	정시 수능시험 점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 반영
+$<정시 반영:J_METHOD> 
+1	정시 반영	NNG	B_J_METHOD
+
+; 정시 반영 알려줘
+$<정시 반영:J_METHOD>  알려줘
+1	정시 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 반영 알려주세요
+$<정시 반영:J_METHOD>  알려주세요
+1	정시 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 반영 알려줘봐
+$<정시 반영:J_METHOD>  알려줘봐
+1	정시 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 반영 알려줘요
+$<정시 반영:J_METHOD>  알려줘요
+1	정시 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 반영에 대해서 알려줘
+$<정시 반영:J_METHOD> 에 대해서 알려줘
+1	정시 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 반영에 대해서 알려주세요
+$<정시 반영:J_METHOD> 에 대해서 알려주세요
+1	정시 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 반영에 관해서 알려줘
+$<정시 반영:J_METHOD> 에 관해서 알려줘
+1	정시 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 반영를 알려줘
+$<정시 반영:J_METHOD> 를 알려줘
+1	정시 반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 점수 반영
+$<정시 점수 반영:J_METHOD> 
+1	정시 점수 반영	NNG	B_J_METHOD
+
+; 정시 점수 반영 알려줘
+$<정시 점수 반영:J_METHOD>  알려줘
+1	정시 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 점수 반영 알려주세요
+$<정시 점수 반영:J_METHOD>  알려주세요
+1	정시 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 점수 반영 알려줘봐
+$<정시 점수 반영:J_METHOD>  알려줘봐
+1	정시 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 점수 반영 알려줘요
+$<정시 점수 반영:J_METHOD>  알려줘요
+1	정시 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 점수 반영에 대해서 알려줘
+$<정시 점수 반영:J_METHOD> 에 대해서 알려줘
+1	정시 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 점수 반영에 대해서 알려주세요
+$<정시 점수 반영:J_METHOD> 에 대해서 알려주세요
+1	정시 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 점수 반영에 관해서 알려줘
+$<정시 점수 반영:J_METHOD> 에 관해서 알려줘
+1	정시 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 점수 반영를 알려줘
+$<정시 점수 반영:J_METHOD> 를 알려줘
+1	정시 점수 반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 점수
+$<정시 점수:J_METHOD> 
+1	정시 점수	NNG	B_J_METHOD
+
+; 정시 점수 알려줘
+$<정시 점수:J_METHOD>  알려줘
+1	정시 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 점수 알려주세요
+$<정시 점수:J_METHOD>  알려주세요
+1	정시 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 점수 알려줘봐
+$<정시 점수:J_METHOD>  알려줘봐
+1	정시 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 점수 알려줘요
+$<정시 점수:J_METHOD>  알려줘요
+1	정시 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 점수에 대해서 알려줘
+$<정시 점수:J_METHOD> 에 대해서 알려줘
+1	정시 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 점수에 대해서 알려주세요
+$<정시 점수:J_METHOD> 에 대해서 알려주세요
+1	정시 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 점수에 관해서 알려줘
+$<정시 점수:J_METHOD> 에 관해서 알려줘
+1	정시 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 점수를 알려줘
+$<정시 점수:J_METHOD> 를 알려줘
+1	정시 점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 수능점수
+$<정시 수능점수:J_METHOD> 
+1	정시 수능점수	NNG	B_J_METHOD
+
+; 정시 수능점수 알려줘
+$<정시 수능점수:J_METHOD>  알려줘
+1	정시 수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 수능점수 알려주세요
+$<정시 수능점수:J_METHOD>  알려주세요
+1	정시 수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 수능점수 알려줘봐
+$<정시 수능점수:J_METHOD>  알려줘봐
+1	정시 수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 수능점수 알려줘요
+$<정시 수능점수:J_METHOD>  알려줘요
+1	정시 수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 수능점수에 대해서 알려줘
+$<정시 수능점수:J_METHOD> 에 대해서 알려줘
+1	정시 수능점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능점수에 대해서 알려주세요
+$<정시 수능점수:J_METHOD> 에 대해서 알려주세요
+1	정시 수능점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 수능점수에 관해서 알려줘
+$<정시 수능점수:J_METHOD> 에 관해서 알려줘
+1	정시 수능점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능점수를 알려줘
+$<정시 수능점수:J_METHOD> 를 알려줘
+1	정시 수능점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 수능 점수
+$<정시 수능 점수:J_METHOD> 
+1	정시 수능 점수	NNG	B_J_METHOD
+
+; 정시 수능 점수 알려줘
+$<정시 수능 점수:J_METHOD>  알려줘
+1	정시 수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 수능 점수 알려주세요
+$<정시 수능 점수:J_METHOD>  알려주세요
+1	정시 수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 수능 점수 알려줘봐
+$<정시 수능 점수:J_METHOD>  알려줘봐
+1	정시 수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 수능 점수 알려줘요
+$<정시 수능 점수:J_METHOD>  알려줘요
+1	정시 수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 수능 점수에 대해서 알려줘
+$<정시 수능 점수:J_METHOD> 에 대해서 알려줘
+1	정시 수능 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능 점수에 대해서 알려주세요
+$<정시 수능 점수:J_METHOD> 에 대해서 알려주세요
+1	정시 수능 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 수능 점수에 관해서 알려줘
+$<정시 수능 점수:J_METHOD> 에 관해서 알려줘
+1	정시 수능 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능 점수를 알려줘
+$<정시 수능 점수:J_METHOD> 를 알려줘
+1	정시 수능 점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 수능점수반영
+$<정시 수능점수반영:J_METHOD> 
+1	정시 수능점수반영	NNG	B_J_METHOD
+
+; 정시 수능점수반영 알려줘
+$<정시 수능점수반영:J_METHOD>  알려줘
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 수능점수반영 알려주세요
+$<정시 수능점수반영:J_METHOD>  알려주세요
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 수능점수반영 알려줘봐
+$<정시 수능점수반영:J_METHOD>  알려줘봐
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 수능점수반영 알려줘요
+$<정시 수능점수반영:J_METHOD>  알려줘요
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 수능점수반영에 대해서 알려줘
+$<정시 수능점수반영:J_METHOD> 에 대해서 알려줘
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능점수반영에 대해서 알려주세요
+$<정시 수능점수반영:J_METHOD> 에 대해서 알려주세요
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 수능점수반영에 관해서 알려줘
+$<정시 수능점수반영:J_METHOD> 에 관해서 알려줘
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능점수반영를 알려줘
+$<정시 수능점수반영:J_METHOD> 를 알려줘
+1	정시 수능점수반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 수능 점수 반영
+$<정시 수능 점수 반영:J_METHOD> 
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+
+; 정시 수능 점수 반영 알려줘
+$<정시 수능 점수 반영:J_METHOD>  알려줘
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 수능 점수 반영 알려주세요
+$<정시 수능 점수 반영:J_METHOD>  알려주세요
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 수능 점수 반영 알려줘봐
+$<정시 수능 점수 반영:J_METHOD>  알려줘봐
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 수능 점수 반영 알려줘요
+$<정시 수능 점수 반영:J_METHOD>  알려줘요
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 수능 점수 반영에 대해서 알려줘
+$<정시 수능 점수 반영:J_METHOD> 에 대해서 알려줘
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능 점수 반영에 대해서 알려주세요
+$<정시 수능 점수 반영:J_METHOD> 에 대해서 알려주세요
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 수능 점수 반영에 관해서 알려줘
+$<정시 수능 점수 반영:J_METHOD> 에 관해서 알려줘
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능 점수 반영를 알려줘
+$<정시 수능 점수 반영:J_METHOD> 를 알려줘
+1	정시 수능 점수 반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 수능시험 반영 방법 및 점수
+$<정시 수능시험 반영 방법 및 점수:J_METHOD> 
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+
+; 정시 수능시험 반영 방법 및 점수 알려줘
+$<정시 수능시험 반영 방법 및 점수:J_METHOD>  알려줘
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 수능시험 반영 방법 및 점수 알려주세요
+$<정시 수능시험 반영 방법 및 점수:J_METHOD>  알려주세요
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 수능시험 반영 방법 및 점수 알려줘봐
+$<정시 수능시험 반영 방법 및 점수:J_METHOD>  알려줘봐
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 수능시험 반영 방법 및 점수 알려줘요
+$<정시 수능시험 반영 방법 및 점수:J_METHOD>  알려줘요
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 수능시험 반영 방법 및 점수에 대해서 알려줘
+$<정시 수능시험 반영 방법 및 점수:J_METHOD> 에 대해서 알려줘
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능시험 반영 방법 및 점수에 대해서 알려주세요
+$<정시 수능시험 반영 방법 및 점수:J_METHOD> 에 대해서 알려주세요
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 수능시험 반영 방법 및 점수에 관해서 알려줘
+$<정시 수능시험 반영 방법 및 점수:J_METHOD> 에 관해서 알려줘
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 수능시험 반영 방법 및 점수를 알려줘
+$<정시 수능시험 반영 방법 및 점수:J_METHOD> 를 알려줘
+1	정시 수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 수능시험 점수
+$<수능시험 점수:J_METHOD> 
+1	수능시험 점수	NNG	B_J_METHOD
+
+; 수능시험 점수 알려줘
+$<수능시험 점수:J_METHOD>  알려줘
+1	수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 수능시험 점수 알려주세요
+$<수능시험 점수:J_METHOD>  알려주세요
+1	수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 수능시험 점수 알려줘봐
+$<수능시험 점수:J_METHOD>  알려줘봐
+1	수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 수능시험 점수 알려줘요
+$<수능시험 점수:J_METHOD>  알려줘요
+1	수능시험 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 수능시험 점수에 대해서 알려줘
+$<수능시험 점수:J_METHOD> 에 대해서 알려줘
+1	수능시험 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능시험 점수에 대해서 알려주세요
+$<수능시험 점수:J_METHOD> 에 대해서 알려주세요
+1	수능시험 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 수능시험 점수에 관해서 알려줘
+$<수능시험 점수:J_METHOD> 에 관해서 알려줘
+1	수능시험 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능시험 점수를 알려줘
+$<수능시험 점수:J_METHOD> 를 알려줘
+1	수능시험 점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 반영
+$<반영:J_METHOD> 
+1	반영	NNG	B_J_METHOD
+
+; 반영 알려줘
+$<반영:J_METHOD>  알려줘
+1	반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 반영 알려주세요
+$<반영:J_METHOD>  알려주세요
+1	반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 반영 알려줘봐
+$<반영:J_METHOD>  알려줘봐
+1	반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 반영 알려줘요
+$<반영:J_METHOD>  알려줘요
+1	반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 반영에 대해서 알려줘
+$<반영:J_METHOD> 에 대해서 알려줘
+1	반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 반영에 대해서 알려주세요
+$<반영:J_METHOD> 에 대해서 알려주세요
+1	반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 반영에 관해서 알려줘
+$<반영:J_METHOD> 에 관해서 알려줘
+1	반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 반영를 알려줘
+$<반영:J_METHOD> 를 알려줘
+1	반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 점수 반영
+$<점수 반영:J_METHOD> 
+1	점수 반영	NNG	B_J_METHOD
+
+; 점수 반영 알려줘
+$<점수 반영:J_METHOD>  알려줘
+1	점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 점수 반영 알려주세요
+$<점수 반영:J_METHOD>  알려주세요
+1	점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 점수 반영 알려줘봐
+$<점수 반영:J_METHOD>  알려줘봐
+1	점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 점수 반영 알려줘요
+$<점수 반영:J_METHOD>  알려줘요
+1	점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 점수 반영에 대해서 알려줘
+$<점수 반영:J_METHOD> 에 대해서 알려줘
+1	점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 점수 반영에 대해서 알려주세요
+$<점수 반영:J_METHOD> 에 대해서 알려주세요
+1	점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 점수 반영에 관해서 알려줘
+$<점수 반영:J_METHOD> 에 관해서 알려줘
+1	점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 점수 반영를 알려줘
+$<점수 반영:J_METHOD> 를 알려줘
+1	점수 반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 점수
+$<점수:J_METHOD> 
+1	점수	NNG	B_J_METHOD
+
+; 점수 알려줘
+$<점수:J_METHOD>  알려줘
+1	점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 점수 알려주세요
+$<점수:J_METHOD>  알려주세요
+1	점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 점수 알려줘봐
+$<점수:J_METHOD>  알려줘봐
+1	점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 점수 알려줘요
+$<점수:J_METHOD>  알려줘요
+1	점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 점수에 대해서 알려줘
+$<점수:J_METHOD> 에 대해서 알려줘
+1	점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 점수에 대해서 알려주세요
+$<점수:J_METHOD> 에 대해서 알려주세요
+1	점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 점수에 관해서 알려줘
+$<점수:J_METHOD> 에 관해서 알려줘
+1	점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 점수를 알려줘
+$<점수:J_METHOD> 를 알려줘
+1	점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 수능점수
+$<수능점수:J_METHOD> 
+1	수능점수	NNG	B_J_METHOD
+
+; 수능점수 알려줘
+$<수능점수:J_METHOD>  알려줘
+1	수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 수능점수 알려주세요
+$<수능점수:J_METHOD>  알려주세요
+1	수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 수능점수 알려줘봐
+$<수능점수:J_METHOD>  알려줘봐
+1	수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 수능점수 알려줘요
+$<수능점수:J_METHOD>  알려줘요
+1	수능점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 수능점수에 대해서 알려줘
+$<수능점수:J_METHOD> 에 대해서 알려줘
+1	수능점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능점수에 대해서 알려주세요
+$<수능점수:J_METHOD> 에 대해서 알려주세요
+1	수능점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 수능점수에 관해서 알려줘
+$<수능점수:J_METHOD> 에 관해서 알려줘
+1	수능점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능점수를 알려줘
+$<수능점수:J_METHOD> 를 알려줘
+1	수능점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 수능 점수
+$<수능 점수:J_METHOD> 
+1	수능 점수	NNG	B_J_METHOD
+
+; 수능 점수 알려줘
+$<수능 점수:J_METHOD>  알려줘
+1	수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 수능 점수 알려주세요
+$<수능 점수:J_METHOD>  알려주세요
+1	수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 수능 점수 알려줘봐
+$<수능 점수:J_METHOD>  알려줘봐
+1	수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 수능 점수 알려줘요
+$<수능 점수:J_METHOD>  알려줘요
+1	수능 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 수능 점수에 대해서 알려줘
+$<수능 점수:J_METHOD> 에 대해서 알려줘
+1	수능 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능 점수에 대해서 알려주세요
+$<수능 점수:J_METHOD> 에 대해서 알려주세요
+1	수능 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 수능 점수에 관해서 알려줘
+$<수능 점수:J_METHOD> 에 관해서 알려줘
+1	수능 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능 점수를 알려줘
+$<수능 점수:J_METHOD> 를 알려줘
+1	수능 점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 수능점수반영
+$<수능점수반영:J_METHOD> 
+1	수능점수반영	NNG	B_J_METHOD
+
+; 수능점수반영 알려줘
+$<수능점수반영:J_METHOD>  알려줘
+1	수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 수능점수반영 알려주세요
+$<수능점수반영:J_METHOD>  알려주세요
+1	수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 수능점수반영 알려줘봐
+$<수능점수반영:J_METHOD>  알려줘봐
+1	수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 수능점수반영 알려줘요
+$<수능점수반영:J_METHOD>  알려줘요
+1	수능점수반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 수능점수반영에 대해서 알려줘
+$<수능점수반영:J_METHOD> 에 대해서 알려줘
+1	수능점수반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능점수반영에 대해서 알려주세요
+$<수능점수반영:J_METHOD> 에 대해서 알려주세요
+1	수능점수반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 수능점수반영에 관해서 알려줘
+$<수능점수반영:J_METHOD> 에 관해서 알려줘
+1	수능점수반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능점수반영를 알려줘
+$<수능점수반영:J_METHOD> 를 알려줘
+1	수능점수반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 수능 점수 반영
+$<수능 점수 반영:J_METHOD> 
+1	수능 점수 반영	NNG	B_J_METHOD
+
+; 수능 점수 반영 알려줘
+$<수능 점수 반영:J_METHOD>  알려줘
+1	수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 수능 점수 반영 알려주세요
+$<수능 점수 반영:J_METHOD>  알려주세요
+1	수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 수능 점수 반영 알려줘봐
+$<수능 점수 반영:J_METHOD>  알려줘봐
+1	수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 수능 점수 반영 알려줘요
+$<수능 점수 반영:J_METHOD>  알려줘요
+1	수능 점수 반영	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 수능 점수 반영에 대해서 알려줘
+$<수능 점수 반영:J_METHOD> 에 대해서 알려줘
+1	수능 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능 점수 반영에 대해서 알려주세요
+$<수능 점수 반영:J_METHOD> 에 대해서 알려주세요
+1	수능 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 수능 점수 반영에 관해서 알려줘
+$<수능 점수 반영:J_METHOD> 에 관해서 알려줘
+1	수능 점수 반영	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능 점수 반영를 알려줘
+$<수능 점수 반영:J_METHOD> 를 알려줘
+1	수능 점수 반영	NNG	B_J_METHOD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 수능시험 반영 방법 및 점수
+$<수능시험 반영 방법 및 점수:J_METHOD> 
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+
+; 수능시험 반영 방법 및 점수 알려줘
+$<수능시험 반영 방법 및 점수:J_METHOD>  알려줘
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 수능시험 반영 방법 및 점수 알려주세요
+$<수능시험 반영 방법 및 점수:J_METHOD>  알려주세요
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 수능시험 반영 방법 및 점수 알려줘봐
+$<수능시험 반영 방법 및 점수:J_METHOD>  알려줘봐
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 수능시험 반영 방법 및 점수 알려줘요
+$<수능시험 반영 방법 및 점수:J_METHOD>  알려줘요
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 수능시험 반영 방법 및 점수에 대해서 알려줘
+$<수능시험 반영 방법 및 점수:J_METHOD> 에 대해서 알려줘
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능시험 반영 방법 및 점수에 대해서 알려주세요
+$<수능시험 반영 방법 및 점수:J_METHOD> 에 대해서 알려주세요
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 수능시험 반영 방법 및 점수에 관해서 알려줘
+$<수능시험 반영 방법 및 점수:J_METHOD> 에 관해서 알려줘
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 수능시험 반영 방법 및 점수를 알려줘
+$<수능시험 반영 방법 및 점수:J_METHOD> 를 알려줘
+1	수능시험 반영 방법 및 점수	NNG	B_J_METHOD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 등급컷
+$<정시 등급컷:J_GRADE> 
+1	정시 등급컷	NNG	B_J_GRADE
+
+; 정시 등급컷 알려줘
+$<정시 등급컷:J_GRADE>  알려줘
+1	정시 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 등급컷 알려주세요
+$<정시 등급컷:J_GRADE>  알려주세요
+1	정시 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 등급컷 알려줘봐
+$<정시 등급컷:J_GRADE>  알려줘봐
+1	정시 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 등급컷 알려줘요
+$<정시 등급컷:J_GRADE>  알려줘요
+1	정시 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 등급컷에 대해서 알려줘
+$<정시 등급컷:J_GRADE> 에 대해서 알려줘
+1	정시 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 등급컷에 대해서 알려주세요
+$<정시 등급컷:J_GRADE> 에 대해서 알려주세요
+1	정시 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 등급컷에 관해서 알려줘
+$<정시 등급컷:J_GRADE> 에 관해서 알려줘
+1	정시 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 등급컷를 알려줘
+$<정시 등급컷:J_GRADE> 를 알려줘
+1	정시 등급컷	NNG	B_J_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 전년도 등급컷
+$<정시 전년도 등급컷:J_GRADE> 
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+
+; 정시 전년도 등급컷 알려줘
+$<정시 전년도 등급컷:J_GRADE>  알려줘
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 전년도 등급컷 알려주세요
+$<정시 전년도 등급컷:J_GRADE>  알려주세요
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 전년도 등급컷 알려줘봐
+$<정시 전년도 등급컷:J_GRADE>  알려줘봐
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 전년도 등급컷 알려줘요
+$<정시 전년도 등급컷:J_GRADE>  알려줘요
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 전년도 등급컷에 대해서 알려줘
+$<정시 전년도 등급컷:J_GRADE> 에 대해서 알려줘
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전년도 등급컷에 대해서 알려주세요
+$<정시 전년도 등급컷:J_GRADE> 에 대해서 알려주세요
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 전년도 등급컷에 관해서 알려줘
+$<정시 전년도 등급컷:J_GRADE> 에 관해서 알려줘
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전년도 등급컷를 알려줘
+$<정시 전년도 등급컷:J_GRADE> 를 알려줘
+1	정시 전년도 등급컷	NNG	B_J_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 전년도등급컷
+$<정시 전년도등급컷:J_GRADE> 
+1	정시 전년도등급컷	NNG	B_J_GRADE
+
+; 정시 전년도등급컷 알려줘
+$<정시 전년도등급컷:J_GRADE>  알려줘
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 전년도등급컷 알려주세요
+$<정시 전년도등급컷:J_GRADE>  알려주세요
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 전년도등급컷 알려줘봐
+$<정시 전년도등급컷:J_GRADE>  알려줘봐
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 전년도등급컷 알려줘요
+$<정시 전년도등급컷:J_GRADE>  알려줘요
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 전년도등급컷에 대해서 알려줘
+$<정시 전년도등급컷:J_GRADE> 에 대해서 알려줘
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전년도등급컷에 대해서 알려주세요
+$<정시 전년도등급컷:J_GRADE> 에 대해서 알려주세요
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 전년도등급컷에 관해서 알려줘
+$<정시 전년도등급컷:J_GRADE> 에 관해서 알려줘
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전년도등급컷를 알려줘
+$<정시 전년도등급컷:J_GRADE> 를 알려줘
+1	정시 전년도등급컷	NNG	B_J_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 작년도 등급컷
+$<정시 작년도 등급컷:J_GRADE> 
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+
+; 정시 작년도 등급컷 알려줘
+$<정시 작년도 등급컷:J_GRADE>  알려줘
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 작년도 등급컷 알려주세요
+$<정시 작년도 등급컷:J_GRADE>  알려주세요
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 작년도 등급컷 알려줘봐
+$<정시 작년도 등급컷:J_GRADE>  알려줘봐
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 작년도 등급컷 알려줘요
+$<정시 작년도 등급컷:J_GRADE>  알려줘요
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 작년도 등급컷에 대해서 알려줘
+$<정시 작년도 등급컷:J_GRADE> 에 대해서 알려줘
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 작년도 등급컷에 대해서 알려주세요
+$<정시 작년도 등급컷:J_GRADE> 에 대해서 알려주세요
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 작년도 등급컷에 관해서 알려줘
+$<정시 작년도 등급컷:J_GRADE> 에 관해서 알려줘
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 작년도 등급컷를 알려줘
+$<정시 작년도 등급컷:J_GRADE> 를 알려줘
+1	정시 작년도 등급컷	NNG	B_J_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 작년도등급컷
+$<정시 작년도등급컷:J_GRADE> 
+1	정시 작년도등급컷	NNG	B_J_GRADE
+
+; 정시 작년도등급컷 알려줘
+$<정시 작년도등급컷:J_GRADE>  알려줘
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 작년도등급컷 알려주세요
+$<정시 작년도등급컷:J_GRADE>  알려주세요
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 작년도등급컷 알려줘봐
+$<정시 작년도등급컷:J_GRADE>  알려줘봐
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 작년도등급컷 알려줘요
+$<정시 작년도등급컷:J_GRADE>  알려줘요
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 작년도등급컷에 대해서 알려줘
+$<정시 작년도등급컷:J_GRADE> 에 대해서 알려줘
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 작년도등급컷에 대해서 알려주세요
+$<정시 작년도등급컷:J_GRADE> 에 대해서 알려주세요
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 작년도등급컷에 관해서 알려줘
+$<정시 작년도등급컷:J_GRADE> 에 관해서 알려줘
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 작년도등급컷를 알려줘
+$<정시 작년도등급컷:J_GRADE> 를 알려줘
+1	정시 작년도등급컷	NNG	B_J_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 지원자격
+$<정시 지원자격:J_SYNS> 
+1	정시 지원자격	NNG	B_J_SYNS
+
+; 정시 지원자격 알려줘
+$<정시 지원자격:J_SYNS>  알려줘
+1	정시 지원자격	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 지원자격 알려주세요
+$<정시 지원자격:J_SYNS>  알려주세요
+1	정시 지원자격	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 지원자격 알려줘봐
+$<정시 지원자격:J_SYNS>  알려줘봐
+1	정시 지원자격	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 지원자격 알려줘요
+$<정시 지원자격:J_SYNS>  알려줘요
+1	정시 지원자격	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 지원자격에 대해서 알려줘
+$<정시 지원자격:J_SYNS> 에 대해서 알려줘
+1	정시 지원자격	NNG	B_J_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 지원자격에 대해서 알려주세요
+$<정시 지원자격:J_SYNS> 에 대해서 알려주세요
+1	정시 지원자격	NNG	B_J_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 지원자격에 관해서 알려줘
+$<정시 지원자격:J_SYNS> 에 관해서 알려줘
+1	정시 지원자격	NNG	B_J_SYNS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 지원자격를 알려줘
+$<정시 지원자격:J_SYNS> 를 알려줘
+1	정시 지원자격	NNG	B_J_SYNS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 지원방법
+$<정시 지원방법:J_SYNS> 
+1	정시 지원방법	NNG	B_J_SYNS
+
+; 정시 지원방법 알려줘
+$<정시 지원방법:J_SYNS>  알려줘
+1	정시 지원방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 지원방법 알려주세요
+$<정시 지원방법:J_SYNS>  알려주세요
+1	정시 지원방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 지원방법 알려줘봐
+$<정시 지원방법:J_SYNS>  알려줘봐
+1	정시 지원방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 지원방법 알려줘요
+$<정시 지원방법:J_SYNS>  알려줘요
+1	정시 지원방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 지원방법에 대해서 알려줘
+$<정시 지원방법:J_SYNS> 에 대해서 알려줘
+1	정시 지원방법	NNG	B_J_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 지원방법에 대해서 알려주세요
+$<정시 지원방법:J_SYNS> 에 대해서 알려주세요
+1	정시 지원방법	NNG	B_J_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 지원방법에 관해서 알려줘
+$<정시 지원방법:J_SYNS> 에 관해서 알려줘
+1	정시 지원방법	NNG	B_J_SYNS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 지원방법를 알려줘
+$<정시 지원방법:J_SYNS> 를 알려줘
+1	정시 지원방법	NNG	B_J_SYNS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 전형방법
+$<정시 전형방법:J_SYNS> 
+1	정시 전형방법	NNG	B_J_SYNS
+
+; 정시 전형방법 알려줘
+$<정시 전형방법:J_SYNS>  알려줘
+1	정시 전형방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 전형방법 알려주세요
+$<정시 전형방법:J_SYNS>  알려주세요
+1	정시 전형방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 전형방법 알려줘봐
+$<정시 전형방법:J_SYNS>  알려줘봐
+1	정시 전형방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 전형방법 알려줘요
+$<정시 전형방법:J_SYNS>  알려줘요
+1	정시 전형방법	NNG	B_J_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 전형방법에 대해서 알려줘
+$<정시 전형방법:J_SYNS> 에 대해서 알려줘
+1	정시 전형방법	NNG	B_J_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형방법에 대해서 알려주세요
+$<정시 전형방법:J_SYNS> 에 대해서 알려주세요
+1	정시 전형방법	NNG	B_J_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 전형방법에 관해서 알려줘
+$<정시 전형방법:J_SYNS> 에 관해서 알려줘
+1	정시 전형방법	NNG	B_J_SYNS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 전형방법를 알려줘
+$<정시 전형방법:J_SYNS> 를 알려줘
+1	정시 전형방법	NNG	B_J_SYNS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 정시 합격자 안내
+$<정시 합격자 안내:J_ACCEPTANCE> 
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+
+; 정시 합격자 안내 알려줘
+$<정시 합격자 안내:J_ACCEPTANCE>  알려줘
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 합격자 안내 알려주세요
+$<정시 합격자 안내:J_ACCEPTANCE>  알려주세요
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 합격자 안내 알려줘봐
+$<정시 합격자 안내:J_ACCEPTANCE>  알려줘봐
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 합격자 안내 알려줘요
+$<정시 합격자 안내:J_ACCEPTANCE>  알려줘요
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 합격자 안내에 대해서 알려줘
+$<정시 합격자 안내:J_ACCEPTANCE> 에 대해서 알려줘
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 합격자 안내에 대해서 알려주세요
+$<정시 합격자 안내:J_ACCEPTANCE> 에 대해서 알려주세요
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 합격자 안내에 관해서 알려줘
+$<정시 합격자 안내:J_ACCEPTANCE> 에 관해서 알려줘
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 합격자 안내를 알려줘
+$<정시 합격자 안내:J_ACCEPTANCE> 를 알려줘
+1	정시 합격자 안내	NNG	B_J_ACCEPTANCE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 합격자발표
+$<정시 합격자발표:J_ACCEPTANCE> 
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+
+; 정시 합격자발표 알려줘
+$<정시 합격자발표:J_ACCEPTANCE>  알려줘
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 합격자발표 알려주세요
+$<정시 합격자발표:J_ACCEPTANCE>  알려주세요
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 합격자발표 알려줘봐
+$<정시 합격자발표:J_ACCEPTANCE>  알려줘봐
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 합격자발표 알려줘요
+$<정시 합격자발표:J_ACCEPTANCE>  알려줘요
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 합격자발표에 대해서 알려줘
+$<정시 합격자발표:J_ACCEPTANCE> 에 대해서 알려줘
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 합격자발표에 대해서 알려주세요
+$<정시 합격자발표:J_ACCEPTANCE> 에 대해서 알려주세요
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 합격자발표에 관해서 알려줘
+$<정시 합격자발표:J_ACCEPTANCE> 에 관해서 알려줘
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 합격자발표를 알려줘
+$<정시 합격자발표:J_ACCEPTANCE> 를 알려줘
+1	정시 합격자발표	NNG	B_J_ACCEPTANCE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 합격자 발표
+$<정시 합격자 발표:J_ACCEPTANCE> 
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+
+; 정시 합격자 발표 알려줘
+$<정시 합격자 발표:J_ACCEPTANCE>  알려줘
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 합격자 발표 알려주세요
+$<정시 합격자 발표:J_ACCEPTANCE>  알려주세요
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 합격자 발표 알려줘봐
+$<정시 합격자 발표:J_ACCEPTANCE>  알려줘봐
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 합격자 발표 알려줘요
+$<정시 합격자 발표:J_ACCEPTANCE>  알려줘요
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 합격자 발표에 대해서 알려줘
+$<정시 합격자 발표:J_ACCEPTANCE> 에 대해서 알려줘
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 합격자 발표에 대해서 알려주세요
+$<정시 합격자 발표:J_ACCEPTANCE> 에 대해서 알려주세요
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 합격자 발표에 관해서 알려줘
+$<정시 합격자 발표:J_ACCEPTANCE> 에 관해서 알려줘
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 합격자 발표를 알려줘
+$<정시 합격자 발표:J_ACCEPTANCE> 를 알려줘
+1	정시 합격자 발표	NNG	B_J_ACCEPTANCE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 최종 합격자 조회
+$<정시 최종 합격자 조회:J_INQUIRYF> 
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+
+; 정시 최종 합격자 조회 알려줘
+$<정시 최종 합격자 조회:J_INQUIRYF>  알려줘
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 최종 합격자 조회 알려주세요
+$<정시 최종 합격자 조회:J_INQUIRYF>  알려주세요
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 최종 합격자 조회 알려줘봐
+$<정시 최종 합격자 조회:J_INQUIRYF>  알려줘봐
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 최종 합격자 조회 알려줘요
+$<정시 최종 합격자 조회:J_INQUIRYF>  알려줘요
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 최종 합격자 조회에 대해서 알려줘
+$<정시 최종 합격자 조회:J_INQUIRYF> 에 대해서 알려줘
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 최종 합격자 조회에 대해서 알려주세요
+$<정시 최종 합격자 조회:J_INQUIRYF> 에 대해서 알려주세요
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 최종 합격자 조회에 관해서 알려줘
+$<정시 최종 합격자 조회:J_INQUIRYF> 에 관해서 알려줘
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 최종 합격자 조회를 알려줘
+$<정시 최종 합격자 조회:J_INQUIRYF> 를 알려줘
+1	정시 최종 합격자 조회	NNG	B_J_INQUIRYF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 최종 합격자
+$<정시 최종 합격자:J_INQUIRYF> 
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+
+; 정시 최종 합격자 알려줘
+$<정시 최종 합격자:J_INQUIRYF>  알려줘
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 최종 합격자 알려주세요
+$<정시 최종 합격자:J_INQUIRYF>  알려주세요
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 최종 합격자 알려줘봐
+$<정시 최종 합격자:J_INQUIRYF>  알려줘봐
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 최종 합격자 알려줘요
+$<정시 최종 합격자:J_INQUIRYF>  알려줘요
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 최종 합격자에 대해서 알려줘
+$<정시 최종 합격자:J_INQUIRYF> 에 대해서 알려줘
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 최종 합격자에 대해서 알려주세요
+$<정시 최종 합격자:J_INQUIRYF> 에 대해서 알려주세요
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 최종 합격자에 관해서 알려줘
+$<정시 최종 합격자:J_INQUIRYF> 에 관해서 알려줘
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 최종 합격자를 알려줘
+$<정시 최종 합격자:J_INQUIRYF> 를 알려줘
+1	정시 최종 합격자	NNG	B_J_INQUIRYF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 고지서
+$<정시 고지서:J_INQUIRYF> 
+1	정시 고지서	NNG	B_J_INQUIRYF
+
+; 정시 고지서 알려줘
+$<정시 고지서:J_INQUIRYF>  알려줘
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 고지서 알려주세요
+$<정시 고지서:J_INQUIRYF>  알려주세요
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 고지서 알려줘봐
+$<정시 고지서:J_INQUIRYF>  알려줘봐
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 고지서 알려줘요
+$<정시 고지서:J_INQUIRYF>  알려줘요
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 고지서에 대해서 알려줘
+$<정시 고지서:J_INQUIRYF> 에 대해서 알려줘
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 고지서에 대해서 알려주세요
+$<정시 고지서:J_INQUIRYF> 에 대해서 알려주세요
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 고지서에 관해서 알려줘
+$<정시 고지서:J_INQUIRYF> 에 관해서 알려줘
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 고지서를 알려줘
+$<정시 고지서:J_INQUIRYF> 를 알려줘
+1	정시 고지서	NNG	B_J_INQUIRYF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 장학제도 안내
+$<정시 장학제도 안내:J_SCHOLARSHIP> 
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+
+; 정시 장학제도 안내 알려줘
+$<정시 장학제도 안내:J_SCHOLARSHIP>  알려줘
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 장학제도 안내 알려주세요
+$<정시 장학제도 안내:J_SCHOLARSHIP>  알려주세요
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 장학제도 안내 알려줘봐
+$<정시 장학제도 안내:J_SCHOLARSHIP>  알려줘봐
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 장학제도 안내 알려줘요
+$<정시 장학제도 안내:J_SCHOLARSHIP>  알려줘요
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 장학제도 안내에 대해서 알려줘
+$<정시 장학제도 안내:J_SCHOLARSHIP> 에 대해서 알려줘
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학제도 안내에 대해서 알려주세요
+$<정시 장학제도 안내:J_SCHOLARSHIP> 에 대해서 알려주세요
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 장학제도 안내에 관해서 알려줘
+$<정시 장학제도 안내:J_SCHOLARSHIP> 에 관해서 알려줘
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학제도 안내를 알려줘
+$<정시 장학제도 안내:J_SCHOLARSHIP> 를 알려줘
+1	정시 장학제도 안내	NNG	B_J_SCHOLARSHIP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 장학제도안내
+$<정시 장학제도안내:J_SCHOLARSHIP> 
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+
+; 정시 장학제도안내 알려줘
+$<정시 장학제도안내:J_SCHOLARSHIP>  알려줘
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 장학제도안내 알려주세요
+$<정시 장학제도안내:J_SCHOLARSHIP>  알려주세요
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 장학제도안내 알려줘봐
+$<정시 장학제도안내:J_SCHOLARSHIP>  알려줘봐
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 장학제도안내 알려줘요
+$<정시 장학제도안내:J_SCHOLARSHIP>  알려줘요
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 장학제도안내에 대해서 알려줘
+$<정시 장학제도안내:J_SCHOLARSHIP> 에 대해서 알려줘
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학제도안내에 대해서 알려주세요
+$<정시 장학제도안내:J_SCHOLARSHIP> 에 대해서 알려주세요
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 장학제도안내에 관해서 알려줘
+$<정시 장학제도안내:J_SCHOLARSHIP> 에 관해서 알려줘
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학제도안내를 알려줘
+$<정시 장학제도안내:J_SCHOLARSHIP> 를 알려줘
+1	정시 장학제도안내	NNG	B_J_SCHOLARSHIP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 장학제도
+$<정시 장학제도:J_SCHOLARSHIP> 
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+
+; 정시 장학제도 알려줘
+$<정시 장학제도:J_SCHOLARSHIP>  알려줘
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 장학제도 알려주세요
+$<정시 장학제도:J_SCHOLARSHIP>  알려주세요
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 장학제도 알려줘봐
+$<정시 장학제도:J_SCHOLARSHIP>  알려줘봐
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 장학제도 알려줘요
+$<정시 장학제도:J_SCHOLARSHIP>  알려줘요
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 장학제도에 대해서 알려줘
+$<정시 장학제도:J_SCHOLARSHIP> 에 대해서 알려줘
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학제도에 대해서 알려주세요
+$<정시 장학제도:J_SCHOLARSHIP> 에 대해서 알려주세요
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 장학제도에 관해서 알려줘
+$<정시 장학제도:J_SCHOLARSHIP> 에 관해서 알려줘
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학제도를 알려줘
+$<정시 장학제도:J_SCHOLARSHIP> 를 알려줘
+1	정시 장학제도	NNG	B_J_SCHOLARSHIP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 장학금 안내
+$<정시 장학금 안내:J_SCHOLARSHIP> 
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+
+; 정시 장학금 안내 알려줘
+$<정시 장학금 안내:J_SCHOLARSHIP>  알려줘
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 장학금 안내 알려주세요
+$<정시 장학금 안내:J_SCHOLARSHIP>  알려주세요
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 장학금 안내 알려줘봐
+$<정시 장학금 안내:J_SCHOLARSHIP>  알려줘봐
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 장학금 안내 알려줘요
+$<정시 장학금 안내:J_SCHOLARSHIP>  알려줘요
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 장학금 안내에 대해서 알려줘
+$<정시 장학금 안내:J_SCHOLARSHIP> 에 대해서 알려줘
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학금 안내에 대해서 알려주세요
+$<정시 장학금 안내:J_SCHOLARSHIP> 에 대해서 알려주세요
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 장학금 안내에 관해서 알려줘
+$<정시 장학금 안내:J_SCHOLARSHIP> 에 관해서 알려줘
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학금 안내를 알려줘
+$<정시 장학금 안내:J_SCHOLARSHIP> 를 알려줘
+1	정시 장학금 안내	NNG	B_J_SCHOLARSHIP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 정시 장학금
+$<정시 장학금:J_SCHOLARSHIP> 
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+
+; 정시 장학금 알려줘
+$<정시 장학금:J_SCHOLARSHIP>  알려줘
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 정시 장학금 알려주세요
+$<정시 장학금:J_SCHOLARSHIP>  알려주세요
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 정시 장학금 알려줘봐
+$<정시 장학금:J_SCHOLARSHIP>  알려줘봐
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 정시 장학금 알려줘요
+$<정시 장학금:J_SCHOLARSHIP>  알려줘요
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 정시 장학금에 대해서 알려줘
+$<정시 장학금:J_SCHOLARSHIP> 에 대해서 알려줘
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학금에 대해서 알려주세요
+$<정시 장학금:J_SCHOLARSHIP> 에 대해서 알려주세요
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 정시 장학금에 관해서 알려줘
+$<정시 장학금:J_SCHOLARSHIP> 에 관해서 알려줘
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 정시 장학금를 알려줘
+$<정시 장학금:J_SCHOLARSHIP> 를 알려줘
+1	정시 장학금	NNG	B_J_SCHOLARSHIP
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+

@@ -1,0 +1,121 @@
+수시	S_SUSI
+수시전형 안내하기	S_SUSI
+수시 전형일정 및 모집 인원 안내	S_SCHEDULESANN
+학생부 교과전형 안내	S_SUBANN
+수시 교과지원	S_SUBANN
+수시교과지원	S_SUBANN
+수시 교과	S_SUBANN
+수시교과	S_SUBANN
+교과	S_SUBANN
+교과지원	S_SUBANN
+교과 지원	S_SUBANN
+학생부 종합전형 안내	S_SYNANN
+면접평가 안내	S_INTERVIEW
+수시 장학제도 안내	S_SCHOLARSHIP
+수시 합격자 안내	S_ACCEPTANCEANN
+성적산출프로그램	S_GRADEPRODUCTION
+수시 전형일정	S_SCHEDULES
+수시 전형	S_SCHEDULES
+수시 일정	S_SCHEDULES
+수시 모집인원	S_RECRUITMENT
+수시 모집	S_RECRUITMENT
+수시 인원	S_RECRUITMENT
+수시 일반	S_GENERAL
+수시 일반전형	S_GENERAL
+수시 일반1	S_GENERAL1
+일반1	S_GENERAL1
+수시 일반2	S_GENERAL2
+일반2	S_GENERAL2
+수시 지역	S_AREA
+수시 지역인재	S_AREA
+수시 지역인재전형	S_AREA
+지역	S_AREA
+지역인재	S_AREA
+지역인재전형	S_AREA
+수시 교과 지역인재	S_AREASUB
+교과 지역인재	S_AREASUB
+수시 종합 지역인재	S_AREASYN
+종합 지역인재	S_AREASYN
+수시 자기추천	S_SELFRECOM
+자기추천	S_SELFRECOM
+수시 농어촌학생	S_VILLAGE
+수시 농어촌	S_VILLAGE
+수시 특성화고교졸업자	S_CHARA
+수시 특성화	S_CHARA
+수시 기초생활수급자 및 차상위계층	S_FOUNDATION
+수시 기초생활수급자	S_FOUNDATION
+수시 기초생활	S_FOUNDATION
+수시 기초	S_FOUNDATION
+수시 차상위	S_FOUNDATION
+수시 교과지원방법	S_GYOWAY
+수시 교과전형방법	S_GYOWAY
+교과지원방법	S_GYOWAY
+교과전형방법	S_GYOWAY
+수시 종합지원방법	S_JONGWAY
+수시 종합전형방법	S_JONGWAY
+종합지원방법	S_JONGWAY
+종합전형방법	S_JONGWAY
+수시 지원방법	S_WAY
+수시 전형방법	S_WAY
+수시 학생부 반영비율	S_REC
+수시 생기부 반영비율	S_REC
+수시 생활기록부 반영비율	S_REC
+수시 학교생활기록부 반영비율	S_REC
+학생부 반영비율	S_REC
+생기부 반영비율	S_REC
+생활기록부 반영비율	S_REC
+학교생활기록부 반영비율	S_REC
+수시 등급컷	S_GRADE
+수시 전년도 등급컷	S_GRADE
+수시 전년도등급컷	S_GRADE
+수시 작년도 등급컷	S_GRADE
+수시 작년도등급컷	S_GRADE
+수시 종합전형	S_SYNS
+수시 종합	S_SYNS
+종합전형	S_SYNS
+종합	S_SYNS
+수시 종합전형1	S_SYNS1
+수시 종합1	S_SYNS1
+종합전형1	S_SYNS1
+종합1	S_SYNS1
+수시 종합전형2	S_SYNS2
+수시 종합2	S_SYNS2
+종합전형2	S_SYNS2
+종합2	S_SYNS2
+수시 소프트웨어인재 전형	S_SOFTWARE
+수시 소프트웨어인재	S_SOFTWARE
+수시 소프트웨어	S_SOFTWARE
+소프트웨어인재	S_SOFTWARE
+소프트웨어	S_SOFTWARE
+수시 면접	S_INTERVIEW
+수시 면접고사	S_INTERVIEW
+수시 면접일정	S_INTERVIEW
+수시 면접평가기준	S_INTERVIEW
+수시 면접고사일정 및 평가기준	S_INTERVIEW
+면접	S_INTERVIEW
+면접고사	S_INTERVIEW
+면접일정	S_INTERVIEW
+면접평가기준	S_INTERVIEW
+면접고사일정 및 평가기준	S_INTERVIEW
+수시 장학제도 안내	S_SCHOLARSHIP
+수시 장학제도안내	S_SCHOLARSHIP
+수시 장학제도	S_SCHOLARSHIP
+수시 장학금 안내	S_SCHOLARSHIP
+수시 장학금안내	S_SCHOLARSHIP
+수시 장학금	S_SCHOLARSHIP
+수시 합격자발표	S_ACCEPTANCE
+수시 합격자 발표	S_ACCEPTANCE
+수시 합격자 조회	S_INQUIRY
+수시 합격자조회	S_INQUIRY
+수시 1차	S_INQUIRY
+수시 1차 합격자	S_INQUIRY
+1차	S_INQUIRY
+1차 합격자	S_INQUIRY
+수시 최종 합격자 조회	S_INQUIRYF
+수시 최종	S_INQUIRYF
+수시 최종 합격자	S_INQUIRYF
+수시 고지서	S_INQUIRYF
+수시 성적	S_GRADEPRODUCTION
+수시 성적산출	S_GRADEPRODUCTION
+성적	S_GRADEPRODUCTION
+성적산출	S_GRADEPRODUCTION

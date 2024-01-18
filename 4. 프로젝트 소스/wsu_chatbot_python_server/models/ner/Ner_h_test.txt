@@ -1,0 +1,178 @@
+전공별 교육과정   B_H_CURRICULUM
+전공별 교육 과정  B_H_CURRICULUM
+학교생활 안내    B_H_SCHOOLLIFE
+출석 성적 반영 방법 B_H_ATTENDREF
+출석 성적 반영 비율 B_H_ATTENDREF
+출석 성적 반영법  B_H_ATTENDREF
+솔브릿지학과     B_H_SOL
+AI학과       B_H_ECAI
+빅데이터학과     B_H_ECAI
+AI빅데이터학과   B_H_ECAI
+호텔매니지먼트    B_H_GHOTELMA
+호텔매니지먼트학과  B_H_GHOTELMA
+호텔학과       B_H_GHOTELMA
+글로벌융합비즈니스학과 B_H_GCOMA
+글로벌융합비즈니스  B_H_GCOMA
+융합비즈니스학과   B_H_GCOMA
+융합비즈니스     B_H_GCOMA
+융합 경영      B_H_BM
+융합 경영학과    B_H_BM
+융합 세무 경영   B_H_FTM
+융합 세무 경영학과 B_H_FTM
+자율융합       B_H_ENDSTU
+자율융합학과     B_H_ENDSTU
+글로벌 철도     B_H_GLOTRAIN
+글로벌 철도학과   B_H_GLOTRAIN
+철도 건설      B_H_TRAININD
+철도 건설학과    B_H_TRAININD
+철도 경영      B_H_TRAINBM
+철도 경영학과    B_H_TRAINBM
+물류         B_H_SCMSYS
+물류시스템      B_H_SCMSYS
+물류시스템학과    B_H_SCMSYS
+철도 전기      B_H_TRELSYS
+철도 전기학과    B_H_TRELSYS
+철도 전기시스템   B_H_TRELSYS
+철도 전기시스템학과 B_H_TRELSYS
+철도 소프트웨어   B_H_TRSOFT
+철도 소프트웨어학과 B_H_TRSOFT
+철도 차량      B_H_TRSYS
+철도 차량 학과   B_H_TRSYS
+철도 차량 시스템  B_H_TRSYS
+철도 차량 시스템 학과 B_H_TRSYS
+건축공학과      B_H_BUILDENG
+글로벌 미디어    B_H_GLOMIDI
+글로벌 미디어학과  B_H_GLOMIDI
+글로벌 미디어영상  B_H_GLOMIDI
+글로벌 미디어영상학과 B_H_GLOMIDI
+게임멀티       B_H_GAME
+겜멀         B_H_GAME
+게임멀티미디어학과  B_H_GAME
+미디어디자인     B_H_MIDIDESIG
+미디어디자인학과   B_H_MIDIDESIG
+미디어디자인영상   B_H_MIDIDESIG
+미디어디자인 영상학과 B_H_MIDIDESIG
+컴정         B_H_COM
+컴퓨터 정보보안 학과 B_H_COM
+IT         B_H_IT
+IT 학과      B_H_IT
+IT보안       B_H_IT
+IT보안 학과    B_H_IT
+글로벌조리      B_H_GLOCOOK
+글로벌조리학과    B_H_GLOCOOK
+폴보퀴즈조리     B_H_PAULBO
+폴보퀴즈조리학과   B_H_PAULBO
+폴보         B_H_PAULBO
+글로벌외식      B_H_GLOCOST
+글로벌외식학과    B_H_GLOCOST
+글로벌외식창업    B_H_GLOCOST
+글로벌외식창업학과  B_H_GLOCOST
+글로벌외식창업전공  B_H_GLOCOST
+외식조리       B_H_COOK
+외식조리학과     B_H_COOK
+외조         B_H_COOK
+한식         B_H_KOCOOK
+한식조리       B_H_KOCOOK
+한식조리학과     B_H_KOCOOK
+한식조리과학     B_H_KOCOOK
+한식조리과학학과   B_H_KOCOOK
+외식조리경영     B_H_COOKBM
+외식조리경영학과   B_H_COOKBM
+외식조리영양     B_H_COOKNU
+외식조리영양학과   B_H_COOKNU
+호텔경영       B_H_HOBM
+호텔경영학과     B_H_HOBM
+호텔관광       B_H_HOBM
+호텔관광학과     B_H_HOBM
+호텔관광경영     B_H_HOBM
+호텔관광경영학과   B_H_HOBM
+사복         B_H_SOCIAL
+사회복지       B_H_SOCIAL
+사복학과       B_H_SOCIAL
+사회복지학과     B_H_SOCIAL
+작업치료학과     B_H_THERAPI
+언어치료       B_H_EARCLE
+언어치료학과     B_H_EARCLE
+청각         B_H_EARCLE
+언어치료청각재활학과 B_H_EARCLE
+청각재활       B_H_EARCLE
+청각재활학과     B_H_EARCLE
+보건경영       B_H_HEALTHBM
+보건경영학과     B_H_HEALTHBM
+보건의료       B_H_HEALTHBM
+보건의료학과     B_H_HEALTHBM
+보건의료경영     B_H_HEALTHBM
+보건의료경영학과   B_H_HEALTHBM
+유아교육과      B_H_CHILD
+유아교육학과     B_H_CHILD
+뷰티         B_H_BEAUTY
+뷰티디자인      B_H_BEAUTY
+뷰티학과       B_H_BEAUTY
+뷰티디자인학과    B_H_BEAUTY
+응급구조       B_H_EMERMEDI
+응급구조학과     B_H_EMERMEDI
+소방안전       B_H_FIREMAN
+소방안전학과     B_H_FIREMAN
+소방         B_H_FIREMAN
+소방학과       B_H_FIREMAN
+간호학과       B_H_NURSE
+간호         B_H_NURSE
+물리치료       B_H_DOCPHY
+물리치료학과     B_H_DOCPHY
+스포츠        B_H_SPORT
+스포츠학과      B_H_SPORT
+스포츠건강      B_H_SPORT
+스포츠건강학과    B_H_SPORT
+스포츠건강재활    B_H_SPORT
+스포츠건강재활학과  B_H_SPORT
+JCFS 인공지능  B_H_JWAI
+JCFS 인공지능학과 B_H_JWAI
+JCFS 데이터과학 B_H_JWDATASC
+JCFS 데이터과학학과 B_H_JWDATASC
+JCFS 인지과학  B_H_JWCOSC
+JCFS 인지과학 학과 B_H_JWCOSC
+장학금        B_H_SCHOLARSHIP
+장학제도       B_H_SCHOLARSHIP
+캠퍼스        B_H_MAP
+학교         B_H_MAP
+지도         B_H_MAP
+캠퍼스 맵      B_H_MAP
+캠퍼스맵       B_H_MAP
+학교맵        B_H_MAP
+우송대 위치     B_H_MAP
+기숙사        B_H_DORMITORY
+긱사         B_H_DORMITORY
+연락처        B_H_CONINF
+번호         B_H_CONINF
+부서         B_H_CONINF
+교무처 연락처    B_H_CONINF
+부서별 연락처    B_H_CONINF
+부서별연락처     B_H_CONINF
+입학         B_H_ADMISSION
+입학처        B_H_ADMISSION
+편의시설       B_H_AMENITIES
+편의         B_H_AMENITIES
+시설         B_H_AMENITIES
+농어촌학생      B_H_VILLAGE
+농어촌        B_H_VILLAGE
+특성화고교졸업자   B_H_CHARA
+특성화        B_H_CHARA
+기초생활수급자    B_H_FOUNDATION
+기초생활       B_H_FOUNDATION
+기초         B_H_FOUNDATION
+차상위        B_H_FOUNDATION
+전년도 등급컷    B_H_GRADE
+전년도등급컷     B_H_GRADE
+등급컷        B_H_GRADE
+전형방법       B_H_SYNS
+지원방법       B_H_SYNS
+전형         B_H_SYNS
+지원         B_H_SYNS
+합격자 발표     B_H_ACCEPTANCE
+합격자발표      B_H_ACCEPTANCE
+최종 합격자 조회  B_H_INQUIRYF
+최종         B_H_INQUIRYF
+최종 합격자     B_H_INQUIRYF
+고지서        B_H_INQUIRYF
+일반         B_H_GENERAL
+일반전형       B_H_GENERAL

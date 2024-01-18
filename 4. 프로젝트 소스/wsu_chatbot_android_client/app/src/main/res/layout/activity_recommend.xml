@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context=".Recommendation">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="추천 질문"
+        android:textSize="20dp"
+        android:gravity="center"
+        tools:ignore="MissingConstraints"
+        android:fontFamily="sans-serif-light"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:background="@drawable/back"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recommendview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="50dp"
+        android:layout_marginBottom="80dp"
+        android:orientation="vertical"
+        app:fastScrollEnabled="false"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:stackFromEnd="true"
+        tools:itemCount="20">
+    </androidx.recyclerview.widget.RecyclerView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

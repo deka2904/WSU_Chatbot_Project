@@ -1,0 +1,14658 @@
+; 전공별 교육과정
+$<전공별 교육과정:H_CURRICULUM> 
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+
+; 전공별 교육과정 알려줘
+$<전공별 교육과정:H_CURRICULUM>  알려줘
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 전공별 교육과정 알려주세요
+$<전공별 교육과정:H_CURRICULUM>  알려주세요
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 전공별 교육과정 알려줘봐
+$<전공별 교육과정:H_CURRICULUM>  알려줘봐
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 전공별 교육과정 알려줘요
+$<전공별 교육과정:H_CURRICULUM>  알려줘요
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 전공별 교육과정에 대해서 알려줘
+$<전공별 교육과정:H_CURRICULUM> 에 대해서 알려줘
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전공별 교육과정에 대해서 알려주세요
+$<전공별 교육과정:H_CURRICULUM> 에 대해서 알려주세요
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 전공별 교육과정에 관해서 알려줘
+$<전공별 교육과정:H_CURRICULUM> 에 관해서 알려줘
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전공별 교육과정를 알려줘
+$<전공별 교육과정:H_CURRICULUM> 를 알려줘
+1	전공별 교육과정	NNG	B_H_CURRICULUM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 전공별 교육 과정
+$<전공별 교육 과정:H_CURRICULUM> 
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+
+; 전공별 교육 과정 알려줘
+$<전공별 교육 과정:H_CURRICULUM>  알려줘
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 전공별 교육 과정 알려주세요
+$<전공별 교육 과정:H_CURRICULUM>  알려주세요
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 전공별 교육 과정 알려줘봐
+$<전공별 교육 과정:H_CURRICULUM>  알려줘봐
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 전공별 교육 과정 알려줘요
+$<전공별 교육 과정:H_CURRICULUM>  알려줘요
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 전공별 교육 과정에 대해서 알려줘
+$<전공별 교육 과정:H_CURRICULUM> 에 대해서 알려줘
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전공별 교육 과정에 대해서 알려주세요
+$<전공별 교육 과정:H_CURRICULUM> 에 대해서 알려주세요
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 전공별 교육 과정에 관해서 알려줘
+$<전공별 교육 과정:H_CURRICULUM> 에 관해서 알려줘
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전공별 교육 과정를 알려줘
+$<전공별 교육 과정:H_CURRICULUM> 를 알려줘
+1	전공별 교육 과정	NNG	B_H_CURRICULUM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 학교생활 안내
+$<학교생활 안내:H_SCHOOLLIFE> 
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+
+; 학교생활 안내 알려줘
+$<학교생활 안내:H_SCHOOLLIFE>  알려줘
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 학교생활 안내 알려주세요
+$<학교생활 안내:H_SCHOOLLIFE>  알려주세요
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 학교생활 안내 알려줘봐
+$<학교생활 안내:H_SCHOOLLIFE>  알려줘봐
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 학교생활 안내 알려줘요
+$<학교생활 안내:H_SCHOOLLIFE>  알려줘요
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 학교생활 안내에 대해서 알려줘
+$<학교생활 안내:H_SCHOOLLIFE> 에 대해서 알려줘
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학교생활 안내에 대해서 알려주세요
+$<학교생활 안내:H_SCHOOLLIFE> 에 대해서 알려주세요
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 학교생활 안내에 관해서 알려줘
+$<학교생활 안내:H_SCHOOLLIFE> 에 관해서 알려줘
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학교생활 안내를 알려줘
+$<학교생활 안내:H_SCHOOLLIFE> 를 알려줘
+1	학교생활 안내	NNG	B_H_SCHOOLLIFE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 출석 성적 반영 방법
+$<출석 성적 반영 방법:H_ATTENDREF> 
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+
+; 출석 성적 반영 방법 알려줘
+$<출석 성적 반영 방법:H_ATTENDREF>  알려줘
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 출석 성적 반영 방법 알려주세요
+$<출석 성적 반영 방법:H_ATTENDREF>  알려주세요
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 출석 성적 반영 방법 알려줘봐
+$<출석 성적 반영 방법:H_ATTENDREF>  알려줘봐
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 출석 성적 반영 방법 알려줘요
+$<출석 성적 반영 방법:H_ATTENDREF>  알려줘요
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 출석 성적 반영 방법에 대해서 알려줘
+$<출석 성적 반영 방법:H_ATTENDREF> 에 대해서 알려줘
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 출석 성적 반영 방법에 대해서 알려주세요
+$<출석 성적 반영 방법:H_ATTENDREF> 에 대해서 알려주세요
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 출석 성적 반영 방법에 관해서 알려줘
+$<출석 성적 반영 방법:H_ATTENDREF> 에 관해서 알려줘
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 출석 성적 반영 방법를 알려줘
+$<출석 성적 반영 방법:H_ATTENDREF> 를 알려줘
+1	출석 성적 반영 방법	NNG	B_H_ATTENDREF
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 출석 성적 반영 비율
+$<출석 성적 반영 비율:H_ATTENDREF> 
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+
+; 출석 성적 반영 비율 알려줘
+$<출석 성적 반영 비율:H_ATTENDREF>  알려줘
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 출석 성적 반영 비율 알려주세요
+$<출석 성적 반영 비율:H_ATTENDREF>  알려주세요
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 출석 성적 반영 비율 알려줘봐
+$<출석 성적 반영 비율:H_ATTENDREF>  알려줘봐
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 출석 성적 반영 비율 알려줘요
+$<출석 성적 반영 비율:H_ATTENDREF>  알려줘요
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 출석 성적 반영 비율에 대해서 알려줘
+$<출석 성적 반영 비율:H_ATTENDREF> 에 대해서 알려줘
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 출석 성적 반영 비율에 대해서 알려주세요
+$<출석 성적 반영 비율:H_ATTENDREF> 에 대해서 알려주세요
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 출석 성적 반영 비율에 관해서 알려줘
+$<출석 성적 반영 비율:H_ATTENDREF> 에 관해서 알려줘
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 출석 성적 반영 비율를 알려줘
+$<출석 성적 반영 비율:H_ATTENDREF> 를 알려줘
+1	출석 성적 반영 비율	NNG	B_H_ATTENDREF
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 출석 성적 반영법
+$<출석 성적 반영법:H_ATTENDREF> 
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+
+; 출석 성적 반영법 알려줘
+$<출석 성적 반영법:H_ATTENDREF>  알려줘
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 출석 성적 반영법 알려주세요
+$<출석 성적 반영법:H_ATTENDREF>  알려주세요
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 출석 성적 반영법 알려줘봐
+$<출석 성적 반영법:H_ATTENDREF>  알려줘봐
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 출석 성적 반영법 알려줘요
+$<출석 성적 반영법:H_ATTENDREF>  알려줘요
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 출석 성적 반영법에 대해서 알려줘
+$<출석 성적 반영법:H_ATTENDREF> 에 대해서 알려줘
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 출석 성적 반영법에 대해서 알려주세요
+$<출석 성적 반영법:H_ATTENDREF> 에 대해서 알려주세요
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 출석 성적 반영법에 관해서 알려줘
+$<출석 성적 반영법:H_ATTENDREF> 에 관해서 알려줘
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 출석 성적 반영법를 알려줘
+$<출석 성적 반영법:H_ATTENDREF> 를 알려줘
+1	출석 성적 반영법	NNG	B_H_ATTENDREF
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 솔브릿지학과
+$<솔브릿지학과:H_SOL> 
+1	솔브릿지학과	NNG	B_H_SOL
+
+; 솔브릿지학과 알려줘
+$<솔브릿지학과:H_SOL>  알려줘
+1	솔브릿지학과	NNG	B_H_SOL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 솔브릿지학과 알려주세요
+$<솔브릿지학과:H_SOL>  알려주세요
+1	솔브릿지학과	NNG	B_H_SOL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 솔브릿지학과 알려줘봐
+$<솔브릿지학과:H_SOL>  알려줘봐
+1	솔브릿지학과	NNG	B_H_SOL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 솔브릿지학과 알려줘요
+$<솔브릿지학과:H_SOL>  알려줘요
+1	솔브릿지학과	NNG	B_H_SOL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 솔브릿지학과에 대해서 알려줘
+$<솔브릿지학과:H_SOL> 에 대해서 알려줘
+1	솔브릿지학과	NNG	B_H_SOL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 솔브릿지학과에 대해서 알려주세요
+$<솔브릿지학과:H_SOL> 에 대해서 알려주세요
+1	솔브릿지학과	NNG	B_H_SOL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 솔브릿지학과에 관해서 알려줘
+$<솔브릿지학과:H_SOL> 에 관해서 알려줘
+1	솔브릿지학과	NNG	B_H_SOL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 솔브릿지학과를 알려줘
+$<솔브릿지학과:H_SOL> 를 알려줘
+1	솔브릿지학과	NNG	B_H_SOL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; AI학과
+$<AI학과:H_ECAI> 
+1	AI학과	NNG	B_H_ECAI
+
+; AI학과 알려줘
+$<AI학과:H_ECAI>  알려줘
+1	AI학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; AI학과 알려주세요
+$<AI학과:H_ECAI>  알려주세요
+1	AI학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; AI학과 알려줘봐
+$<AI학과:H_ECAI>  알려줘봐
+1	AI학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; AI학과 알려줘요
+$<AI학과:H_ECAI>  알려줘요
+1	AI학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; AI학과에 대해서 알려줘
+$<AI학과:H_ECAI> 에 대해서 알려줘
+1	AI학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; AI학과에 대해서 알려주세요
+$<AI학과:H_ECAI> 에 대해서 알려주세요
+1	AI학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; AI학과에 관해서 알려줘
+$<AI학과:H_ECAI> 에 관해서 알려줘
+1	AI학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; AI학과를 알려줘
+$<AI학과:H_ECAI> 를 알려줘
+1	AI학과	NNG	B_H_ECAI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 빅데이터학과
+$<빅데이터학과:H_ECAI> 
+1	빅데이터학과	NNG	B_H_ECAI
+
+; 빅데이터학과 알려줘
+$<빅데이터학과:H_ECAI>  알려줘
+1	빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 빅데이터학과 알려주세요
+$<빅데이터학과:H_ECAI>  알려주세요
+1	빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 빅데이터학과 알려줘봐
+$<빅데이터학과:H_ECAI>  알려줘봐
+1	빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 빅데이터학과 알려줘요
+$<빅데이터학과:H_ECAI>  알려줘요
+1	빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 빅데이터학과에 대해서 알려줘
+$<빅데이터학과:H_ECAI> 에 대해서 알려줘
+1	빅데이터학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 빅데이터학과에 대해서 알려주세요
+$<빅데이터학과:H_ECAI> 에 대해서 알려주세요
+1	빅데이터학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 빅데이터학과에 관해서 알려줘
+$<빅데이터학과:H_ECAI> 에 관해서 알려줘
+1	빅데이터학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 빅데이터학과를 알려줘
+$<빅데이터학과:H_ECAI> 를 알려줘
+1	빅데이터학과	NNG	B_H_ECAI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; AI빅데이터학과
+$<AI빅데이터학과:H_ECAI> 
+1	AI빅데이터학과	NNG	B_H_ECAI
+
+; AI빅데이터학과 알려줘
+$<AI빅데이터학과:H_ECAI>  알려줘
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; AI빅데이터학과 알려주세요
+$<AI빅데이터학과:H_ECAI>  알려주세요
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; AI빅데이터학과 알려줘봐
+$<AI빅데이터학과:H_ECAI>  알려줘봐
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; AI빅데이터학과 알려줘요
+$<AI빅데이터학과:H_ECAI>  알려줘요
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; AI빅데이터학과에 대해서 알려줘
+$<AI빅데이터학과:H_ECAI> 에 대해서 알려줘
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; AI빅데이터학과에 대해서 알려주세요
+$<AI빅데이터학과:H_ECAI> 에 대해서 알려주세요
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; AI빅데이터학과에 관해서 알려줘
+$<AI빅데이터학과:H_ECAI> 에 관해서 알려줘
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; AI빅데이터학과를 알려줘
+$<AI빅데이터학과:H_ECAI> 를 알려줘
+1	AI빅데이터학과	NNG	B_H_ECAI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 호텔매니지먼트
+$<호텔매니지먼트:H_GHOTELMA> 
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+
+; 호텔매니지먼트 알려줘
+$<호텔매니지먼트:H_GHOTELMA>  알려줘
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔매니지먼트 알려주세요
+$<호텔매니지먼트:H_GHOTELMA>  알려주세요
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔매니지먼트 알려줘봐
+$<호텔매니지먼트:H_GHOTELMA>  알려줘봐
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔매니지먼트 알려줘요
+$<호텔매니지먼트:H_GHOTELMA>  알려줘요
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔매니지먼트에 대해서 알려줘
+$<호텔매니지먼트:H_GHOTELMA> 에 대해서 알려줘
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔매니지먼트에 대해서 알려주세요
+$<호텔매니지먼트:H_GHOTELMA> 에 대해서 알려주세요
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔매니지먼트에 관해서 알려줘
+$<호텔매니지먼트:H_GHOTELMA> 에 관해서 알려줘
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔매니지먼트를 알려줘
+$<호텔매니지먼트:H_GHOTELMA> 를 알려줘
+1	호텔매니지먼트	NNG	B_H_GHOTELMA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 호텔매니지먼트학과
+$<호텔매니지먼트학과:H_GHOTELMA> 
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+
+; 호텔매니지먼트학과 알려줘
+$<호텔매니지먼트학과:H_GHOTELMA>  알려줘
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔매니지먼트학과 알려주세요
+$<호텔매니지먼트학과:H_GHOTELMA>  알려주세요
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔매니지먼트학과 알려줘봐
+$<호텔매니지먼트학과:H_GHOTELMA>  알려줘봐
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔매니지먼트학과 알려줘요
+$<호텔매니지먼트학과:H_GHOTELMA>  알려줘요
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔매니지먼트학과에 대해서 알려줘
+$<호텔매니지먼트학과:H_GHOTELMA> 에 대해서 알려줘
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔매니지먼트학과에 대해서 알려주세요
+$<호텔매니지먼트학과:H_GHOTELMA> 에 대해서 알려주세요
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔매니지먼트학과에 관해서 알려줘
+$<호텔매니지먼트학과:H_GHOTELMA> 에 관해서 알려줘
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔매니지먼트학과를 알려줘
+$<호텔매니지먼트학과:H_GHOTELMA> 를 알려줘
+1	호텔매니지먼트학과	NNG	B_H_GHOTELMA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 호텔학과
+$<호텔학과:H_GHOTELMA> 
+1	호텔학과	NNG	B_H_GHOTELMA
+
+; 호텔학과 알려줘
+$<호텔학과:H_GHOTELMA>  알려줘
+1	호텔학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔학과 알려주세요
+$<호텔학과:H_GHOTELMA>  알려주세요
+1	호텔학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔학과 알려줘봐
+$<호텔학과:H_GHOTELMA>  알려줘봐
+1	호텔학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔학과 알려줘요
+$<호텔학과:H_GHOTELMA>  알려줘요
+1	호텔학과	NNG	B_H_GHOTELMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔학과에 대해서 알려줘
+$<호텔학과:H_GHOTELMA> 에 대해서 알려줘
+1	호텔학과	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔학과에 대해서 알려주세요
+$<호텔학과:H_GHOTELMA> 에 대해서 알려주세요
+1	호텔학과	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔학과에 관해서 알려줘
+$<호텔학과:H_GHOTELMA> 에 관해서 알려줘
+1	호텔학과	NNG	B_H_GHOTELMA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔학과를 알려줘
+$<호텔학과:H_GHOTELMA> 를 알려줘
+1	호텔학과	NNG	B_H_GHOTELMA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌융합비즈니스학과
+$<글로벌융합비즈니스학과:H_GCOMA> 
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+
+; 글로벌융합비즈니스학과 알려줘
+$<글로벌융합비즈니스학과:H_GCOMA>  알려줘
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌융합비즈니스학과 알려주세요
+$<글로벌융합비즈니스학과:H_GCOMA>  알려주세요
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌융합비즈니스학과 알려줘봐
+$<글로벌융합비즈니스학과:H_GCOMA>  알려줘봐
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌융합비즈니스학과 알려줘요
+$<글로벌융합비즈니스학과:H_GCOMA>  알려줘요
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌융합비즈니스학과에 대해서 알려줘
+$<글로벌융합비즈니스학과:H_GCOMA> 에 대해서 알려줘
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌융합비즈니스학과에 대해서 알려주세요
+$<글로벌융합비즈니스학과:H_GCOMA> 에 대해서 알려주세요
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌융합비즈니스학과에 관해서 알려줘
+$<글로벌융합비즈니스학과:H_GCOMA> 에 관해서 알려줘
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌융합비즈니스학과를 알려줘
+$<글로벌융합비즈니스학과:H_GCOMA> 를 알려줘
+1	글로벌융합비즈니스학과	NNG	B_H_GCOMA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌융합비즈니스
+$<글로벌융합비즈니스:H_GCOMA> 
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+
+; 글로벌융합비즈니스 알려줘
+$<글로벌융합비즈니스:H_GCOMA>  알려줘
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌융합비즈니스 알려주세요
+$<글로벌융합비즈니스:H_GCOMA>  알려주세요
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌융합비즈니스 알려줘봐
+$<글로벌융합비즈니스:H_GCOMA>  알려줘봐
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌융합비즈니스 알려줘요
+$<글로벌융합비즈니스:H_GCOMA>  알려줘요
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌융합비즈니스에 대해서 알려줘
+$<글로벌융합비즈니스:H_GCOMA> 에 대해서 알려줘
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌융합비즈니스에 대해서 알려주세요
+$<글로벌융합비즈니스:H_GCOMA> 에 대해서 알려주세요
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌융합비즈니스에 관해서 알려줘
+$<글로벌융합비즈니스:H_GCOMA> 에 관해서 알려줘
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌융합비즈니스를 알려줘
+$<글로벌융합비즈니스:H_GCOMA> 를 알려줘
+1	글로벌융합비즈니스	NNG	B_H_GCOMA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 융합비즈니스학과
+$<융합비즈니스학과:H_GCOMA> 
+1	융합비즈니스학과	NNG	B_H_GCOMA
+
+; 융합비즈니스학과 알려줘
+$<융합비즈니스학과:H_GCOMA>  알려줘
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 융합비즈니스학과 알려주세요
+$<융합비즈니스학과:H_GCOMA>  알려주세요
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 융합비즈니스학과 알려줘봐
+$<융합비즈니스학과:H_GCOMA>  알려줘봐
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 융합비즈니스학과 알려줘요
+$<융합비즈니스학과:H_GCOMA>  알려줘요
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 융합비즈니스학과에 대해서 알려줘
+$<융합비즈니스학과:H_GCOMA> 에 대해서 알려줘
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합비즈니스학과에 대해서 알려주세요
+$<융합비즈니스학과:H_GCOMA> 에 대해서 알려주세요
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 융합비즈니스학과에 관해서 알려줘
+$<융합비즈니스학과:H_GCOMA> 에 관해서 알려줘
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합비즈니스학과를 알려줘
+$<융합비즈니스학과:H_GCOMA> 를 알려줘
+1	융합비즈니스학과	NNG	B_H_GCOMA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 융합비즈니스
+$<융합비즈니스:H_GCOMA> 
+1	융합비즈니스	NNG	B_H_GCOMA
+
+; 융합비즈니스 알려줘
+$<융합비즈니스:H_GCOMA>  알려줘
+1	융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 융합비즈니스 알려주세요
+$<융합비즈니스:H_GCOMA>  알려주세요
+1	융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 융합비즈니스 알려줘봐
+$<융합비즈니스:H_GCOMA>  알려줘봐
+1	융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 융합비즈니스 알려줘요
+$<융합비즈니스:H_GCOMA>  알려줘요
+1	융합비즈니스	NNG	B_H_GCOMA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 융합비즈니스에 대해서 알려줘
+$<융합비즈니스:H_GCOMA> 에 대해서 알려줘
+1	융합비즈니스	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합비즈니스에 대해서 알려주세요
+$<융합비즈니스:H_GCOMA> 에 대해서 알려주세요
+1	융합비즈니스	NNG	B_H_GCOMA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 융합비즈니스에 관해서 알려줘
+$<융합비즈니스:H_GCOMA> 에 관해서 알려줘
+1	융합비즈니스	NNG	B_H_GCOMA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합비즈니스를 알려줘
+$<융합비즈니스:H_GCOMA> 를 알려줘
+1	융합비즈니스	NNG	B_H_GCOMA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 융합 경영
+$<융합 경영:H_BM> 
+1	융합 경영	NNG	B_H_BM
+
+; 융합 경영 알려줘
+$<융합 경영:H_BM>  알려줘
+1	융합 경영	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 융합 경영 알려주세요
+$<융합 경영:H_BM>  알려주세요
+1	융합 경영	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 융합 경영 알려줘봐
+$<융합 경영:H_BM>  알려줘봐
+1	융합 경영	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 융합 경영 알려줘요
+$<융합 경영:H_BM>  알려줘요
+1	융합 경영	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 융합 경영에 대해서 알려줘
+$<융합 경영:H_BM> 에 대해서 알려줘
+1	융합 경영	NNG	B_H_BM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 경영에 대해서 알려주세요
+$<융합 경영:H_BM> 에 대해서 알려주세요
+1	융합 경영	NNG	B_H_BM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 융합 경영에 관해서 알려줘
+$<융합 경영:H_BM> 에 관해서 알려줘
+1	융합 경영	NNG	B_H_BM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 경영를 알려줘
+$<융합 경영:H_BM> 를 알려줘
+1	융합 경영	NNG	B_H_BM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 융합 경영학과
+$<융합 경영학과:H_BM> 
+1	융합 경영학과	NNG	B_H_BM
+
+; 융합 경영학과 알려줘
+$<융합 경영학과:H_BM>  알려줘
+1	융합 경영학과	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 융합 경영학과 알려주세요
+$<융합 경영학과:H_BM>  알려주세요
+1	융합 경영학과	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 융합 경영학과 알려줘봐
+$<융합 경영학과:H_BM>  알려줘봐
+1	융합 경영학과	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 융합 경영학과 알려줘요
+$<융합 경영학과:H_BM>  알려줘요
+1	융합 경영학과	NNG	B_H_BM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 융합 경영학과에 대해서 알려줘
+$<융합 경영학과:H_BM> 에 대해서 알려줘
+1	융합 경영학과	NNG	B_H_BM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 경영학과에 대해서 알려주세요
+$<융합 경영학과:H_BM> 에 대해서 알려주세요
+1	융합 경영학과	NNG	B_H_BM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 융합 경영학과에 관해서 알려줘
+$<융합 경영학과:H_BM> 에 관해서 알려줘
+1	융합 경영학과	NNG	B_H_BM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 경영학과를 알려줘
+$<융합 경영학과:H_BM> 를 알려줘
+1	융합 경영학과	NNG	B_H_BM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 융합 세무 경영
+$<융합 세무 경영:H_FTM> 
+1	융합 세무 경영	NNG	B_H_FTM
+
+; 융합 세무 경영 알려줘
+$<융합 세무 경영:H_FTM>  알려줘
+1	융합 세무 경영	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 융합 세무 경영 알려주세요
+$<융합 세무 경영:H_FTM>  알려주세요
+1	융합 세무 경영	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 융합 세무 경영 알려줘봐
+$<융합 세무 경영:H_FTM>  알려줘봐
+1	융합 세무 경영	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 융합 세무 경영 알려줘요
+$<융합 세무 경영:H_FTM>  알려줘요
+1	융합 세무 경영	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 융합 세무 경영에 대해서 알려줘
+$<융합 세무 경영:H_FTM> 에 대해서 알려줘
+1	융합 세무 경영	NNG	B_H_FTM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 세무 경영에 대해서 알려주세요
+$<융합 세무 경영:H_FTM> 에 대해서 알려주세요
+1	융합 세무 경영	NNG	B_H_FTM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 융합 세무 경영에 관해서 알려줘
+$<융합 세무 경영:H_FTM> 에 관해서 알려줘
+1	융합 세무 경영	NNG	B_H_FTM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 세무 경영를 알려줘
+$<융합 세무 경영:H_FTM> 를 알려줘
+1	융합 세무 경영	NNG	B_H_FTM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 융합 세무 경영학과
+$<융합 세무 경영학과:H_FTM> 
+1	융합 세무 경영학과	NNG	B_H_FTM
+
+; 융합 세무 경영학과 알려줘
+$<융합 세무 경영학과:H_FTM>  알려줘
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 융합 세무 경영학과 알려주세요
+$<융합 세무 경영학과:H_FTM>  알려주세요
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 융합 세무 경영학과 알려줘봐
+$<융합 세무 경영학과:H_FTM>  알려줘봐
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 융합 세무 경영학과 알려줘요
+$<융합 세무 경영학과:H_FTM>  알려줘요
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 융합 세무 경영학과에 대해서 알려줘
+$<융합 세무 경영학과:H_FTM> 에 대해서 알려줘
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 세무 경영학과에 대해서 알려주세요
+$<융합 세무 경영학과:H_FTM> 에 대해서 알려주세요
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 융합 세무 경영학과에 관해서 알려줘
+$<융합 세무 경영학과:H_FTM> 에 관해서 알려줘
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 융합 세무 경영학과를 알려줘
+$<융합 세무 경영학과:H_FTM> 를 알려줘
+1	융합 세무 경영학과	NNG	B_H_FTM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 자율융합
+$<자율융합:H_ENDSTU> 
+1	자율융합	NNG	B_H_ENDSTU
+
+; 자율융합 알려줘
+$<자율융합:H_ENDSTU>  알려줘
+1	자율융합	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 자율융합 알려주세요
+$<자율융합:H_ENDSTU>  알려주세요
+1	자율융합	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 자율융합 알려줘봐
+$<자율융합:H_ENDSTU>  알려줘봐
+1	자율융합	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 자율융합 알려줘요
+$<자율융합:H_ENDSTU>  알려줘요
+1	자율융합	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 자율융합에 대해서 알려줘
+$<자율융합:H_ENDSTU> 에 대해서 알려줘
+1	자율융합	NNG	B_H_ENDSTU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 자율융합에 대해서 알려주세요
+$<자율융합:H_ENDSTU> 에 대해서 알려주세요
+1	자율융합	NNG	B_H_ENDSTU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 자율융합에 관해서 알려줘
+$<자율융합:H_ENDSTU> 에 관해서 알려줘
+1	자율융합	NNG	B_H_ENDSTU
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 자율융합를 알려줘
+$<자율융합:H_ENDSTU> 를 알려줘
+1	자율융합	NNG	B_H_ENDSTU
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 자율융합학과
+$<자율융합학과:H_ENDSTU> 
+1	자율융합학과	NNG	B_H_ENDSTU
+
+; 자율융합학과 알려줘
+$<자율융합학과:H_ENDSTU>  알려줘
+1	자율융합학과	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 자율융합학과 알려주세요
+$<자율융합학과:H_ENDSTU>  알려주세요
+1	자율융합학과	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 자율융합학과 알려줘봐
+$<자율융합학과:H_ENDSTU>  알려줘봐
+1	자율융합학과	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 자율융합학과 알려줘요
+$<자율융합학과:H_ENDSTU>  알려줘요
+1	자율융합학과	NNG	B_H_ENDSTU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 자율융합학과에 대해서 알려줘
+$<자율융합학과:H_ENDSTU> 에 대해서 알려줘
+1	자율융합학과	NNG	B_H_ENDSTU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 자율융합학과에 대해서 알려주세요
+$<자율융합학과:H_ENDSTU> 에 대해서 알려주세요
+1	자율융합학과	NNG	B_H_ENDSTU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 자율융합학과에 관해서 알려줘
+$<자율융합학과:H_ENDSTU> 에 관해서 알려줘
+1	자율융합학과	NNG	B_H_ENDSTU
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 자율융합학과를 알려줘
+$<자율융합학과:H_ENDSTU> 를 알려줘
+1	자율융합학과	NNG	B_H_ENDSTU
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌 철도
+$<글로벌 철도:H_GLOTRAIN> 
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+
+; 글로벌 철도 알려줘
+$<글로벌 철도:H_GLOTRAIN>  알려줘
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌 철도 알려주세요
+$<글로벌 철도:H_GLOTRAIN>  알려주세요
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌 철도 알려줘봐
+$<글로벌 철도:H_GLOTRAIN>  알려줘봐
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌 철도 알려줘요
+$<글로벌 철도:H_GLOTRAIN>  알려줘요
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌 철도에 대해서 알려줘
+$<글로벌 철도:H_GLOTRAIN> 에 대해서 알려줘
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 철도에 대해서 알려주세요
+$<글로벌 철도:H_GLOTRAIN> 에 대해서 알려주세요
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌 철도에 관해서 알려줘
+$<글로벌 철도:H_GLOTRAIN> 에 관해서 알려줘
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 철도를 알려줘
+$<글로벌 철도:H_GLOTRAIN> 를 알려줘
+1	글로벌 철도	NNG	B_H_GLOTRAIN
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌 철도학과
+$<글로벌 철도학과:H_GLOTRAIN> 
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+
+; 글로벌 철도학과 알려줘
+$<글로벌 철도학과:H_GLOTRAIN>  알려줘
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌 철도학과 알려주세요
+$<글로벌 철도학과:H_GLOTRAIN>  알려주세요
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌 철도학과 알려줘봐
+$<글로벌 철도학과:H_GLOTRAIN>  알려줘봐
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌 철도학과 알려줘요
+$<글로벌 철도학과:H_GLOTRAIN>  알려줘요
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌 철도학과에 대해서 알려줘
+$<글로벌 철도학과:H_GLOTRAIN> 에 대해서 알려줘
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 철도학과에 대해서 알려주세요
+$<글로벌 철도학과:H_GLOTRAIN> 에 대해서 알려주세요
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌 철도학과에 관해서 알려줘
+$<글로벌 철도학과:H_GLOTRAIN> 에 관해서 알려줘
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 철도학과를 알려줘
+$<글로벌 철도학과:H_GLOTRAIN> 를 알려줘
+1	글로벌 철도학과	NNG	B_H_GLOTRAIN
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 건설
+$<철도 건설:H_TRAININD> 
+1	철도 건설	NNG	B_H_TRAININD
+
+; 철도 건설 알려줘
+$<철도 건설:H_TRAININD>  알려줘
+1	철도 건설	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 건설 알려주세요
+$<철도 건설:H_TRAININD>  알려주세요
+1	철도 건설	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 건설 알려줘봐
+$<철도 건설:H_TRAININD>  알려줘봐
+1	철도 건설	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 건설 알려줘요
+$<철도 건설:H_TRAININD>  알려줘요
+1	철도 건설	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 건설에 대해서 알려줘
+$<철도 건설:H_TRAININD> 에 대해서 알려줘
+1	철도 건설	NNG	B_H_TRAININD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 건설에 대해서 알려주세요
+$<철도 건설:H_TRAININD> 에 대해서 알려주세요
+1	철도 건설	NNG	B_H_TRAININD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 건설에 관해서 알려줘
+$<철도 건설:H_TRAININD> 에 관해서 알려줘
+1	철도 건설	NNG	B_H_TRAININD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 건설를 알려줘
+$<철도 건설:H_TRAININD> 를 알려줘
+1	철도 건설	NNG	B_H_TRAININD
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 철도 건설학과
+$<철도 건설학과:H_TRAININD> 
+1	철도 건설학과	NNG	B_H_TRAININD
+
+; 철도 건설학과 알려줘
+$<철도 건설학과:H_TRAININD>  알려줘
+1	철도 건설학과	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 건설학과 알려주세요
+$<철도 건설학과:H_TRAININD>  알려주세요
+1	철도 건설학과	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 건설학과 알려줘봐
+$<철도 건설학과:H_TRAININD>  알려줘봐
+1	철도 건설학과	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 건설학과 알려줘요
+$<철도 건설학과:H_TRAININD>  알려줘요
+1	철도 건설학과	NNG	B_H_TRAININD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 건설학과에 대해서 알려줘
+$<철도 건설학과:H_TRAININD> 에 대해서 알려줘
+1	철도 건설학과	NNG	B_H_TRAININD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 건설학과에 대해서 알려주세요
+$<철도 건설학과:H_TRAININD> 에 대해서 알려주세요
+1	철도 건설학과	NNG	B_H_TRAININD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 건설학과에 관해서 알려줘
+$<철도 건설학과:H_TRAININD> 에 관해서 알려줘
+1	철도 건설학과	NNG	B_H_TRAININD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 건설학과를 알려줘
+$<철도 건설학과:H_TRAININD> 를 알려줘
+1	철도 건설학과	NNG	B_H_TRAININD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 경영
+$<철도 경영:H_TRAINBM> 
+1	철도 경영	NNG	B_H_TRAINBM
+
+; 철도 경영 알려줘
+$<철도 경영:H_TRAINBM>  알려줘
+1	철도 경영	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 경영 알려주세요
+$<철도 경영:H_TRAINBM>  알려주세요
+1	철도 경영	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 경영 알려줘봐
+$<철도 경영:H_TRAINBM>  알려줘봐
+1	철도 경영	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 경영 알려줘요
+$<철도 경영:H_TRAINBM>  알려줘요
+1	철도 경영	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 경영에 대해서 알려줘
+$<철도 경영:H_TRAINBM> 에 대해서 알려줘
+1	철도 경영	NNG	B_H_TRAINBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 경영에 대해서 알려주세요
+$<철도 경영:H_TRAINBM> 에 대해서 알려주세요
+1	철도 경영	NNG	B_H_TRAINBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 경영에 관해서 알려줘
+$<철도 경영:H_TRAINBM> 에 관해서 알려줘
+1	철도 경영	NNG	B_H_TRAINBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 경영를 알려줘
+$<철도 경영:H_TRAINBM> 를 알려줘
+1	철도 경영	NNG	B_H_TRAINBM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 철도 경영학과
+$<철도 경영학과:H_TRAINBM> 
+1	철도 경영학과	NNG	B_H_TRAINBM
+
+; 철도 경영학과 알려줘
+$<철도 경영학과:H_TRAINBM>  알려줘
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 경영학과 알려주세요
+$<철도 경영학과:H_TRAINBM>  알려주세요
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 경영학과 알려줘봐
+$<철도 경영학과:H_TRAINBM>  알려줘봐
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 경영학과 알려줘요
+$<철도 경영학과:H_TRAINBM>  알려줘요
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 경영학과에 대해서 알려줘
+$<철도 경영학과:H_TRAINBM> 에 대해서 알려줘
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 경영학과에 대해서 알려주세요
+$<철도 경영학과:H_TRAINBM> 에 대해서 알려주세요
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 경영학과에 관해서 알려줘
+$<철도 경영학과:H_TRAINBM> 에 관해서 알려줘
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 경영학과를 알려줘
+$<철도 경영학과:H_TRAINBM> 를 알려줘
+1	철도 경영학과	NNG	B_H_TRAINBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 물류
+$<물류:H_SCMSYS> 
+1	물류	NNG	B_H_SCMSYS
+
+; 물류 알려줘
+$<물류:H_SCMSYS>  알려줘
+1	물류	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 물류 알려주세요
+$<물류:H_SCMSYS>  알려주세요
+1	물류	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 물류 알려줘봐
+$<물류:H_SCMSYS>  알려줘봐
+1	물류	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 물류 알려줘요
+$<물류:H_SCMSYS>  알려줘요
+1	물류	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 물류에 대해서 알려줘
+$<물류:H_SCMSYS> 에 대해서 알려줘
+1	물류	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물류에 대해서 알려주세요
+$<물류:H_SCMSYS> 에 대해서 알려주세요
+1	물류	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 물류에 관해서 알려줘
+$<물류:H_SCMSYS> 에 관해서 알려줘
+1	물류	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물류를 알려줘
+$<물류:H_SCMSYS> 를 알려줘
+1	물류	NNG	B_H_SCMSYS
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 물류시스템
+$<물류시스템:H_SCMSYS> 
+1	물류시스템	NNG	B_H_SCMSYS
+
+; 물류시스템 알려줘
+$<물류시스템:H_SCMSYS>  알려줘
+1	물류시스템	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 물류시스템 알려주세요
+$<물류시스템:H_SCMSYS>  알려주세요
+1	물류시스템	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 물류시스템 알려줘봐
+$<물류시스템:H_SCMSYS>  알려줘봐
+1	물류시스템	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 물류시스템 알려줘요
+$<물류시스템:H_SCMSYS>  알려줘요
+1	물류시스템	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 물류시스템에 대해서 알려줘
+$<물류시스템:H_SCMSYS> 에 대해서 알려줘
+1	물류시스템	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물류시스템에 대해서 알려주세요
+$<물류시스템:H_SCMSYS> 에 대해서 알려주세요
+1	물류시스템	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 물류시스템에 관해서 알려줘
+$<물류시스템:H_SCMSYS> 에 관해서 알려줘
+1	물류시스템	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물류시스템를 알려줘
+$<물류시스템:H_SCMSYS> 를 알려줘
+1	물류시스템	NNG	B_H_SCMSYS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 물류시스템학과
+$<물류시스템학과:H_SCMSYS> 
+1	물류시스템학과	NNG	B_H_SCMSYS
+
+; 물류시스템학과 알려줘
+$<물류시스템학과:H_SCMSYS>  알려줘
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 물류시스템학과 알려주세요
+$<물류시스템학과:H_SCMSYS>  알려주세요
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 물류시스템학과 알려줘봐
+$<물류시스템학과:H_SCMSYS>  알려줘봐
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 물류시스템학과 알려줘요
+$<물류시스템학과:H_SCMSYS>  알려줘요
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 물류시스템학과에 대해서 알려줘
+$<물류시스템학과:H_SCMSYS> 에 대해서 알려줘
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물류시스템학과에 대해서 알려주세요
+$<물류시스템학과:H_SCMSYS> 에 대해서 알려주세요
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 물류시스템학과에 관해서 알려줘
+$<물류시스템학과:H_SCMSYS> 에 관해서 알려줘
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물류시스템학과를 알려줘
+$<물류시스템학과:H_SCMSYS> 를 알려줘
+1	물류시스템학과	NNG	B_H_SCMSYS
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 전기
+$<철도 전기:H_TRELSYS> 
+1	철도 전기	NNG	B_H_TRELSYS
+
+; 철도 전기 알려줘
+$<철도 전기:H_TRELSYS>  알려줘
+1	철도 전기	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 전기 알려주세요
+$<철도 전기:H_TRELSYS>  알려주세요
+1	철도 전기	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 전기 알려줘봐
+$<철도 전기:H_TRELSYS>  알려줘봐
+1	철도 전기	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 전기 알려줘요
+$<철도 전기:H_TRELSYS>  알려줘요
+1	철도 전기	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 전기에 대해서 알려줘
+$<철도 전기:H_TRELSYS> 에 대해서 알려줘
+1	철도 전기	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기에 대해서 알려주세요
+$<철도 전기:H_TRELSYS> 에 대해서 알려주세요
+1	철도 전기	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 전기에 관해서 알려줘
+$<철도 전기:H_TRELSYS> 에 관해서 알려줘
+1	철도 전기	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기를 알려줘
+$<철도 전기:H_TRELSYS> 를 알려줘
+1	철도 전기	NNG	B_H_TRELSYS
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 전기학과
+$<철도 전기학과:H_TRELSYS> 
+1	철도 전기학과	NNG	B_H_TRELSYS
+
+; 철도 전기학과 알려줘
+$<철도 전기학과:H_TRELSYS>  알려줘
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 전기학과 알려주세요
+$<철도 전기학과:H_TRELSYS>  알려주세요
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 전기학과 알려줘봐
+$<철도 전기학과:H_TRELSYS>  알려줘봐
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 전기학과 알려줘요
+$<철도 전기학과:H_TRELSYS>  알려줘요
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 전기학과에 대해서 알려줘
+$<철도 전기학과:H_TRELSYS> 에 대해서 알려줘
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기학과에 대해서 알려주세요
+$<철도 전기학과:H_TRELSYS> 에 대해서 알려주세요
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 전기학과에 관해서 알려줘
+$<철도 전기학과:H_TRELSYS> 에 관해서 알려줘
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기학과를 알려줘
+$<철도 전기학과:H_TRELSYS> 를 알려줘
+1	철도 전기학과	NNG	B_H_TRELSYS
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 전기시스템
+$<철도 전기시스템:H_TRELSYS> 
+1	철도 전기시스템	NNG	B_H_TRELSYS
+
+; 철도 전기시스템 알려줘
+$<철도 전기시스템:H_TRELSYS>  알려줘
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 전기시스템 알려주세요
+$<철도 전기시스템:H_TRELSYS>  알려주세요
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 전기시스템 알려줘봐
+$<철도 전기시스템:H_TRELSYS>  알려줘봐
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 전기시스템 알려줘요
+$<철도 전기시스템:H_TRELSYS>  알려줘요
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 전기시스템에 대해서 알려줘
+$<철도 전기시스템:H_TRELSYS> 에 대해서 알려줘
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기시스템에 대해서 알려주세요
+$<철도 전기시스템:H_TRELSYS> 에 대해서 알려주세요
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 전기시스템에 관해서 알려줘
+$<철도 전기시스템:H_TRELSYS> 에 관해서 알려줘
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기시스템를 알려줘
+$<철도 전기시스템:H_TRELSYS> 를 알려줘
+1	철도 전기시스템	NNG	B_H_TRELSYS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 철도 전기시스템학과
+$<철도 전기시스템학과:H_TRELSYS> 
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+
+; 철도 전기시스템학과 알려줘
+$<철도 전기시스템학과:H_TRELSYS>  알려줘
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 전기시스템학과 알려주세요
+$<철도 전기시스템학과:H_TRELSYS>  알려주세요
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 전기시스템학과 알려줘봐
+$<철도 전기시스템학과:H_TRELSYS>  알려줘봐
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 전기시스템학과 알려줘요
+$<철도 전기시스템학과:H_TRELSYS>  알려줘요
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 전기시스템학과에 대해서 알려줘
+$<철도 전기시스템학과:H_TRELSYS> 에 대해서 알려줘
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기시스템학과에 대해서 알려주세요
+$<철도 전기시스템학과:H_TRELSYS> 에 대해서 알려주세요
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 전기시스템학과에 관해서 알려줘
+$<철도 전기시스템학과:H_TRELSYS> 에 관해서 알려줘
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 전기시스템학과를 알려줘
+$<철도 전기시스템학과:H_TRELSYS> 를 알려줘
+1	철도 전기시스템학과	NNG	B_H_TRELSYS
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 소프트웨어
+$<철도 소프트웨어:H_TRSOFT> 
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+
+; 철도 소프트웨어 알려줘
+$<철도 소프트웨어:H_TRSOFT>  알려줘
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 소프트웨어 알려주세요
+$<철도 소프트웨어:H_TRSOFT>  알려주세요
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 소프트웨어 알려줘봐
+$<철도 소프트웨어:H_TRSOFT>  알려줘봐
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 소프트웨어 알려줘요
+$<철도 소프트웨어:H_TRSOFT>  알려줘요
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 소프트웨어에 대해서 알려줘
+$<철도 소프트웨어:H_TRSOFT> 에 대해서 알려줘
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 소프트웨어에 대해서 알려주세요
+$<철도 소프트웨어:H_TRSOFT> 에 대해서 알려주세요
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 소프트웨어에 관해서 알려줘
+$<철도 소프트웨어:H_TRSOFT> 에 관해서 알려줘
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 소프트웨어를 알려줘
+$<철도 소프트웨어:H_TRSOFT> 를 알려줘
+1	철도 소프트웨어	NNG	B_H_TRSOFT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 소프트웨어학과
+$<철도 소프트웨어학과:H_TRSOFT> 
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+
+; 철도 소프트웨어학과 알려줘
+$<철도 소프트웨어학과:H_TRSOFT>  알려줘
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 소프트웨어학과 알려주세요
+$<철도 소프트웨어학과:H_TRSOFT>  알려주세요
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 소프트웨어학과 알려줘봐
+$<철도 소프트웨어학과:H_TRSOFT>  알려줘봐
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 소프트웨어학과 알려줘요
+$<철도 소프트웨어학과:H_TRSOFT>  알려줘요
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 소프트웨어학과에 대해서 알려줘
+$<철도 소프트웨어학과:H_TRSOFT> 에 대해서 알려줘
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 소프트웨어학과에 대해서 알려주세요
+$<철도 소프트웨어학과:H_TRSOFT> 에 대해서 알려주세요
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 소프트웨어학과에 관해서 알려줘
+$<철도 소프트웨어학과:H_TRSOFT> 에 관해서 알려줘
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 소프트웨어학과를 알려줘
+$<철도 소프트웨어학과:H_TRSOFT> 를 알려줘
+1	철도 소프트웨어학과	NNG	B_H_TRSOFT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 차량
+$<철도 차량:H_TRSYS> 
+1	철도 차량	NNG	B_H_TRSYS
+
+; 철도 차량 알려줘
+$<철도 차량:H_TRSYS>  알려줘
+1	철도 차량	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 차량 알려주세요
+$<철도 차량:H_TRSYS>  알려주세요
+1	철도 차량	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 차량 알려줘봐
+$<철도 차량:H_TRSYS>  알려줘봐
+1	철도 차량	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 차량 알려줘요
+$<철도 차량:H_TRSYS>  알려줘요
+1	철도 차량	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 차량에 대해서 알려줘
+$<철도 차량:H_TRSYS> 에 대해서 알려줘
+1	철도 차량	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량에 대해서 알려주세요
+$<철도 차량:H_TRSYS> 에 대해서 알려주세요
+1	철도 차량	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 차량에 관해서 알려줘
+$<철도 차량:H_TRSYS> 에 관해서 알려줘
+1	철도 차량	NNG	B_H_TRSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량를 알려줘
+$<철도 차량:H_TRSYS> 를 알려줘
+1	철도 차량	NNG	B_H_TRSYS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 철도 차량 학과
+$<철도 차량 학과:H_TRSYS> 
+1	철도 차량 학과	NNG	B_H_TRSYS
+
+; 철도 차량 학과 알려줘
+$<철도 차량 학과:H_TRSYS>  알려줘
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 차량 학과 알려주세요
+$<철도 차량 학과:H_TRSYS>  알려주세요
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 차량 학과 알려줘봐
+$<철도 차량 학과:H_TRSYS>  알려줘봐
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 차량 학과 알려줘요
+$<철도 차량 학과:H_TRSYS>  알려줘요
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 차량 학과에 대해서 알려줘
+$<철도 차량 학과:H_TRSYS> 에 대해서 알려줘
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량 학과에 대해서 알려주세요
+$<철도 차량 학과:H_TRSYS> 에 대해서 알려주세요
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 차량 학과에 관해서 알려줘
+$<철도 차량 학과:H_TRSYS> 에 관해서 알려줘
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량 학과를 알려줘
+$<철도 차량 학과:H_TRSYS> 를 알려줘
+1	철도 차량 학과	NNG	B_H_TRSYS
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 철도 차량 시스템
+$<철도 차량 시스템:H_TRSYS> 
+1	철도 차량 시스템	NNG	B_H_TRSYS
+
+; 철도 차량 시스템 알려줘
+$<철도 차량 시스템:H_TRSYS>  알려줘
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 차량 시스템 알려주세요
+$<철도 차량 시스템:H_TRSYS>  알려주세요
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 차량 시스템 알려줘봐
+$<철도 차량 시스템:H_TRSYS>  알려줘봐
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 차량 시스템 알려줘요
+$<철도 차량 시스템:H_TRSYS>  알려줘요
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 차량 시스템에 대해서 알려줘
+$<철도 차량 시스템:H_TRSYS> 에 대해서 알려줘
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량 시스템에 대해서 알려주세요
+$<철도 차량 시스템:H_TRSYS> 에 대해서 알려주세요
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 차량 시스템에 관해서 알려줘
+$<철도 차량 시스템:H_TRSYS> 에 관해서 알려줘
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량 시스템를 알려줘
+$<철도 차량 시스템:H_TRSYS> 를 알려줘
+1	철도 차량 시스템	NNG	B_H_TRSYS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 철도 차량 시스템 학과
+$<철도 차량 시스템 학과:H_TRSYS> 
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+
+; 철도 차량 시스템 학과 알려줘
+$<철도 차량 시스템 학과:H_TRSYS>  알려줘
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 철도 차량 시스템 학과 알려주세요
+$<철도 차량 시스템 학과:H_TRSYS>  알려주세요
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 철도 차량 시스템 학과 알려줘봐
+$<철도 차량 시스템 학과:H_TRSYS>  알려줘봐
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 철도 차량 시스템 학과 알려줘요
+$<철도 차량 시스템 학과:H_TRSYS>  알려줘요
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 철도 차량 시스템 학과에 대해서 알려줘
+$<철도 차량 시스템 학과:H_TRSYS> 에 대해서 알려줘
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량 시스템 학과에 대해서 알려주세요
+$<철도 차량 시스템 학과:H_TRSYS> 에 대해서 알려주세요
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 철도 차량 시스템 학과에 관해서 알려줘
+$<철도 차량 시스템 학과:H_TRSYS> 에 관해서 알려줘
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 철도 차량 시스템 학과를 알려줘
+$<철도 차량 시스템 학과:H_TRSYS> 를 알려줘
+1	철도 차량 시스템 학과	NNG	B_H_TRSYS
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 건축공학과
+$<건축공학과:H_BUILDENG> 
+1	건축공학과	NNG	B_H_BUILDENG
+
+; 건축공학과 알려줘
+$<건축공학과:H_BUILDENG>  알려줘
+1	건축공학과	NNG	B_H_BUILDENG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 건축공학과 알려주세요
+$<건축공학과:H_BUILDENG>  알려주세요
+1	건축공학과	NNG	B_H_BUILDENG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 건축공학과 알려줘봐
+$<건축공학과:H_BUILDENG>  알려줘봐
+1	건축공학과	NNG	B_H_BUILDENG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 건축공학과 알려줘요
+$<건축공학과:H_BUILDENG>  알려줘요
+1	건축공학과	NNG	B_H_BUILDENG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 건축공학과에 대해서 알려줘
+$<건축공학과:H_BUILDENG> 에 대해서 알려줘
+1	건축공학과	NNG	B_H_BUILDENG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 건축공학과에 대해서 알려주세요
+$<건축공학과:H_BUILDENG> 에 대해서 알려주세요
+1	건축공학과	NNG	B_H_BUILDENG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 건축공학과에 관해서 알려줘
+$<건축공학과:H_BUILDENG> 에 관해서 알려줘
+1	건축공학과	NNG	B_H_BUILDENG
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 건축공학과를 알려줘
+$<건축공학과:H_BUILDENG> 를 알려줘
+1	건축공학과	NNG	B_H_BUILDENG
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌 미디어
+$<글로벌 미디어:H_GLOMIDI> 
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+
+; 글로벌 미디어 알려줘
+$<글로벌 미디어:H_GLOMIDI>  알려줘
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌 미디어 알려주세요
+$<글로벌 미디어:H_GLOMIDI>  알려주세요
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌 미디어 알려줘봐
+$<글로벌 미디어:H_GLOMIDI>  알려줘봐
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌 미디어 알려줘요
+$<글로벌 미디어:H_GLOMIDI>  알려줘요
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌 미디어에 대해서 알려줘
+$<글로벌 미디어:H_GLOMIDI> 에 대해서 알려줘
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어에 대해서 알려주세요
+$<글로벌 미디어:H_GLOMIDI> 에 대해서 알려주세요
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌 미디어에 관해서 알려줘
+$<글로벌 미디어:H_GLOMIDI> 에 관해서 알려줘
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어를 알려줘
+$<글로벌 미디어:H_GLOMIDI> 를 알려줘
+1	글로벌 미디어	NNG	B_H_GLOMIDI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌 미디어학과
+$<글로벌 미디어학과:H_GLOMIDI> 
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+
+; 글로벌 미디어학과 알려줘
+$<글로벌 미디어학과:H_GLOMIDI>  알려줘
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌 미디어학과 알려주세요
+$<글로벌 미디어학과:H_GLOMIDI>  알려주세요
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌 미디어학과 알려줘봐
+$<글로벌 미디어학과:H_GLOMIDI>  알려줘봐
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌 미디어학과 알려줘요
+$<글로벌 미디어학과:H_GLOMIDI>  알려줘요
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌 미디어학과에 대해서 알려줘
+$<글로벌 미디어학과:H_GLOMIDI> 에 대해서 알려줘
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어학과에 대해서 알려주세요
+$<글로벌 미디어학과:H_GLOMIDI> 에 대해서 알려주세요
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌 미디어학과에 관해서 알려줘
+$<글로벌 미디어학과:H_GLOMIDI> 에 관해서 알려줘
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어학과를 알려줘
+$<글로벌 미디어학과:H_GLOMIDI> 를 알려줘
+1	글로벌 미디어학과	NNG	B_H_GLOMIDI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌 미디어영상
+$<글로벌 미디어영상:H_GLOMIDI> 
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+
+; 글로벌 미디어영상 알려줘
+$<글로벌 미디어영상:H_GLOMIDI>  알려줘
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌 미디어영상 알려주세요
+$<글로벌 미디어영상:H_GLOMIDI>  알려주세요
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌 미디어영상 알려줘봐
+$<글로벌 미디어영상:H_GLOMIDI>  알려줘봐
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌 미디어영상 알려줘요
+$<글로벌 미디어영상:H_GLOMIDI>  알려줘요
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌 미디어영상에 대해서 알려줘
+$<글로벌 미디어영상:H_GLOMIDI> 에 대해서 알려줘
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어영상에 대해서 알려주세요
+$<글로벌 미디어영상:H_GLOMIDI> 에 대해서 알려주세요
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌 미디어영상에 관해서 알려줘
+$<글로벌 미디어영상:H_GLOMIDI> 에 관해서 알려줘
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어영상를 알려줘
+$<글로벌 미디어영상:H_GLOMIDI> 를 알려줘
+1	글로벌 미디어영상	NNG	B_H_GLOMIDI
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 글로벌 미디어영상학과
+$<글로벌 미디어영상학과:H_GLOMIDI> 
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+
+; 글로벌 미디어영상학과 알려줘
+$<글로벌 미디어영상학과:H_GLOMIDI>  알려줘
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌 미디어영상학과 알려주세요
+$<글로벌 미디어영상학과:H_GLOMIDI>  알려주세요
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌 미디어영상학과 알려줘봐
+$<글로벌 미디어영상학과:H_GLOMIDI>  알려줘봐
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌 미디어영상학과 알려줘요
+$<글로벌 미디어영상학과:H_GLOMIDI>  알려줘요
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌 미디어영상학과에 대해서 알려줘
+$<글로벌 미디어영상학과:H_GLOMIDI> 에 대해서 알려줘
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어영상학과에 대해서 알려주세요
+$<글로벌 미디어영상학과:H_GLOMIDI> 에 대해서 알려주세요
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌 미디어영상학과에 관해서 알려줘
+$<글로벌 미디어영상학과:H_GLOMIDI> 에 관해서 알려줘
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌 미디어영상학과를 알려줘
+$<글로벌 미디어영상학과:H_GLOMIDI> 를 알려줘
+1	글로벌 미디어영상학과	NNG	B_H_GLOMIDI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 게임멀티
+$<게임멀티:H_GAME> 
+1	게임멀티	NNG	B_H_GAME
+
+; 게임멀티 알려줘
+$<게임멀티:H_GAME>  알려줘
+1	게임멀티	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 게임멀티 알려주세요
+$<게임멀티:H_GAME>  알려주세요
+1	게임멀티	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 게임멀티 알려줘봐
+$<게임멀티:H_GAME>  알려줘봐
+1	게임멀티	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 게임멀티 알려줘요
+$<게임멀티:H_GAME>  알려줘요
+1	게임멀티	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 게임멀티에 대해서 알려줘
+$<게임멀티:H_GAME> 에 대해서 알려줘
+1	게임멀티	NNG	B_H_GAME
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 게임멀티에 대해서 알려주세요
+$<게임멀티:H_GAME> 에 대해서 알려주세요
+1	게임멀티	NNG	B_H_GAME
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 게임멀티에 관해서 알려줘
+$<게임멀티:H_GAME> 에 관해서 알려줘
+1	게임멀티	NNG	B_H_GAME
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 게임멀티를 알려줘
+$<게임멀티:H_GAME> 를 알려줘
+1	게임멀티	NNG	B_H_GAME
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 겜멀
+$<겜멀:H_GAME> 
+1	겜멀	NNG	B_H_GAME
+
+; 겜멀 알려줘
+$<겜멀:H_GAME>  알려줘
+1	겜멀	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 겜멀 알려주세요
+$<겜멀:H_GAME>  알려주세요
+1	겜멀	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 겜멀 알려줘봐
+$<겜멀:H_GAME>  알려줘봐
+1	겜멀	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 겜멀 알려줘요
+$<겜멀:H_GAME>  알려줘요
+1	겜멀	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 겜멀에 대해서 알려줘
+$<겜멀:H_GAME> 에 대해서 알려줘
+1	겜멀	NNG	B_H_GAME
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 겜멀에 대해서 알려주세요
+$<겜멀:H_GAME> 에 대해서 알려주세요
+1	겜멀	NNG	B_H_GAME
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 겜멀에 관해서 알려줘
+$<겜멀:H_GAME> 에 관해서 알려줘
+1	겜멀	NNG	B_H_GAME
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 겜멀를 알려줘
+$<겜멀:H_GAME> 를 알려줘
+1	겜멀	NNG	B_H_GAME
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 게임멀티미디어학과
+$<게임멀티미디어학과:H_GAME> 
+1	게임멀티미디어학과	NNG	B_H_GAME
+
+; 게임멀티미디어학과 알려줘
+$<게임멀티미디어학과:H_GAME>  알려줘
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 게임멀티미디어학과 알려주세요
+$<게임멀티미디어학과:H_GAME>  알려주세요
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 게임멀티미디어학과 알려줘봐
+$<게임멀티미디어학과:H_GAME>  알려줘봐
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 게임멀티미디어학과 알려줘요
+$<게임멀티미디어학과:H_GAME>  알려줘요
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 게임멀티미디어학과에 대해서 알려줘
+$<게임멀티미디어학과:H_GAME> 에 대해서 알려줘
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 게임멀티미디어학과에 대해서 알려주세요
+$<게임멀티미디어학과:H_GAME> 에 대해서 알려주세요
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 게임멀티미디어학과에 관해서 알려줘
+$<게임멀티미디어학과:H_GAME> 에 관해서 알려줘
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 게임멀티미디어학과를 알려줘
+$<게임멀티미디어학과:H_GAME> 를 알려줘
+1	게임멀티미디어학과	NNG	B_H_GAME
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 미디어디자인
+$<미디어디자인:H_MIDIDESIG> 
+1	미디어디자인	NNG	B_H_MIDIDESIG
+
+; 미디어디자인 알려줘
+$<미디어디자인:H_MIDIDESIG>  알려줘
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 미디어디자인 알려주세요
+$<미디어디자인:H_MIDIDESIG>  알려주세요
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 미디어디자인 알려줘봐
+$<미디어디자인:H_MIDIDESIG>  알려줘봐
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 미디어디자인 알려줘요
+$<미디어디자인:H_MIDIDESIG>  알려줘요
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 미디어디자인에 대해서 알려줘
+$<미디어디자인:H_MIDIDESIG> 에 대해서 알려줘
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인에 대해서 알려주세요
+$<미디어디자인:H_MIDIDESIG> 에 대해서 알려주세요
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 미디어디자인에 관해서 알려줘
+$<미디어디자인:H_MIDIDESIG> 에 관해서 알려줘
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인를 알려줘
+$<미디어디자인:H_MIDIDESIG> 를 알려줘
+1	미디어디자인	NNG	B_H_MIDIDESIG
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 미디어디자인학과
+$<미디어디자인학과:H_MIDIDESIG> 
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+
+; 미디어디자인학과 알려줘
+$<미디어디자인학과:H_MIDIDESIG>  알려줘
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 미디어디자인학과 알려주세요
+$<미디어디자인학과:H_MIDIDESIG>  알려주세요
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 미디어디자인학과 알려줘봐
+$<미디어디자인학과:H_MIDIDESIG>  알려줘봐
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 미디어디자인학과 알려줘요
+$<미디어디자인학과:H_MIDIDESIG>  알려줘요
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 미디어디자인학과에 대해서 알려줘
+$<미디어디자인학과:H_MIDIDESIG> 에 대해서 알려줘
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인학과에 대해서 알려주세요
+$<미디어디자인학과:H_MIDIDESIG> 에 대해서 알려주세요
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 미디어디자인학과에 관해서 알려줘
+$<미디어디자인학과:H_MIDIDESIG> 에 관해서 알려줘
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인학과를 알려줘
+$<미디어디자인학과:H_MIDIDESIG> 를 알려줘
+1	미디어디자인학과	NNG	B_H_MIDIDESIG
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 미디어디자인영상
+$<미디어디자인영상:H_MIDIDESIG> 
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+
+; 미디어디자인영상 알려줘
+$<미디어디자인영상:H_MIDIDESIG>  알려줘
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 미디어디자인영상 알려주세요
+$<미디어디자인영상:H_MIDIDESIG>  알려주세요
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 미디어디자인영상 알려줘봐
+$<미디어디자인영상:H_MIDIDESIG>  알려줘봐
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 미디어디자인영상 알려줘요
+$<미디어디자인영상:H_MIDIDESIG>  알려줘요
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 미디어디자인영상에 대해서 알려줘
+$<미디어디자인영상:H_MIDIDESIG> 에 대해서 알려줘
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인영상에 대해서 알려주세요
+$<미디어디자인영상:H_MIDIDESIG> 에 대해서 알려주세요
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 미디어디자인영상에 관해서 알려줘
+$<미디어디자인영상:H_MIDIDESIG> 에 관해서 알려줘
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인영상를 알려줘
+$<미디어디자인영상:H_MIDIDESIG> 를 알려줘
+1	미디어디자인영상	NNG	B_H_MIDIDESIG
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 미디어디자인 영상학과
+$<미디어디자인 영상학과:H_MIDIDESIG> 
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+
+; 미디어디자인 영상학과 알려줘
+$<미디어디자인 영상학과:H_MIDIDESIG>  알려줘
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 미디어디자인 영상학과 알려주세요
+$<미디어디자인 영상학과:H_MIDIDESIG>  알려주세요
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 미디어디자인 영상학과 알려줘봐
+$<미디어디자인 영상학과:H_MIDIDESIG>  알려줘봐
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 미디어디자인 영상학과 알려줘요
+$<미디어디자인 영상학과:H_MIDIDESIG>  알려줘요
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 미디어디자인 영상학과에 대해서 알려줘
+$<미디어디자인 영상학과:H_MIDIDESIG> 에 대해서 알려줘
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인 영상학과에 대해서 알려주세요
+$<미디어디자인 영상학과:H_MIDIDESIG> 에 대해서 알려주세요
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 미디어디자인 영상학과에 관해서 알려줘
+$<미디어디자인 영상학과:H_MIDIDESIG> 에 관해서 알려줘
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 미디어디자인 영상학과를 알려줘
+$<미디어디자인 영상학과:H_MIDIDESIG> 를 알려줘
+1	미디어디자인 영상학과	NNG	B_H_MIDIDESIG
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 컴정
+$<컴정:H_COM> 
+1	컴정	NNG	B_H_COM
+
+; 컴정 알려줘
+$<컴정:H_COM>  알려줘
+1	컴정	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 컴정 알려주세요
+$<컴정:H_COM>  알려주세요
+1	컴정	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 컴정 알려줘봐
+$<컴정:H_COM>  알려줘봐
+1	컴정	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 컴정 알려줘요
+$<컴정:H_COM>  알려줘요
+1	컴정	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 컴정에 대해서 알려줘
+$<컴정:H_COM> 에 대해서 알려줘
+1	컴정	NNG	B_H_COM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 컴정에 대해서 알려주세요
+$<컴정:H_COM> 에 대해서 알려주세요
+1	컴정	NNG	B_H_COM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 컴정에 관해서 알려줘
+$<컴정:H_COM> 에 관해서 알려줘
+1	컴정	NNG	B_H_COM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 컴정를 알려줘
+$<컴정:H_COM> 를 알려줘
+1	컴정	NNG	B_H_COM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 컴퓨터 정보보안 학과
+$<컴퓨터 정보보안 학과:H_COM> 
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+
+; 컴퓨터 정보보안 학과 알려줘
+$<컴퓨터 정보보안 학과:H_COM>  알려줘
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 컴퓨터 정보보안 학과 알려주세요
+$<컴퓨터 정보보안 학과:H_COM>  알려주세요
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 컴퓨터 정보보안 학과 알려줘봐
+$<컴퓨터 정보보안 학과:H_COM>  알려줘봐
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 컴퓨터 정보보안 학과 알려줘요
+$<컴퓨터 정보보안 학과:H_COM>  알려줘요
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 컴퓨터 정보보안 학과에 대해서 알려줘
+$<컴퓨터 정보보안 학과:H_COM> 에 대해서 알려줘
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 컴퓨터 정보보안 학과에 대해서 알려주세요
+$<컴퓨터 정보보안 학과:H_COM> 에 대해서 알려주세요
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 컴퓨터 정보보안 학과에 관해서 알려줘
+$<컴퓨터 정보보안 학과:H_COM> 에 관해서 알려줘
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 컴퓨터 정보보안 학과를 알려줘
+$<컴퓨터 정보보안 학과:H_COM> 를 알려줘
+1	컴퓨터 정보보안 학과	NNG	B_H_COM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; IT
+$<IT:H_IT> 
+1	IT	NNG	B_H_IT
+
+; IT 알려줘
+$<IT:H_IT>  알려줘
+1	IT	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; IT 알려주세요
+$<IT:H_IT>  알려주세요
+1	IT	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; IT 알려줘봐
+$<IT:H_IT>  알려줘봐
+1	IT	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; IT 알려줘요
+$<IT:H_IT>  알려줘요
+1	IT	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; IT에 대해서 알려줘
+$<IT:H_IT> 에 대해서 알려줘
+1	IT	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT에 대해서 알려주세요
+$<IT:H_IT> 에 대해서 알려주세요
+1	IT	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; IT에 관해서 알려줘
+$<IT:H_IT> 에 관해서 알려줘
+1	IT	NNG	B_H_IT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT를 알려줘
+$<IT:H_IT> 를 알려줘
+1	IT	NNG	B_H_IT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; IT 학과
+$<IT 학과:H_IT> 
+1	IT 학과	NNG	B_H_IT
+
+; IT 학과 알려줘
+$<IT 학과:H_IT>  알려줘
+1	IT 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; IT 학과 알려주세요
+$<IT 학과:H_IT>  알려주세요
+1	IT 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; IT 학과 알려줘봐
+$<IT 학과:H_IT>  알려줘봐
+1	IT 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; IT 학과 알려줘요
+$<IT 학과:H_IT>  알려줘요
+1	IT 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; IT 학과에 대해서 알려줘
+$<IT 학과:H_IT> 에 대해서 알려줘
+1	IT 학과	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT 학과에 대해서 알려주세요
+$<IT 학과:H_IT> 에 대해서 알려주세요
+1	IT 학과	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; IT 학과에 관해서 알려줘
+$<IT 학과:H_IT> 에 관해서 알려줘
+1	IT 학과	NNG	B_H_IT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT 학과를 알려줘
+$<IT 학과:H_IT> 를 알려줘
+1	IT 학과	NNG	B_H_IT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; IT보안
+$<IT보안:H_IT> 
+1	IT보안	NNG	B_H_IT
+
+; IT보안 알려줘
+$<IT보안:H_IT>  알려줘
+1	IT보안	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; IT보안 알려주세요
+$<IT보안:H_IT>  알려주세요
+1	IT보안	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; IT보안 알려줘봐
+$<IT보안:H_IT>  알려줘봐
+1	IT보안	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; IT보안 알려줘요
+$<IT보안:H_IT>  알려줘요
+1	IT보안	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; IT보안에 대해서 알려줘
+$<IT보안:H_IT> 에 대해서 알려줘
+1	IT보안	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT보안에 대해서 알려주세요
+$<IT보안:H_IT> 에 대해서 알려주세요
+1	IT보안	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; IT보안에 관해서 알려줘
+$<IT보안:H_IT> 에 관해서 알려줘
+1	IT보안	NNG	B_H_IT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT보안를 알려줘
+$<IT보안:H_IT> 를 알려줘
+1	IT보안	NNG	B_H_IT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; IT보안 학과
+$<IT보안 학과:H_IT> 
+1	IT보안 학과	NNG	B_H_IT
+
+; IT보안 학과 알려줘
+$<IT보안 학과:H_IT>  알려줘
+1	IT보안 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; IT보안 학과 알려주세요
+$<IT보안 학과:H_IT>  알려주세요
+1	IT보안 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; IT보안 학과 알려줘봐
+$<IT보안 학과:H_IT>  알려줘봐
+1	IT보안 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; IT보안 학과 알려줘요
+$<IT보안 학과:H_IT>  알려줘요
+1	IT보안 학과	NNG	B_H_IT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; IT보안 학과에 대해서 알려줘
+$<IT보안 학과:H_IT> 에 대해서 알려줘
+1	IT보안 학과	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT보안 학과에 대해서 알려주세요
+$<IT보안 학과:H_IT> 에 대해서 알려주세요
+1	IT보안 학과	NNG	B_H_IT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; IT보안 학과에 관해서 알려줘
+$<IT보안 학과:H_IT> 에 관해서 알려줘
+1	IT보안 학과	NNG	B_H_IT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; IT보안 학과를 알려줘
+$<IT보안 학과:H_IT> 를 알려줘
+1	IT보안 학과	NNG	B_H_IT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌조리
+$<글로벌조리:H_GLOCOOK> 
+1	글로벌조리	NNG	B_H_GLOCOOK
+
+; 글로벌조리 알려줘
+$<글로벌조리:H_GLOCOOK>  알려줘
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌조리 알려주세요
+$<글로벌조리:H_GLOCOOK>  알려주세요
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌조리 알려줘봐
+$<글로벌조리:H_GLOCOOK>  알려줘봐
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌조리 알려줘요
+$<글로벌조리:H_GLOCOOK>  알려줘요
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌조리에 대해서 알려줘
+$<글로벌조리:H_GLOCOOK> 에 대해서 알려줘
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌조리에 대해서 알려주세요
+$<글로벌조리:H_GLOCOOK> 에 대해서 알려주세요
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌조리에 관해서 알려줘
+$<글로벌조리:H_GLOCOOK> 에 관해서 알려줘
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌조리를 알려줘
+$<글로벌조리:H_GLOCOOK> 를 알려줘
+1	글로벌조리	NNG	B_H_GLOCOOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌조리학과
+$<글로벌조리학과:H_GLOCOOK> 
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+
+; 글로벌조리학과 알려줘
+$<글로벌조리학과:H_GLOCOOK>  알려줘
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌조리학과 알려주세요
+$<글로벌조리학과:H_GLOCOOK>  알려주세요
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌조리학과 알려줘봐
+$<글로벌조리학과:H_GLOCOOK>  알려줘봐
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌조리학과 알려줘요
+$<글로벌조리학과:H_GLOCOOK>  알려줘요
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌조리학과에 대해서 알려줘
+$<글로벌조리학과:H_GLOCOOK> 에 대해서 알려줘
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌조리학과에 대해서 알려주세요
+$<글로벌조리학과:H_GLOCOOK> 에 대해서 알려주세요
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌조리학과에 관해서 알려줘
+$<글로벌조리학과:H_GLOCOOK> 에 관해서 알려줘
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌조리학과를 알려줘
+$<글로벌조리학과:H_GLOCOOK> 를 알려줘
+1	글로벌조리학과	NNG	B_H_GLOCOOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 폴보퀴즈조리
+$<폴보퀴즈조리:H_PAULBO> 
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+
+; 폴보퀴즈조리 알려줘
+$<폴보퀴즈조리:H_PAULBO>  알려줘
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 폴보퀴즈조리 알려주세요
+$<폴보퀴즈조리:H_PAULBO>  알려주세요
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 폴보퀴즈조리 알려줘봐
+$<폴보퀴즈조리:H_PAULBO>  알려줘봐
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 폴보퀴즈조리 알려줘요
+$<폴보퀴즈조리:H_PAULBO>  알려줘요
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 폴보퀴즈조리에 대해서 알려줘
+$<폴보퀴즈조리:H_PAULBO> 에 대해서 알려줘
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 폴보퀴즈조리에 대해서 알려주세요
+$<폴보퀴즈조리:H_PAULBO> 에 대해서 알려주세요
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 폴보퀴즈조리에 관해서 알려줘
+$<폴보퀴즈조리:H_PAULBO> 에 관해서 알려줘
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 폴보퀴즈조리를 알려줘
+$<폴보퀴즈조리:H_PAULBO> 를 알려줘
+1	폴보퀴즈조리	NNG	B_H_PAULBO
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 폴보퀴즈조리학과
+$<폴보퀴즈조리학과:H_PAULBO> 
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+
+; 폴보퀴즈조리학과 알려줘
+$<폴보퀴즈조리학과:H_PAULBO>  알려줘
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 폴보퀴즈조리학과 알려주세요
+$<폴보퀴즈조리학과:H_PAULBO>  알려주세요
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 폴보퀴즈조리학과 알려줘봐
+$<폴보퀴즈조리학과:H_PAULBO>  알려줘봐
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 폴보퀴즈조리학과 알려줘요
+$<폴보퀴즈조리학과:H_PAULBO>  알려줘요
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 폴보퀴즈조리학과에 대해서 알려줘
+$<폴보퀴즈조리학과:H_PAULBO> 에 대해서 알려줘
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 폴보퀴즈조리학과에 대해서 알려주세요
+$<폴보퀴즈조리학과:H_PAULBO> 에 대해서 알려주세요
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 폴보퀴즈조리학과에 관해서 알려줘
+$<폴보퀴즈조리학과:H_PAULBO> 에 관해서 알려줘
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 폴보퀴즈조리학과를 알려줘
+$<폴보퀴즈조리학과:H_PAULBO> 를 알려줘
+1	폴보퀴즈조리학과	NNG	B_H_PAULBO
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 폴보
+$<폴보:H_PAULBO> 
+1	폴보	NNG	B_H_PAULBO
+
+; 폴보 알려줘
+$<폴보:H_PAULBO>  알려줘
+1	폴보	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 폴보 알려주세요
+$<폴보:H_PAULBO>  알려주세요
+1	폴보	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 폴보 알려줘봐
+$<폴보:H_PAULBO>  알려줘봐
+1	폴보	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 폴보 알려줘요
+$<폴보:H_PAULBO>  알려줘요
+1	폴보	NNG	B_H_PAULBO
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 폴보에 대해서 알려줘
+$<폴보:H_PAULBO> 에 대해서 알려줘
+1	폴보	NNG	B_H_PAULBO
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 폴보에 대해서 알려주세요
+$<폴보:H_PAULBO> 에 대해서 알려주세요
+1	폴보	NNG	B_H_PAULBO
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 폴보에 관해서 알려줘
+$<폴보:H_PAULBO> 에 관해서 알려줘
+1	폴보	NNG	B_H_PAULBO
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 폴보를 알려줘
+$<폴보:H_PAULBO> 를 알려줘
+1	폴보	NNG	B_H_PAULBO
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌외식
+$<글로벌외식:H_GLOCOST> 
+1	글로벌외식	NNG	B_H_GLOCOST
+
+; 글로벌외식 알려줘
+$<글로벌외식:H_GLOCOST>  알려줘
+1	글로벌외식	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌외식 알려주세요
+$<글로벌외식:H_GLOCOST>  알려주세요
+1	글로벌외식	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌외식 알려줘봐
+$<글로벌외식:H_GLOCOST>  알려줘봐
+1	글로벌외식	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌외식 알려줘요
+$<글로벌외식:H_GLOCOST>  알려줘요
+1	글로벌외식	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌외식에 대해서 알려줘
+$<글로벌외식:H_GLOCOST> 에 대해서 알려줘
+1	글로벌외식	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식에 대해서 알려주세요
+$<글로벌외식:H_GLOCOST> 에 대해서 알려주세요
+1	글로벌외식	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌외식에 관해서 알려줘
+$<글로벌외식:H_GLOCOST> 에 관해서 알려줘
+1	글로벌외식	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식를 알려줘
+$<글로벌외식:H_GLOCOST> 를 알려줘
+1	글로벌외식	NNG	B_H_GLOCOST
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 글로벌외식학과
+$<글로벌외식학과:H_GLOCOST> 
+1	글로벌외식학과	NNG	B_H_GLOCOST
+
+; 글로벌외식학과 알려줘
+$<글로벌외식학과:H_GLOCOST>  알려줘
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌외식학과 알려주세요
+$<글로벌외식학과:H_GLOCOST>  알려주세요
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌외식학과 알려줘봐
+$<글로벌외식학과:H_GLOCOST>  알려줘봐
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌외식학과 알려줘요
+$<글로벌외식학과:H_GLOCOST>  알려줘요
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌외식학과에 대해서 알려줘
+$<글로벌외식학과:H_GLOCOST> 에 대해서 알려줘
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식학과에 대해서 알려주세요
+$<글로벌외식학과:H_GLOCOST> 에 대해서 알려주세요
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌외식학과에 관해서 알려줘
+$<글로벌외식학과:H_GLOCOST> 에 관해서 알려줘
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식학과를 알려줘
+$<글로벌외식학과:H_GLOCOST> 를 알려줘
+1	글로벌외식학과	NNG	B_H_GLOCOST
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌외식창업
+$<글로벌외식창업:H_GLOCOST> 
+1	글로벌외식창업	NNG	B_H_GLOCOST
+
+; 글로벌외식창업 알려줘
+$<글로벌외식창업:H_GLOCOST>  알려줘
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌외식창업 알려주세요
+$<글로벌외식창업:H_GLOCOST>  알려주세요
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌외식창업 알려줘봐
+$<글로벌외식창업:H_GLOCOST>  알려줘봐
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌외식창업 알려줘요
+$<글로벌외식창업:H_GLOCOST>  알려줘요
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌외식창업에 대해서 알려줘
+$<글로벌외식창업:H_GLOCOST> 에 대해서 알려줘
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식창업에 대해서 알려주세요
+$<글로벌외식창업:H_GLOCOST> 에 대해서 알려주세요
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌외식창업에 관해서 알려줘
+$<글로벌외식창업:H_GLOCOST> 에 관해서 알려줘
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식창업를 알려줘
+$<글로벌외식창업:H_GLOCOST> 를 알려줘
+1	글로벌외식창업	NNG	B_H_GLOCOST
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 글로벌외식창업학과
+$<글로벌외식창업학과:H_GLOCOST> 
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+
+; 글로벌외식창업학과 알려줘
+$<글로벌외식창업학과:H_GLOCOST>  알려줘
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌외식창업학과 알려주세요
+$<글로벌외식창업학과:H_GLOCOST>  알려주세요
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌외식창업학과 알려줘봐
+$<글로벌외식창업학과:H_GLOCOST>  알려줘봐
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌외식창업학과 알려줘요
+$<글로벌외식창업학과:H_GLOCOST>  알려줘요
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌외식창업학과에 대해서 알려줘
+$<글로벌외식창업학과:H_GLOCOST> 에 대해서 알려줘
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식창업학과에 대해서 알려주세요
+$<글로벌외식창업학과:H_GLOCOST> 에 대해서 알려주세요
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌외식창업학과에 관해서 알려줘
+$<글로벌외식창업학과:H_GLOCOST> 에 관해서 알려줘
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식창업학과를 알려줘
+$<글로벌외식창업학과:H_GLOCOST> 를 알려줘
+1	글로벌외식창업학과	NNG	B_H_GLOCOST
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 글로벌외식창업전공
+$<글로벌외식창업전공:H_GLOCOST> 
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+
+; 글로벌외식창업전공 알려줘
+$<글로벌외식창업전공:H_GLOCOST>  알려줘
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 글로벌외식창업전공 알려주세요
+$<글로벌외식창업전공:H_GLOCOST>  알려주세요
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 글로벌외식창업전공 알려줘봐
+$<글로벌외식창업전공:H_GLOCOST>  알려줘봐
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 글로벌외식창업전공 알려줘요
+$<글로벌외식창업전공:H_GLOCOST>  알려줘요
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 글로벌외식창업전공에 대해서 알려줘
+$<글로벌외식창업전공:H_GLOCOST> 에 대해서 알려줘
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식창업전공에 대해서 알려주세요
+$<글로벌외식창업전공:H_GLOCOST> 에 대해서 알려주세요
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 글로벌외식창업전공에 관해서 알려줘
+$<글로벌외식창업전공:H_GLOCOST> 에 관해서 알려줘
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 글로벌외식창업전공를 알려줘
+$<글로벌외식창업전공:H_GLOCOST> 를 알려줘
+1	글로벌외식창업전공	NNG	B_H_GLOCOST
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 외식조리
+$<외식조리:H_COOK> 
+1	외식조리	NNG	B_H_COOK
+
+; 외식조리 알려줘
+$<외식조리:H_COOK>  알려줘
+1	외식조리	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 외식조리 알려주세요
+$<외식조리:H_COOK>  알려주세요
+1	외식조리	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 외식조리 알려줘봐
+$<외식조리:H_COOK>  알려줘봐
+1	외식조리	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 외식조리 알려줘요
+$<외식조리:H_COOK>  알려줘요
+1	외식조리	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 외식조리에 대해서 알려줘
+$<외식조리:H_COOK> 에 대해서 알려줘
+1	외식조리	NNG	B_H_COOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리에 대해서 알려주세요
+$<외식조리:H_COOK> 에 대해서 알려주세요
+1	외식조리	NNG	B_H_COOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 외식조리에 관해서 알려줘
+$<외식조리:H_COOK> 에 관해서 알려줘
+1	외식조리	NNG	B_H_COOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리를 알려줘
+$<외식조리:H_COOK> 를 알려줘
+1	외식조리	NNG	B_H_COOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 외식조리학과
+$<외식조리학과:H_COOK> 
+1	외식조리학과	NNG	B_H_COOK
+
+; 외식조리학과 알려줘
+$<외식조리학과:H_COOK>  알려줘
+1	외식조리학과	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 외식조리학과 알려주세요
+$<외식조리학과:H_COOK>  알려주세요
+1	외식조리학과	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 외식조리학과 알려줘봐
+$<외식조리학과:H_COOK>  알려줘봐
+1	외식조리학과	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 외식조리학과 알려줘요
+$<외식조리학과:H_COOK>  알려줘요
+1	외식조리학과	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 외식조리학과에 대해서 알려줘
+$<외식조리학과:H_COOK> 에 대해서 알려줘
+1	외식조리학과	NNG	B_H_COOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리학과에 대해서 알려주세요
+$<외식조리학과:H_COOK> 에 대해서 알려주세요
+1	외식조리학과	NNG	B_H_COOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 외식조리학과에 관해서 알려줘
+$<외식조리학과:H_COOK> 에 관해서 알려줘
+1	외식조리학과	NNG	B_H_COOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리학과를 알려줘
+$<외식조리학과:H_COOK> 를 알려줘
+1	외식조리학과	NNG	B_H_COOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 외조
+$<외조:H_COOK> 
+1	외조	NNG	B_H_COOK
+
+; 외조 알려줘
+$<외조:H_COOK>  알려줘
+1	외조	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 외조 알려주세요
+$<외조:H_COOK>  알려주세요
+1	외조	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 외조 알려줘봐
+$<외조:H_COOK>  알려줘봐
+1	외조	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 외조 알려줘요
+$<외조:H_COOK>  알려줘요
+1	외조	NNG	B_H_COOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 외조에 대해서 알려줘
+$<외조:H_COOK> 에 대해서 알려줘
+1	외조	NNG	B_H_COOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외조에 대해서 알려주세요
+$<외조:H_COOK> 에 대해서 알려주세요
+1	외조	NNG	B_H_COOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 외조에 관해서 알려줘
+$<외조:H_COOK> 에 관해서 알려줘
+1	외조	NNG	B_H_COOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외조를 알려줘
+$<외조:H_COOK> 를 알려줘
+1	외조	NNG	B_H_COOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 한식
+$<한식:H_KOCOOK> 
+1	한식	NNG	B_H_KOCOOK
+
+; 한식 알려줘
+$<한식:H_KOCOOK>  알려줘
+1	한식	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 한식 알려주세요
+$<한식:H_KOCOOK>  알려주세요
+1	한식	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 한식 알려줘봐
+$<한식:H_KOCOOK>  알려줘봐
+1	한식	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 한식 알려줘요
+$<한식:H_KOCOOK>  알려줘요
+1	한식	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 한식에 대해서 알려줘
+$<한식:H_KOCOOK> 에 대해서 알려줘
+1	한식	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식에 대해서 알려주세요
+$<한식:H_KOCOOK> 에 대해서 알려주세요
+1	한식	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 한식에 관해서 알려줘
+$<한식:H_KOCOOK> 에 관해서 알려줘
+1	한식	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식를 알려줘
+$<한식:H_KOCOOK> 를 알려줘
+1	한식	NNG	B_H_KOCOOK
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 한식조리
+$<한식조리:H_KOCOOK> 
+1	한식조리	NNG	B_H_KOCOOK
+
+; 한식조리 알려줘
+$<한식조리:H_KOCOOK>  알려줘
+1	한식조리	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 한식조리 알려주세요
+$<한식조리:H_KOCOOK>  알려주세요
+1	한식조리	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 한식조리 알려줘봐
+$<한식조리:H_KOCOOK>  알려줘봐
+1	한식조리	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 한식조리 알려줘요
+$<한식조리:H_KOCOOK>  알려줘요
+1	한식조리	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 한식조리에 대해서 알려줘
+$<한식조리:H_KOCOOK> 에 대해서 알려줘
+1	한식조리	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리에 대해서 알려주세요
+$<한식조리:H_KOCOOK> 에 대해서 알려주세요
+1	한식조리	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 한식조리에 관해서 알려줘
+$<한식조리:H_KOCOOK> 에 관해서 알려줘
+1	한식조리	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리를 알려줘
+$<한식조리:H_KOCOOK> 를 알려줘
+1	한식조리	NNG	B_H_KOCOOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 한식조리학과
+$<한식조리학과:H_KOCOOK> 
+1	한식조리학과	NNG	B_H_KOCOOK
+
+; 한식조리학과 알려줘
+$<한식조리학과:H_KOCOOK>  알려줘
+1	한식조리학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 한식조리학과 알려주세요
+$<한식조리학과:H_KOCOOK>  알려주세요
+1	한식조리학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 한식조리학과 알려줘봐
+$<한식조리학과:H_KOCOOK>  알려줘봐
+1	한식조리학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 한식조리학과 알려줘요
+$<한식조리학과:H_KOCOOK>  알려줘요
+1	한식조리학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 한식조리학과에 대해서 알려줘
+$<한식조리학과:H_KOCOOK> 에 대해서 알려줘
+1	한식조리학과	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리학과에 대해서 알려주세요
+$<한식조리학과:H_KOCOOK> 에 대해서 알려주세요
+1	한식조리학과	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 한식조리학과에 관해서 알려줘
+$<한식조리학과:H_KOCOOK> 에 관해서 알려줘
+1	한식조리학과	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리학과를 알려줘
+$<한식조리학과:H_KOCOOK> 를 알려줘
+1	한식조리학과	NNG	B_H_KOCOOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 한식조리과학
+$<한식조리과학:H_KOCOOK> 
+1	한식조리과학	NNG	B_H_KOCOOK
+
+; 한식조리과학 알려줘
+$<한식조리과학:H_KOCOOK>  알려줘
+1	한식조리과학	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 한식조리과학 알려주세요
+$<한식조리과학:H_KOCOOK>  알려주세요
+1	한식조리과학	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 한식조리과학 알려줘봐
+$<한식조리과학:H_KOCOOK>  알려줘봐
+1	한식조리과학	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 한식조리과학 알려줘요
+$<한식조리과학:H_KOCOOK>  알려줘요
+1	한식조리과학	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 한식조리과학에 대해서 알려줘
+$<한식조리과학:H_KOCOOK> 에 대해서 알려줘
+1	한식조리과학	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리과학에 대해서 알려주세요
+$<한식조리과학:H_KOCOOK> 에 대해서 알려주세요
+1	한식조리과학	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 한식조리과학에 관해서 알려줘
+$<한식조리과학:H_KOCOOK> 에 관해서 알려줘
+1	한식조리과학	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리과학를 알려줘
+$<한식조리과학:H_KOCOOK> 를 알려줘
+1	한식조리과학	NNG	B_H_KOCOOK
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 한식조리과학학과
+$<한식조리과학학과:H_KOCOOK> 
+1	한식조리과학학과	NNG	B_H_KOCOOK
+
+; 한식조리과학학과 알려줘
+$<한식조리과학학과:H_KOCOOK>  알려줘
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 한식조리과학학과 알려주세요
+$<한식조리과학학과:H_KOCOOK>  알려주세요
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 한식조리과학학과 알려줘봐
+$<한식조리과학학과:H_KOCOOK>  알려줘봐
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 한식조리과학학과 알려줘요
+$<한식조리과학학과:H_KOCOOK>  알려줘요
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 한식조리과학학과에 대해서 알려줘
+$<한식조리과학학과:H_KOCOOK> 에 대해서 알려줘
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리과학학과에 대해서 알려주세요
+$<한식조리과학학과:H_KOCOOK> 에 대해서 알려주세요
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 한식조리과학학과에 관해서 알려줘
+$<한식조리과학학과:H_KOCOOK> 에 관해서 알려줘
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 한식조리과학학과를 알려줘
+$<한식조리과학학과:H_KOCOOK> 를 알려줘
+1	한식조리과학학과	NNG	B_H_KOCOOK
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 외식조리경영
+$<외식조리경영:H_COOKBM> 
+1	외식조리경영	NNG	B_H_COOKBM
+
+; 외식조리경영 알려줘
+$<외식조리경영:H_COOKBM>  알려줘
+1	외식조리경영	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 외식조리경영 알려주세요
+$<외식조리경영:H_COOKBM>  알려주세요
+1	외식조리경영	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 외식조리경영 알려줘봐
+$<외식조리경영:H_COOKBM>  알려줘봐
+1	외식조리경영	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 외식조리경영 알려줘요
+$<외식조리경영:H_COOKBM>  알려줘요
+1	외식조리경영	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 외식조리경영에 대해서 알려줘
+$<외식조리경영:H_COOKBM> 에 대해서 알려줘
+1	외식조리경영	NNG	B_H_COOKBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리경영에 대해서 알려주세요
+$<외식조리경영:H_COOKBM> 에 대해서 알려주세요
+1	외식조리경영	NNG	B_H_COOKBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 외식조리경영에 관해서 알려줘
+$<외식조리경영:H_COOKBM> 에 관해서 알려줘
+1	외식조리경영	NNG	B_H_COOKBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리경영를 알려줘
+$<외식조리경영:H_COOKBM> 를 알려줘
+1	외식조리경영	NNG	B_H_COOKBM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 외식조리경영학과
+$<외식조리경영학과:H_COOKBM> 
+1	외식조리경영학과	NNG	B_H_COOKBM
+
+; 외식조리경영학과 알려줘
+$<외식조리경영학과:H_COOKBM>  알려줘
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 외식조리경영학과 알려주세요
+$<외식조리경영학과:H_COOKBM>  알려주세요
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 외식조리경영학과 알려줘봐
+$<외식조리경영학과:H_COOKBM>  알려줘봐
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 외식조리경영학과 알려줘요
+$<외식조리경영학과:H_COOKBM>  알려줘요
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 외식조리경영학과에 대해서 알려줘
+$<외식조리경영학과:H_COOKBM> 에 대해서 알려줘
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리경영학과에 대해서 알려주세요
+$<외식조리경영학과:H_COOKBM> 에 대해서 알려주세요
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 외식조리경영학과에 관해서 알려줘
+$<외식조리경영학과:H_COOKBM> 에 관해서 알려줘
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리경영학과를 알려줘
+$<외식조리경영학과:H_COOKBM> 를 알려줘
+1	외식조리경영학과	NNG	B_H_COOKBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 외식조리영양
+$<외식조리영양:H_COOKNU> 
+1	외식조리영양	NNG	B_H_COOKNU
+
+; 외식조리영양 알려줘
+$<외식조리영양:H_COOKNU>  알려줘
+1	외식조리영양	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 외식조리영양 알려주세요
+$<외식조리영양:H_COOKNU>  알려주세요
+1	외식조리영양	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 외식조리영양 알려줘봐
+$<외식조리영양:H_COOKNU>  알려줘봐
+1	외식조리영양	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 외식조리영양 알려줘요
+$<외식조리영양:H_COOKNU>  알려줘요
+1	외식조리영양	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 외식조리영양에 대해서 알려줘
+$<외식조리영양:H_COOKNU> 에 대해서 알려줘
+1	외식조리영양	NNG	B_H_COOKNU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리영양에 대해서 알려주세요
+$<외식조리영양:H_COOKNU> 에 대해서 알려주세요
+1	외식조리영양	NNG	B_H_COOKNU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 외식조리영양에 관해서 알려줘
+$<외식조리영양:H_COOKNU> 에 관해서 알려줘
+1	외식조리영양	NNG	B_H_COOKNU
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리영양를 알려줘
+$<외식조리영양:H_COOKNU> 를 알려줘
+1	외식조리영양	NNG	B_H_COOKNU
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 외식조리영양학과
+$<외식조리영양학과:H_COOKNU> 
+1	외식조리영양학과	NNG	B_H_COOKNU
+
+; 외식조리영양학과 알려줘
+$<외식조리영양학과:H_COOKNU>  알려줘
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 외식조리영양학과 알려주세요
+$<외식조리영양학과:H_COOKNU>  알려주세요
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 외식조리영양학과 알려줘봐
+$<외식조리영양학과:H_COOKNU>  알려줘봐
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 외식조리영양학과 알려줘요
+$<외식조리영양학과:H_COOKNU>  알려줘요
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 외식조리영양학과에 대해서 알려줘
+$<외식조리영양학과:H_COOKNU> 에 대해서 알려줘
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리영양학과에 대해서 알려주세요
+$<외식조리영양학과:H_COOKNU> 에 대해서 알려주세요
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 외식조리영양학과에 관해서 알려줘
+$<외식조리영양학과:H_COOKNU> 에 관해서 알려줘
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 외식조리영양학과를 알려줘
+$<외식조리영양학과:H_COOKNU> 를 알려줘
+1	외식조리영양학과	NNG	B_H_COOKNU
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 호텔경영
+$<호텔경영:H_HOBM> 
+1	호텔경영	NNG	B_H_HOBM
+
+; 호텔경영 알려줘
+$<호텔경영:H_HOBM>  알려줘
+1	호텔경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔경영 알려주세요
+$<호텔경영:H_HOBM>  알려주세요
+1	호텔경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔경영 알려줘봐
+$<호텔경영:H_HOBM>  알려줘봐
+1	호텔경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔경영 알려줘요
+$<호텔경영:H_HOBM>  알려줘요
+1	호텔경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔경영에 대해서 알려줘
+$<호텔경영:H_HOBM> 에 대해서 알려줘
+1	호텔경영	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔경영에 대해서 알려주세요
+$<호텔경영:H_HOBM> 에 대해서 알려주세요
+1	호텔경영	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔경영에 관해서 알려줘
+$<호텔경영:H_HOBM> 에 관해서 알려줘
+1	호텔경영	NNG	B_H_HOBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔경영를 알려줘
+$<호텔경영:H_HOBM> 를 알려줘
+1	호텔경영	NNG	B_H_HOBM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 호텔경영학과
+$<호텔경영학과:H_HOBM> 
+1	호텔경영학과	NNG	B_H_HOBM
+
+; 호텔경영학과 알려줘
+$<호텔경영학과:H_HOBM>  알려줘
+1	호텔경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔경영학과 알려주세요
+$<호텔경영학과:H_HOBM>  알려주세요
+1	호텔경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔경영학과 알려줘봐
+$<호텔경영학과:H_HOBM>  알려줘봐
+1	호텔경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔경영학과 알려줘요
+$<호텔경영학과:H_HOBM>  알려줘요
+1	호텔경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔경영학과에 대해서 알려줘
+$<호텔경영학과:H_HOBM> 에 대해서 알려줘
+1	호텔경영학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔경영학과에 대해서 알려주세요
+$<호텔경영학과:H_HOBM> 에 대해서 알려주세요
+1	호텔경영학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔경영학과에 관해서 알려줘
+$<호텔경영학과:H_HOBM> 에 관해서 알려줘
+1	호텔경영학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔경영학과를 알려줘
+$<호텔경영학과:H_HOBM> 를 알려줘
+1	호텔경영학과	NNG	B_H_HOBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 호텔관광
+$<호텔관광:H_HOBM> 
+1	호텔관광	NNG	B_H_HOBM
+
+; 호텔관광 알려줘
+$<호텔관광:H_HOBM>  알려줘
+1	호텔관광	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔관광 알려주세요
+$<호텔관광:H_HOBM>  알려주세요
+1	호텔관광	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔관광 알려줘봐
+$<호텔관광:H_HOBM>  알려줘봐
+1	호텔관광	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔관광 알려줘요
+$<호텔관광:H_HOBM>  알려줘요
+1	호텔관광	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔관광에 대해서 알려줘
+$<호텔관광:H_HOBM> 에 대해서 알려줘
+1	호텔관광	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광에 대해서 알려주세요
+$<호텔관광:H_HOBM> 에 대해서 알려주세요
+1	호텔관광	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔관광에 관해서 알려줘
+$<호텔관광:H_HOBM> 에 관해서 알려줘
+1	호텔관광	NNG	B_H_HOBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광를 알려줘
+$<호텔관광:H_HOBM> 를 알려줘
+1	호텔관광	NNG	B_H_HOBM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 호텔관광학과
+$<호텔관광학과:H_HOBM> 
+1	호텔관광학과	NNG	B_H_HOBM
+
+; 호텔관광학과 알려줘
+$<호텔관광학과:H_HOBM>  알려줘
+1	호텔관광학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔관광학과 알려주세요
+$<호텔관광학과:H_HOBM>  알려주세요
+1	호텔관광학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔관광학과 알려줘봐
+$<호텔관광학과:H_HOBM>  알려줘봐
+1	호텔관광학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔관광학과 알려줘요
+$<호텔관광학과:H_HOBM>  알려줘요
+1	호텔관광학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔관광학과에 대해서 알려줘
+$<호텔관광학과:H_HOBM> 에 대해서 알려줘
+1	호텔관광학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광학과에 대해서 알려주세요
+$<호텔관광학과:H_HOBM> 에 대해서 알려주세요
+1	호텔관광학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔관광학과에 관해서 알려줘
+$<호텔관광학과:H_HOBM> 에 관해서 알려줘
+1	호텔관광학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광학과를 알려줘
+$<호텔관광학과:H_HOBM> 를 알려줘
+1	호텔관광학과	NNG	B_H_HOBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 호텔관광경영
+$<호텔관광경영:H_HOBM> 
+1	호텔관광경영	NNG	B_H_HOBM
+
+; 호텔관광경영 알려줘
+$<호텔관광경영:H_HOBM>  알려줘
+1	호텔관광경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔관광경영 알려주세요
+$<호텔관광경영:H_HOBM>  알려주세요
+1	호텔관광경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔관광경영 알려줘봐
+$<호텔관광경영:H_HOBM>  알려줘봐
+1	호텔관광경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔관광경영 알려줘요
+$<호텔관광경영:H_HOBM>  알려줘요
+1	호텔관광경영	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔관광경영에 대해서 알려줘
+$<호텔관광경영:H_HOBM> 에 대해서 알려줘
+1	호텔관광경영	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광경영에 대해서 알려주세요
+$<호텔관광경영:H_HOBM> 에 대해서 알려주세요
+1	호텔관광경영	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔관광경영에 관해서 알려줘
+$<호텔관광경영:H_HOBM> 에 관해서 알려줘
+1	호텔관광경영	NNG	B_H_HOBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광경영를 알려줘
+$<호텔관광경영:H_HOBM> 를 알려줘
+1	호텔관광경영	NNG	B_H_HOBM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 호텔관광경영학과
+$<호텔관광경영학과:H_HOBM> 
+1	호텔관광경영학과	NNG	B_H_HOBM
+
+; 호텔관광경영학과 알려줘
+$<호텔관광경영학과:H_HOBM>  알려줘
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 호텔관광경영학과 알려주세요
+$<호텔관광경영학과:H_HOBM>  알려주세요
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 호텔관광경영학과 알려줘봐
+$<호텔관광경영학과:H_HOBM>  알려줘봐
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 호텔관광경영학과 알려줘요
+$<호텔관광경영학과:H_HOBM>  알려줘요
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 호텔관광경영학과에 대해서 알려줘
+$<호텔관광경영학과:H_HOBM> 에 대해서 알려줘
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광경영학과에 대해서 알려주세요
+$<호텔관광경영학과:H_HOBM> 에 대해서 알려주세요
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 호텔관광경영학과에 관해서 알려줘
+$<호텔관광경영학과:H_HOBM> 에 관해서 알려줘
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 호텔관광경영학과를 알려줘
+$<호텔관광경영학과:H_HOBM> 를 알려줘
+1	호텔관광경영학과	NNG	B_H_HOBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 사복
+$<사복:H_SOCIAL> 
+1	사복	NNG	B_H_SOCIAL
+
+; 사복 알려줘
+$<사복:H_SOCIAL>  알려줘
+1	사복	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 사복 알려주세요
+$<사복:H_SOCIAL>  알려주세요
+1	사복	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 사복 알려줘봐
+$<사복:H_SOCIAL>  알려줘봐
+1	사복	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 사복 알려줘요
+$<사복:H_SOCIAL>  알려줘요
+1	사복	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 사복에 대해서 알려줘
+$<사복:H_SOCIAL> 에 대해서 알려줘
+1	사복	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사복에 대해서 알려주세요
+$<사복:H_SOCIAL> 에 대해서 알려주세요
+1	사복	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 사복에 관해서 알려줘
+$<사복:H_SOCIAL> 에 관해서 알려줘
+1	사복	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사복를 알려줘
+$<사복:H_SOCIAL> 를 알려줘
+1	사복	NNG	B_H_SOCIAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 사회복지
+$<사회복지:H_SOCIAL> 
+1	사회복지	NNG	B_H_SOCIAL
+
+; 사회복지 알려줘
+$<사회복지:H_SOCIAL>  알려줘
+1	사회복지	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 사회복지 알려주세요
+$<사회복지:H_SOCIAL>  알려주세요
+1	사회복지	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 사회복지 알려줘봐
+$<사회복지:H_SOCIAL>  알려줘봐
+1	사회복지	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 사회복지 알려줘요
+$<사회복지:H_SOCIAL>  알려줘요
+1	사회복지	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 사회복지에 대해서 알려줘
+$<사회복지:H_SOCIAL> 에 대해서 알려줘
+1	사회복지	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사회복지에 대해서 알려주세요
+$<사회복지:H_SOCIAL> 에 대해서 알려주세요
+1	사회복지	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 사회복지에 관해서 알려줘
+$<사회복지:H_SOCIAL> 에 관해서 알려줘
+1	사회복지	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사회복지를 알려줘
+$<사회복지:H_SOCIAL> 를 알려줘
+1	사회복지	NNG	B_H_SOCIAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 사복학과
+$<사복학과:H_SOCIAL> 
+1	사복학과	NNG	B_H_SOCIAL
+
+; 사복학과 알려줘
+$<사복학과:H_SOCIAL>  알려줘
+1	사복학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 사복학과 알려주세요
+$<사복학과:H_SOCIAL>  알려주세요
+1	사복학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 사복학과 알려줘봐
+$<사복학과:H_SOCIAL>  알려줘봐
+1	사복학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 사복학과 알려줘요
+$<사복학과:H_SOCIAL>  알려줘요
+1	사복학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 사복학과에 대해서 알려줘
+$<사복학과:H_SOCIAL> 에 대해서 알려줘
+1	사복학과	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사복학과에 대해서 알려주세요
+$<사복학과:H_SOCIAL> 에 대해서 알려주세요
+1	사복학과	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 사복학과에 관해서 알려줘
+$<사복학과:H_SOCIAL> 에 관해서 알려줘
+1	사복학과	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사복학과를 알려줘
+$<사복학과:H_SOCIAL> 를 알려줘
+1	사복학과	NNG	B_H_SOCIAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 사회복지학과
+$<사회복지학과:H_SOCIAL> 
+1	사회복지학과	NNG	B_H_SOCIAL
+
+; 사회복지학과 알려줘
+$<사회복지학과:H_SOCIAL>  알려줘
+1	사회복지학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 사회복지학과 알려주세요
+$<사회복지학과:H_SOCIAL>  알려주세요
+1	사회복지학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 사회복지학과 알려줘봐
+$<사회복지학과:H_SOCIAL>  알려줘봐
+1	사회복지학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 사회복지학과 알려줘요
+$<사회복지학과:H_SOCIAL>  알려줘요
+1	사회복지학과	NNG	B_H_SOCIAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 사회복지학과에 대해서 알려줘
+$<사회복지학과:H_SOCIAL> 에 대해서 알려줘
+1	사회복지학과	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사회복지학과에 대해서 알려주세요
+$<사회복지학과:H_SOCIAL> 에 대해서 알려주세요
+1	사회복지학과	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 사회복지학과에 관해서 알려줘
+$<사회복지학과:H_SOCIAL> 에 관해서 알려줘
+1	사회복지학과	NNG	B_H_SOCIAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 사회복지학과를 알려줘
+$<사회복지학과:H_SOCIAL> 를 알려줘
+1	사회복지학과	NNG	B_H_SOCIAL
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 작업치료학과
+$<작업치료학과:H_THERAPI> 
+1	작업치료학과	NNG	B_H_THERAPI
+
+; 작업치료학과 알려줘
+$<작업치료학과:H_THERAPI>  알려줘
+1	작업치료학과	NNG	B_H_THERAPI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 작업치료학과 알려주세요
+$<작업치료학과:H_THERAPI>  알려주세요
+1	작업치료학과	NNG	B_H_THERAPI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 작업치료학과 알려줘봐
+$<작업치료학과:H_THERAPI>  알려줘봐
+1	작업치료학과	NNG	B_H_THERAPI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 작업치료학과 알려줘요
+$<작업치료학과:H_THERAPI>  알려줘요
+1	작업치료학과	NNG	B_H_THERAPI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 작업치료학과에 대해서 알려줘
+$<작업치료학과:H_THERAPI> 에 대해서 알려줘
+1	작업치료학과	NNG	B_H_THERAPI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 작업치료학과에 대해서 알려주세요
+$<작업치료학과:H_THERAPI> 에 대해서 알려주세요
+1	작업치료학과	NNG	B_H_THERAPI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 작업치료학과에 관해서 알려줘
+$<작업치료학과:H_THERAPI> 에 관해서 알려줘
+1	작업치료학과	NNG	B_H_THERAPI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 작업치료학과를 알려줘
+$<작업치료학과:H_THERAPI> 를 알려줘
+1	작업치료학과	NNG	B_H_THERAPI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 언어치료
+$<언어치료:H_EARCLE> 
+1	언어치료	NNG	B_H_EARCLE
+
+; 언어치료 알려줘
+$<언어치료:H_EARCLE>  알려줘
+1	언어치료	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 언어치료 알려주세요
+$<언어치료:H_EARCLE>  알려주세요
+1	언어치료	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 언어치료 알려줘봐
+$<언어치료:H_EARCLE>  알려줘봐
+1	언어치료	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 언어치료 알려줘요
+$<언어치료:H_EARCLE>  알려줘요
+1	언어치료	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 언어치료에 대해서 알려줘
+$<언어치료:H_EARCLE> 에 대해서 알려줘
+1	언어치료	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 언어치료에 대해서 알려주세요
+$<언어치료:H_EARCLE> 에 대해서 알려주세요
+1	언어치료	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 언어치료에 관해서 알려줘
+$<언어치료:H_EARCLE> 에 관해서 알려줘
+1	언어치료	NNG	B_H_EARCLE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 언어치료를 알려줘
+$<언어치료:H_EARCLE> 를 알려줘
+1	언어치료	NNG	B_H_EARCLE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 언어치료학과
+$<언어치료학과:H_EARCLE> 
+1	언어치료학과	NNG	B_H_EARCLE
+
+; 언어치료학과 알려줘
+$<언어치료학과:H_EARCLE>  알려줘
+1	언어치료학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 언어치료학과 알려주세요
+$<언어치료학과:H_EARCLE>  알려주세요
+1	언어치료학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 언어치료학과 알려줘봐
+$<언어치료학과:H_EARCLE>  알려줘봐
+1	언어치료학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 언어치료학과 알려줘요
+$<언어치료학과:H_EARCLE>  알려줘요
+1	언어치료학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 언어치료학과에 대해서 알려줘
+$<언어치료학과:H_EARCLE> 에 대해서 알려줘
+1	언어치료학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 언어치료학과에 대해서 알려주세요
+$<언어치료학과:H_EARCLE> 에 대해서 알려주세요
+1	언어치료학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 언어치료학과에 관해서 알려줘
+$<언어치료학과:H_EARCLE> 에 관해서 알려줘
+1	언어치료학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 언어치료학과를 알려줘
+$<언어치료학과:H_EARCLE> 를 알려줘
+1	언어치료학과	NNG	B_H_EARCLE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 청각
+$<청각:H_EARCLE> 
+1	청각	NNG	B_H_EARCLE
+
+; 청각 알려줘
+$<청각:H_EARCLE>  알려줘
+1	청각	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 청각 알려주세요
+$<청각:H_EARCLE>  알려주세요
+1	청각	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 청각 알려줘봐
+$<청각:H_EARCLE>  알려줘봐
+1	청각	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 청각 알려줘요
+$<청각:H_EARCLE>  알려줘요
+1	청각	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 청각에 대해서 알려줘
+$<청각:H_EARCLE> 에 대해서 알려줘
+1	청각	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 청각에 대해서 알려주세요
+$<청각:H_EARCLE> 에 대해서 알려주세요
+1	청각	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 청각에 관해서 알려줘
+$<청각:H_EARCLE> 에 관해서 알려줘
+1	청각	NNG	B_H_EARCLE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 청각를 알려줘
+$<청각:H_EARCLE> 를 알려줘
+1	청각	NNG	B_H_EARCLE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 언어치료청각재활학과
+$<언어치료청각재활학과:H_EARCLE> 
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+
+; 언어치료청각재활학과 알려줘
+$<언어치료청각재활학과:H_EARCLE>  알려줘
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 언어치료청각재활학과 알려주세요
+$<언어치료청각재활학과:H_EARCLE>  알려주세요
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 언어치료청각재활학과 알려줘봐
+$<언어치료청각재활학과:H_EARCLE>  알려줘봐
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 언어치료청각재활학과 알려줘요
+$<언어치료청각재활학과:H_EARCLE>  알려줘요
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 언어치료청각재활학과에 대해서 알려줘
+$<언어치료청각재활학과:H_EARCLE> 에 대해서 알려줘
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 언어치료청각재활학과에 대해서 알려주세요
+$<언어치료청각재활학과:H_EARCLE> 에 대해서 알려주세요
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 언어치료청각재활학과에 관해서 알려줘
+$<언어치료청각재활학과:H_EARCLE> 에 관해서 알려줘
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 언어치료청각재활학과를 알려줘
+$<언어치료청각재활학과:H_EARCLE> 를 알려줘
+1	언어치료청각재활학과	NNG	B_H_EARCLE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 청각재활
+$<청각재활:H_EARCLE> 
+1	청각재활	NNG	B_H_EARCLE
+
+; 청각재활 알려줘
+$<청각재활:H_EARCLE>  알려줘
+1	청각재활	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 청각재활 알려주세요
+$<청각재활:H_EARCLE>  알려주세요
+1	청각재활	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 청각재활 알려줘봐
+$<청각재활:H_EARCLE>  알려줘봐
+1	청각재활	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 청각재활 알려줘요
+$<청각재활:H_EARCLE>  알려줘요
+1	청각재활	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 청각재활에 대해서 알려줘
+$<청각재활:H_EARCLE> 에 대해서 알려줘
+1	청각재활	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 청각재활에 대해서 알려주세요
+$<청각재활:H_EARCLE> 에 대해서 알려주세요
+1	청각재활	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 청각재활에 관해서 알려줘
+$<청각재활:H_EARCLE> 에 관해서 알려줘
+1	청각재활	NNG	B_H_EARCLE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 청각재활를 알려줘
+$<청각재활:H_EARCLE> 를 알려줘
+1	청각재활	NNG	B_H_EARCLE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 청각재활학과
+$<청각재활학과:H_EARCLE> 
+1	청각재활학과	NNG	B_H_EARCLE
+
+; 청각재활학과 알려줘
+$<청각재활학과:H_EARCLE>  알려줘
+1	청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 청각재활학과 알려주세요
+$<청각재활학과:H_EARCLE>  알려주세요
+1	청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 청각재활학과 알려줘봐
+$<청각재활학과:H_EARCLE>  알려줘봐
+1	청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 청각재활학과 알려줘요
+$<청각재활학과:H_EARCLE>  알려줘요
+1	청각재활학과	NNG	B_H_EARCLE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 청각재활학과에 대해서 알려줘
+$<청각재활학과:H_EARCLE> 에 대해서 알려줘
+1	청각재활학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 청각재활학과에 대해서 알려주세요
+$<청각재활학과:H_EARCLE> 에 대해서 알려주세요
+1	청각재활학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 청각재활학과에 관해서 알려줘
+$<청각재활학과:H_EARCLE> 에 관해서 알려줘
+1	청각재활학과	NNG	B_H_EARCLE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 청각재활학과를 알려줘
+$<청각재활학과:H_EARCLE> 를 알려줘
+1	청각재활학과	NNG	B_H_EARCLE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 보건경영
+$<보건경영:H_HEALTHBM> 
+1	보건경영	NNG	B_H_HEALTHBM
+
+; 보건경영 알려줘
+$<보건경영:H_HEALTHBM>  알려줘
+1	보건경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 보건경영 알려주세요
+$<보건경영:H_HEALTHBM>  알려주세요
+1	보건경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 보건경영 알려줘봐
+$<보건경영:H_HEALTHBM>  알려줘봐
+1	보건경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 보건경영 알려줘요
+$<보건경영:H_HEALTHBM>  알려줘요
+1	보건경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 보건경영에 대해서 알려줘
+$<보건경영:H_HEALTHBM> 에 대해서 알려줘
+1	보건경영	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건경영에 대해서 알려주세요
+$<보건경영:H_HEALTHBM> 에 대해서 알려주세요
+1	보건경영	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 보건경영에 관해서 알려줘
+$<보건경영:H_HEALTHBM> 에 관해서 알려줘
+1	보건경영	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건경영를 알려줘
+$<보건경영:H_HEALTHBM> 를 알려줘
+1	보건경영	NNG	B_H_HEALTHBM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 보건경영학과
+$<보건경영학과:H_HEALTHBM> 
+1	보건경영학과	NNG	B_H_HEALTHBM
+
+; 보건경영학과 알려줘
+$<보건경영학과:H_HEALTHBM>  알려줘
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 보건경영학과 알려주세요
+$<보건경영학과:H_HEALTHBM>  알려주세요
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 보건경영학과 알려줘봐
+$<보건경영학과:H_HEALTHBM>  알려줘봐
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 보건경영학과 알려줘요
+$<보건경영학과:H_HEALTHBM>  알려줘요
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 보건경영학과에 대해서 알려줘
+$<보건경영학과:H_HEALTHBM> 에 대해서 알려줘
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건경영학과에 대해서 알려주세요
+$<보건경영학과:H_HEALTHBM> 에 대해서 알려주세요
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 보건경영학과에 관해서 알려줘
+$<보건경영학과:H_HEALTHBM> 에 관해서 알려줘
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건경영학과를 알려줘
+$<보건경영학과:H_HEALTHBM> 를 알려줘
+1	보건경영학과	NNG	B_H_HEALTHBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 보건의료
+$<보건의료:H_HEALTHBM> 
+1	보건의료	NNG	B_H_HEALTHBM
+
+; 보건의료 알려줘
+$<보건의료:H_HEALTHBM>  알려줘
+1	보건의료	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 보건의료 알려주세요
+$<보건의료:H_HEALTHBM>  알려주세요
+1	보건의료	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 보건의료 알려줘봐
+$<보건의료:H_HEALTHBM>  알려줘봐
+1	보건의료	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 보건의료 알려줘요
+$<보건의료:H_HEALTHBM>  알려줘요
+1	보건의료	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 보건의료에 대해서 알려줘
+$<보건의료:H_HEALTHBM> 에 대해서 알려줘
+1	보건의료	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료에 대해서 알려주세요
+$<보건의료:H_HEALTHBM> 에 대해서 알려주세요
+1	보건의료	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 보건의료에 관해서 알려줘
+$<보건의료:H_HEALTHBM> 에 관해서 알려줘
+1	보건의료	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료를 알려줘
+$<보건의료:H_HEALTHBM> 를 알려줘
+1	보건의료	NNG	B_H_HEALTHBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 보건의료학과
+$<보건의료학과:H_HEALTHBM> 
+1	보건의료학과	NNG	B_H_HEALTHBM
+
+; 보건의료학과 알려줘
+$<보건의료학과:H_HEALTHBM>  알려줘
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 보건의료학과 알려주세요
+$<보건의료학과:H_HEALTHBM>  알려주세요
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 보건의료학과 알려줘봐
+$<보건의료학과:H_HEALTHBM>  알려줘봐
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 보건의료학과 알려줘요
+$<보건의료학과:H_HEALTHBM>  알려줘요
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 보건의료학과에 대해서 알려줘
+$<보건의료학과:H_HEALTHBM> 에 대해서 알려줘
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료학과에 대해서 알려주세요
+$<보건의료학과:H_HEALTHBM> 에 대해서 알려주세요
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 보건의료학과에 관해서 알려줘
+$<보건의료학과:H_HEALTHBM> 에 관해서 알려줘
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료학과를 알려줘
+$<보건의료학과:H_HEALTHBM> 를 알려줘
+1	보건의료학과	NNG	B_H_HEALTHBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 보건의료경영
+$<보건의료경영:H_HEALTHBM> 
+1	보건의료경영	NNG	B_H_HEALTHBM
+
+; 보건의료경영 알려줘
+$<보건의료경영:H_HEALTHBM>  알려줘
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 보건의료경영 알려주세요
+$<보건의료경영:H_HEALTHBM>  알려주세요
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 보건의료경영 알려줘봐
+$<보건의료경영:H_HEALTHBM>  알려줘봐
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 보건의료경영 알려줘요
+$<보건의료경영:H_HEALTHBM>  알려줘요
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 보건의료경영에 대해서 알려줘
+$<보건의료경영:H_HEALTHBM> 에 대해서 알려줘
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료경영에 대해서 알려주세요
+$<보건의료경영:H_HEALTHBM> 에 대해서 알려주세요
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 보건의료경영에 관해서 알려줘
+$<보건의료경영:H_HEALTHBM> 에 관해서 알려줘
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료경영를 알려줘
+$<보건의료경영:H_HEALTHBM> 를 알려줘
+1	보건의료경영	NNG	B_H_HEALTHBM
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 보건의료경영학과
+$<보건의료경영학과:H_HEALTHBM> 
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+
+; 보건의료경영학과 알려줘
+$<보건의료경영학과:H_HEALTHBM>  알려줘
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 보건의료경영학과 알려주세요
+$<보건의료경영학과:H_HEALTHBM>  알려주세요
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 보건의료경영학과 알려줘봐
+$<보건의료경영학과:H_HEALTHBM>  알려줘봐
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 보건의료경영학과 알려줘요
+$<보건의료경영학과:H_HEALTHBM>  알려줘요
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 보건의료경영학과에 대해서 알려줘
+$<보건의료경영학과:H_HEALTHBM> 에 대해서 알려줘
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료경영학과에 대해서 알려주세요
+$<보건의료경영학과:H_HEALTHBM> 에 대해서 알려주세요
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 보건의료경영학과에 관해서 알려줘
+$<보건의료경영학과:H_HEALTHBM> 에 관해서 알려줘
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 보건의료경영학과를 알려줘
+$<보건의료경영학과:H_HEALTHBM> 를 알려줘
+1	보건의료경영학과	NNG	B_H_HEALTHBM
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 유아교육과
+$<유아교육과:H_CHILD> 
+1	유아교육과	NNG	B_H_CHILD
+
+; 유아교육과 알려줘
+$<유아교육과:H_CHILD>  알려줘
+1	유아교육과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 유아교육과 알려주세요
+$<유아교육과:H_CHILD>  알려주세요
+1	유아교육과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 유아교육과 알려줘봐
+$<유아교육과:H_CHILD>  알려줘봐
+1	유아교육과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 유아교육과 알려줘요
+$<유아교육과:H_CHILD>  알려줘요
+1	유아교육과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 유아교육과에 대해서 알려줘
+$<유아교육과:H_CHILD> 에 대해서 알려줘
+1	유아교육과	NNG	B_H_CHILD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 유아교육과에 대해서 알려주세요
+$<유아교육과:H_CHILD> 에 대해서 알려주세요
+1	유아교육과	NNG	B_H_CHILD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 유아교육과에 관해서 알려줘
+$<유아교육과:H_CHILD> 에 관해서 알려줘
+1	유아교육과	NNG	B_H_CHILD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 유아교육과를 알려줘
+$<유아교육과:H_CHILD> 를 알려줘
+1	유아교육과	NNG	B_H_CHILD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 유아교육학과
+$<유아교육학과:H_CHILD> 
+1	유아교육학과	NNG	B_H_CHILD
+
+; 유아교육학과 알려줘
+$<유아교육학과:H_CHILD>  알려줘
+1	유아교육학과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 유아교육학과 알려주세요
+$<유아교육학과:H_CHILD>  알려주세요
+1	유아교육학과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 유아교육학과 알려줘봐
+$<유아교육학과:H_CHILD>  알려줘봐
+1	유아교육학과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 유아교육학과 알려줘요
+$<유아교육학과:H_CHILD>  알려줘요
+1	유아교육학과	NNG	B_H_CHILD
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 유아교육학과에 대해서 알려줘
+$<유아교육학과:H_CHILD> 에 대해서 알려줘
+1	유아교육학과	NNG	B_H_CHILD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 유아교육학과에 대해서 알려주세요
+$<유아교육학과:H_CHILD> 에 대해서 알려주세요
+1	유아교육학과	NNG	B_H_CHILD
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 유아교육학과에 관해서 알려줘
+$<유아교육학과:H_CHILD> 에 관해서 알려줘
+1	유아교육학과	NNG	B_H_CHILD
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 유아교육학과를 알려줘
+$<유아교육학과:H_CHILD> 를 알려줘
+1	유아교육학과	NNG	B_H_CHILD
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 뷰티
+$<뷰티:H_BEAUTY> 
+1	뷰티	NNG	B_H_BEAUTY
+
+; 뷰티 알려줘
+$<뷰티:H_BEAUTY>  알려줘
+1	뷰티	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 뷰티 알려주세요
+$<뷰티:H_BEAUTY>  알려주세요
+1	뷰티	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 뷰티 알려줘봐
+$<뷰티:H_BEAUTY>  알려줘봐
+1	뷰티	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 뷰티 알려줘요
+$<뷰티:H_BEAUTY>  알려줘요
+1	뷰티	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 뷰티에 대해서 알려줘
+$<뷰티:H_BEAUTY> 에 대해서 알려줘
+1	뷰티	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티에 대해서 알려주세요
+$<뷰티:H_BEAUTY> 에 대해서 알려주세요
+1	뷰티	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 뷰티에 관해서 알려줘
+$<뷰티:H_BEAUTY> 에 관해서 알려줘
+1	뷰티	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티를 알려줘
+$<뷰티:H_BEAUTY> 를 알려줘
+1	뷰티	NNG	B_H_BEAUTY
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 뷰티디자인
+$<뷰티디자인:H_BEAUTY> 
+1	뷰티디자인	NNG	B_H_BEAUTY
+
+; 뷰티디자인 알려줘
+$<뷰티디자인:H_BEAUTY>  알려줘
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 뷰티디자인 알려주세요
+$<뷰티디자인:H_BEAUTY>  알려주세요
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 뷰티디자인 알려줘봐
+$<뷰티디자인:H_BEAUTY>  알려줘봐
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 뷰티디자인 알려줘요
+$<뷰티디자인:H_BEAUTY>  알려줘요
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 뷰티디자인에 대해서 알려줘
+$<뷰티디자인:H_BEAUTY> 에 대해서 알려줘
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티디자인에 대해서 알려주세요
+$<뷰티디자인:H_BEAUTY> 에 대해서 알려주세요
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 뷰티디자인에 관해서 알려줘
+$<뷰티디자인:H_BEAUTY> 에 관해서 알려줘
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티디자인를 알려줘
+$<뷰티디자인:H_BEAUTY> 를 알려줘
+1	뷰티디자인	NNG	B_H_BEAUTY
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 뷰티학과
+$<뷰티학과:H_BEAUTY> 
+1	뷰티학과	NNG	B_H_BEAUTY
+
+; 뷰티학과 알려줘
+$<뷰티학과:H_BEAUTY>  알려줘
+1	뷰티학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 뷰티학과 알려주세요
+$<뷰티학과:H_BEAUTY>  알려주세요
+1	뷰티학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 뷰티학과 알려줘봐
+$<뷰티학과:H_BEAUTY>  알려줘봐
+1	뷰티학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 뷰티학과 알려줘요
+$<뷰티학과:H_BEAUTY>  알려줘요
+1	뷰티학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 뷰티학과에 대해서 알려줘
+$<뷰티학과:H_BEAUTY> 에 대해서 알려줘
+1	뷰티학과	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티학과에 대해서 알려주세요
+$<뷰티학과:H_BEAUTY> 에 대해서 알려주세요
+1	뷰티학과	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 뷰티학과에 관해서 알려줘
+$<뷰티학과:H_BEAUTY> 에 관해서 알려줘
+1	뷰티학과	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티학과를 알려줘
+$<뷰티학과:H_BEAUTY> 를 알려줘
+1	뷰티학과	NNG	B_H_BEAUTY
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 뷰티디자인학과
+$<뷰티디자인학과:H_BEAUTY> 
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+
+; 뷰티디자인학과 알려줘
+$<뷰티디자인학과:H_BEAUTY>  알려줘
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 뷰티디자인학과 알려주세요
+$<뷰티디자인학과:H_BEAUTY>  알려주세요
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 뷰티디자인학과 알려줘봐
+$<뷰티디자인학과:H_BEAUTY>  알려줘봐
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 뷰티디자인학과 알려줘요
+$<뷰티디자인학과:H_BEAUTY>  알려줘요
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 뷰티디자인학과에 대해서 알려줘
+$<뷰티디자인학과:H_BEAUTY> 에 대해서 알려줘
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티디자인학과에 대해서 알려주세요
+$<뷰티디자인학과:H_BEAUTY> 에 대해서 알려주세요
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 뷰티디자인학과에 관해서 알려줘
+$<뷰티디자인학과:H_BEAUTY> 에 관해서 알려줘
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 뷰티디자인학과를 알려줘
+$<뷰티디자인학과:H_BEAUTY> 를 알려줘
+1	뷰티디자인학과	NNG	B_H_BEAUTY
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 응급구조
+$<응급구조:H_EMERMEDI> 
+1	응급구조	NNG	B_H_EMERMEDI
+
+; 응급구조 알려줘
+$<응급구조:H_EMERMEDI>  알려줘
+1	응급구조	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 응급구조 알려주세요
+$<응급구조:H_EMERMEDI>  알려주세요
+1	응급구조	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 응급구조 알려줘봐
+$<응급구조:H_EMERMEDI>  알려줘봐
+1	응급구조	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 응급구조 알려줘요
+$<응급구조:H_EMERMEDI>  알려줘요
+1	응급구조	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 응급구조에 대해서 알려줘
+$<응급구조:H_EMERMEDI> 에 대해서 알려줘
+1	응급구조	NNG	B_H_EMERMEDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 응급구조에 대해서 알려주세요
+$<응급구조:H_EMERMEDI> 에 대해서 알려주세요
+1	응급구조	NNG	B_H_EMERMEDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 응급구조에 관해서 알려줘
+$<응급구조:H_EMERMEDI> 에 관해서 알려줘
+1	응급구조	NNG	B_H_EMERMEDI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 응급구조를 알려줘
+$<응급구조:H_EMERMEDI> 를 알려줘
+1	응급구조	NNG	B_H_EMERMEDI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 응급구조학과
+$<응급구조학과:H_EMERMEDI> 
+1	응급구조학과	NNG	B_H_EMERMEDI
+
+; 응급구조학과 알려줘
+$<응급구조학과:H_EMERMEDI>  알려줘
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 응급구조학과 알려주세요
+$<응급구조학과:H_EMERMEDI>  알려주세요
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 응급구조학과 알려줘봐
+$<응급구조학과:H_EMERMEDI>  알려줘봐
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 응급구조학과 알려줘요
+$<응급구조학과:H_EMERMEDI>  알려줘요
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 응급구조학과에 대해서 알려줘
+$<응급구조학과:H_EMERMEDI> 에 대해서 알려줘
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 응급구조학과에 대해서 알려주세요
+$<응급구조학과:H_EMERMEDI> 에 대해서 알려주세요
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 응급구조학과에 관해서 알려줘
+$<응급구조학과:H_EMERMEDI> 에 관해서 알려줘
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 응급구조학과를 알려줘
+$<응급구조학과:H_EMERMEDI> 를 알려줘
+1	응급구조학과	NNG	B_H_EMERMEDI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 소방안전
+$<소방안전:H_FIREMAN> 
+1	소방안전	NNG	B_H_FIREMAN
+
+; 소방안전 알려줘
+$<소방안전:H_FIREMAN>  알려줘
+1	소방안전	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 소방안전 알려주세요
+$<소방안전:H_FIREMAN>  알려주세요
+1	소방안전	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 소방안전 알려줘봐
+$<소방안전:H_FIREMAN>  알려줘봐
+1	소방안전	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 소방안전 알려줘요
+$<소방안전:H_FIREMAN>  알려줘요
+1	소방안전	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 소방안전에 대해서 알려줘
+$<소방안전:H_FIREMAN> 에 대해서 알려줘
+1	소방안전	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방안전에 대해서 알려주세요
+$<소방안전:H_FIREMAN> 에 대해서 알려주세요
+1	소방안전	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 소방안전에 관해서 알려줘
+$<소방안전:H_FIREMAN> 에 관해서 알려줘
+1	소방안전	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방안전를 알려줘
+$<소방안전:H_FIREMAN> 를 알려줘
+1	소방안전	NNG	B_H_FIREMAN
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 소방안전학과
+$<소방안전학과:H_FIREMAN> 
+1	소방안전학과	NNG	B_H_FIREMAN
+
+; 소방안전학과 알려줘
+$<소방안전학과:H_FIREMAN>  알려줘
+1	소방안전학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 소방안전학과 알려주세요
+$<소방안전학과:H_FIREMAN>  알려주세요
+1	소방안전학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 소방안전학과 알려줘봐
+$<소방안전학과:H_FIREMAN>  알려줘봐
+1	소방안전학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 소방안전학과 알려줘요
+$<소방안전학과:H_FIREMAN>  알려줘요
+1	소방안전학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 소방안전학과에 대해서 알려줘
+$<소방안전학과:H_FIREMAN> 에 대해서 알려줘
+1	소방안전학과	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방안전학과에 대해서 알려주세요
+$<소방안전학과:H_FIREMAN> 에 대해서 알려주세요
+1	소방안전학과	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 소방안전학과에 관해서 알려줘
+$<소방안전학과:H_FIREMAN> 에 관해서 알려줘
+1	소방안전학과	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방안전학과를 알려줘
+$<소방안전학과:H_FIREMAN> 를 알려줘
+1	소방안전학과	NNG	B_H_FIREMAN
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 소방
+$<소방:H_FIREMAN> 
+1	소방	NNG	B_H_FIREMAN
+
+; 소방 알려줘
+$<소방:H_FIREMAN>  알려줘
+1	소방	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 소방 알려주세요
+$<소방:H_FIREMAN>  알려주세요
+1	소방	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 소방 알려줘봐
+$<소방:H_FIREMAN>  알려줘봐
+1	소방	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 소방 알려줘요
+$<소방:H_FIREMAN>  알려줘요
+1	소방	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 소방에 대해서 알려줘
+$<소방:H_FIREMAN> 에 대해서 알려줘
+1	소방	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방에 대해서 알려주세요
+$<소방:H_FIREMAN> 에 대해서 알려주세요
+1	소방	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 소방에 관해서 알려줘
+$<소방:H_FIREMAN> 에 관해서 알려줘
+1	소방	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방를 알려줘
+$<소방:H_FIREMAN> 를 알려줘
+1	소방	NNG	B_H_FIREMAN
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 소방학과
+$<소방학과:H_FIREMAN> 
+1	소방학과	NNG	B_H_FIREMAN
+
+; 소방학과 알려줘
+$<소방학과:H_FIREMAN>  알려줘
+1	소방학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 소방학과 알려주세요
+$<소방학과:H_FIREMAN>  알려주세요
+1	소방학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 소방학과 알려줘봐
+$<소방학과:H_FIREMAN>  알려줘봐
+1	소방학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 소방학과 알려줘요
+$<소방학과:H_FIREMAN>  알려줘요
+1	소방학과	NNG	B_H_FIREMAN
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 소방학과에 대해서 알려줘
+$<소방학과:H_FIREMAN> 에 대해서 알려줘
+1	소방학과	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방학과에 대해서 알려주세요
+$<소방학과:H_FIREMAN> 에 대해서 알려주세요
+1	소방학과	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 소방학과에 관해서 알려줘
+$<소방학과:H_FIREMAN> 에 관해서 알려줘
+1	소방학과	NNG	B_H_FIREMAN
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 소방학과를 알려줘
+$<소방학과:H_FIREMAN> 를 알려줘
+1	소방학과	NNG	B_H_FIREMAN
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 간호학과
+$<간호학과:H_NURSE> 
+1	간호학과	NNG	B_H_NURSE
+
+; 간호학과 알려줘
+$<간호학과:H_NURSE>  알려줘
+1	간호학과	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 간호학과 알려주세요
+$<간호학과:H_NURSE>  알려주세요
+1	간호학과	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 간호학과 알려줘봐
+$<간호학과:H_NURSE>  알려줘봐
+1	간호학과	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 간호학과 알려줘요
+$<간호학과:H_NURSE>  알려줘요
+1	간호학과	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 간호학과에 대해서 알려줘
+$<간호학과:H_NURSE> 에 대해서 알려줘
+1	간호학과	NNG	B_H_NURSE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 간호학과에 대해서 알려주세요
+$<간호학과:H_NURSE> 에 대해서 알려주세요
+1	간호학과	NNG	B_H_NURSE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 간호학과에 관해서 알려줘
+$<간호학과:H_NURSE> 에 관해서 알려줘
+1	간호학과	NNG	B_H_NURSE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 간호학과를 알려줘
+$<간호학과:H_NURSE> 를 알려줘
+1	간호학과	NNG	B_H_NURSE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 간호
+$<간호:H_NURSE> 
+1	간호	NNG	B_H_NURSE
+
+; 간호 알려줘
+$<간호:H_NURSE>  알려줘
+1	간호	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 간호 알려주세요
+$<간호:H_NURSE>  알려주세요
+1	간호	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 간호 알려줘봐
+$<간호:H_NURSE>  알려줘봐
+1	간호	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 간호 알려줘요
+$<간호:H_NURSE>  알려줘요
+1	간호	NNG	B_H_NURSE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 간호에 대해서 알려줘
+$<간호:H_NURSE> 에 대해서 알려줘
+1	간호	NNG	B_H_NURSE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 간호에 대해서 알려주세요
+$<간호:H_NURSE> 에 대해서 알려주세요
+1	간호	NNG	B_H_NURSE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 간호에 관해서 알려줘
+$<간호:H_NURSE> 에 관해서 알려줘
+1	간호	NNG	B_H_NURSE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 간호를 알려줘
+$<간호:H_NURSE> 를 알려줘
+1	간호	NNG	B_H_NURSE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 물리치료
+$<물리치료:H_DOCPHY> 
+1	물리치료	NNG	B_H_DOCPHY
+
+; 물리치료 알려줘
+$<물리치료:H_DOCPHY>  알려줘
+1	물리치료	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 물리치료 알려주세요
+$<물리치료:H_DOCPHY>  알려주세요
+1	물리치료	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 물리치료 알려줘봐
+$<물리치료:H_DOCPHY>  알려줘봐
+1	물리치료	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 물리치료 알려줘요
+$<물리치료:H_DOCPHY>  알려줘요
+1	물리치료	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 물리치료에 대해서 알려줘
+$<물리치료:H_DOCPHY> 에 대해서 알려줘
+1	물리치료	NNG	B_H_DOCPHY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물리치료에 대해서 알려주세요
+$<물리치료:H_DOCPHY> 에 대해서 알려주세요
+1	물리치료	NNG	B_H_DOCPHY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 물리치료에 관해서 알려줘
+$<물리치료:H_DOCPHY> 에 관해서 알려줘
+1	물리치료	NNG	B_H_DOCPHY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물리치료를 알려줘
+$<물리치료:H_DOCPHY> 를 알려줘
+1	물리치료	NNG	B_H_DOCPHY
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 물리치료학과
+$<물리치료학과:H_DOCPHY> 
+1	물리치료학과	NNG	B_H_DOCPHY
+
+; 물리치료학과 알려줘
+$<물리치료학과:H_DOCPHY>  알려줘
+1	물리치료학과	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 물리치료학과 알려주세요
+$<물리치료학과:H_DOCPHY>  알려주세요
+1	물리치료학과	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 물리치료학과 알려줘봐
+$<물리치료학과:H_DOCPHY>  알려줘봐
+1	물리치료학과	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 물리치료학과 알려줘요
+$<물리치료학과:H_DOCPHY>  알려줘요
+1	물리치료학과	NNG	B_H_DOCPHY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 물리치료학과에 대해서 알려줘
+$<물리치료학과:H_DOCPHY> 에 대해서 알려줘
+1	물리치료학과	NNG	B_H_DOCPHY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물리치료학과에 대해서 알려주세요
+$<물리치료학과:H_DOCPHY> 에 대해서 알려주세요
+1	물리치료학과	NNG	B_H_DOCPHY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 물리치료학과에 관해서 알려줘
+$<물리치료학과:H_DOCPHY> 에 관해서 알려줘
+1	물리치료학과	NNG	B_H_DOCPHY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 물리치료학과를 알려줘
+$<물리치료학과:H_DOCPHY> 를 알려줘
+1	물리치료학과	NNG	B_H_DOCPHY
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 스포츠
+$<스포츠:H_SPORT> 
+1	스포츠	NNG	B_H_SPORT
+
+; 스포츠 알려줘
+$<스포츠:H_SPORT>  알려줘
+1	스포츠	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 스포츠 알려주세요
+$<스포츠:H_SPORT>  알려주세요
+1	스포츠	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 스포츠 알려줘봐
+$<스포츠:H_SPORT>  알려줘봐
+1	스포츠	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 스포츠 알려줘요
+$<스포츠:H_SPORT>  알려줘요
+1	스포츠	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 스포츠에 대해서 알려줘
+$<스포츠:H_SPORT> 에 대해서 알려줘
+1	스포츠	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠에 대해서 알려주세요
+$<스포츠:H_SPORT> 에 대해서 알려주세요
+1	스포츠	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 스포츠에 관해서 알려줘
+$<스포츠:H_SPORT> 에 관해서 알려줘
+1	스포츠	NNG	B_H_SPORT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠를 알려줘
+$<스포츠:H_SPORT> 를 알려줘
+1	스포츠	NNG	B_H_SPORT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 스포츠학과
+$<스포츠학과:H_SPORT> 
+1	스포츠학과	NNG	B_H_SPORT
+
+; 스포츠학과 알려줘
+$<스포츠학과:H_SPORT>  알려줘
+1	스포츠학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 스포츠학과 알려주세요
+$<스포츠학과:H_SPORT>  알려주세요
+1	스포츠학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 스포츠학과 알려줘봐
+$<스포츠학과:H_SPORT>  알려줘봐
+1	스포츠학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 스포츠학과 알려줘요
+$<스포츠학과:H_SPORT>  알려줘요
+1	스포츠학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 스포츠학과에 대해서 알려줘
+$<스포츠학과:H_SPORT> 에 대해서 알려줘
+1	스포츠학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠학과에 대해서 알려주세요
+$<스포츠학과:H_SPORT> 에 대해서 알려주세요
+1	스포츠학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 스포츠학과에 관해서 알려줘
+$<스포츠학과:H_SPORT> 에 관해서 알려줘
+1	스포츠학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠학과를 알려줘
+$<스포츠학과:H_SPORT> 를 알려줘
+1	스포츠학과	NNG	B_H_SPORT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 스포츠건강
+$<스포츠건강:H_SPORT> 
+1	스포츠건강	NNG	B_H_SPORT
+
+; 스포츠건강 알려줘
+$<스포츠건강:H_SPORT>  알려줘
+1	스포츠건강	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 스포츠건강 알려주세요
+$<스포츠건강:H_SPORT>  알려주세요
+1	스포츠건강	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 스포츠건강 알려줘봐
+$<스포츠건강:H_SPORT>  알려줘봐
+1	스포츠건강	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 스포츠건강 알려줘요
+$<스포츠건강:H_SPORT>  알려줘요
+1	스포츠건강	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 스포츠건강에 대해서 알려줘
+$<스포츠건강:H_SPORT> 에 대해서 알려줘
+1	스포츠건강	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강에 대해서 알려주세요
+$<스포츠건강:H_SPORT> 에 대해서 알려주세요
+1	스포츠건강	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 스포츠건강에 관해서 알려줘
+$<스포츠건강:H_SPORT> 에 관해서 알려줘
+1	스포츠건강	NNG	B_H_SPORT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강를 알려줘
+$<스포츠건강:H_SPORT> 를 알려줘
+1	스포츠건강	NNG	B_H_SPORT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 스포츠건강학과
+$<스포츠건강학과:H_SPORT> 
+1	스포츠건강학과	NNG	B_H_SPORT
+
+; 스포츠건강학과 알려줘
+$<스포츠건강학과:H_SPORT>  알려줘
+1	스포츠건강학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 스포츠건강학과 알려주세요
+$<스포츠건강학과:H_SPORT>  알려주세요
+1	스포츠건강학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 스포츠건강학과 알려줘봐
+$<스포츠건강학과:H_SPORT>  알려줘봐
+1	스포츠건강학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 스포츠건강학과 알려줘요
+$<스포츠건강학과:H_SPORT>  알려줘요
+1	스포츠건강학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 스포츠건강학과에 대해서 알려줘
+$<스포츠건강학과:H_SPORT> 에 대해서 알려줘
+1	스포츠건강학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강학과에 대해서 알려주세요
+$<스포츠건강학과:H_SPORT> 에 대해서 알려주세요
+1	스포츠건강학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 스포츠건강학과에 관해서 알려줘
+$<스포츠건강학과:H_SPORT> 에 관해서 알려줘
+1	스포츠건강학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강학과를 알려줘
+$<스포츠건강학과:H_SPORT> 를 알려줘
+1	스포츠건강학과	NNG	B_H_SPORT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 스포츠건강재활
+$<스포츠건강재활:H_SPORT> 
+1	스포츠건강재활	NNG	B_H_SPORT
+
+; 스포츠건강재활 알려줘
+$<스포츠건강재활:H_SPORT>  알려줘
+1	스포츠건강재활	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 스포츠건강재활 알려주세요
+$<스포츠건강재활:H_SPORT>  알려주세요
+1	스포츠건강재활	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 스포츠건강재활 알려줘봐
+$<스포츠건강재활:H_SPORT>  알려줘봐
+1	스포츠건강재활	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 스포츠건강재활 알려줘요
+$<스포츠건강재활:H_SPORT>  알려줘요
+1	스포츠건강재활	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 스포츠건강재활에 대해서 알려줘
+$<스포츠건강재활:H_SPORT> 에 대해서 알려줘
+1	스포츠건강재활	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강재활에 대해서 알려주세요
+$<스포츠건강재활:H_SPORT> 에 대해서 알려주세요
+1	스포츠건강재활	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 스포츠건강재활에 관해서 알려줘
+$<스포츠건강재활:H_SPORT> 에 관해서 알려줘
+1	스포츠건강재활	NNG	B_H_SPORT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강재활를 알려줘
+$<스포츠건강재활:H_SPORT> 를 알려줘
+1	스포츠건강재활	NNG	B_H_SPORT
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 스포츠건강재활학과
+$<스포츠건강재활학과:H_SPORT> 
+1	스포츠건강재활학과	NNG	B_H_SPORT
+
+; 스포츠건강재활학과 알려줘
+$<스포츠건강재활학과:H_SPORT>  알려줘
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 스포츠건강재활학과 알려주세요
+$<스포츠건강재활학과:H_SPORT>  알려주세요
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 스포츠건강재활학과 알려줘봐
+$<스포츠건강재활학과:H_SPORT>  알려줘봐
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 스포츠건강재활학과 알려줘요
+$<스포츠건강재활학과:H_SPORT>  알려줘요
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 스포츠건강재활학과에 대해서 알려줘
+$<스포츠건강재활학과:H_SPORT> 에 대해서 알려줘
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강재활학과에 대해서 알려주세요
+$<스포츠건강재활학과:H_SPORT> 에 대해서 알려주세요
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 스포츠건강재활학과에 관해서 알려줘
+$<스포츠건강재활학과:H_SPORT> 에 관해서 알려줘
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 스포츠건강재활학과를 알려줘
+$<스포츠건강재활학과:H_SPORT> 를 알려줘
+1	스포츠건강재활학과	NNG	B_H_SPORT
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; JCFS 인공지능
+$<JCFS 인공지능:H_JWAI> 
+1	JCFS 인공지능	NNG	B_H_JWAI
+
+; JCFS 인공지능 알려줘
+$<JCFS 인공지능:H_JWAI>  알려줘
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; JCFS 인공지능 알려주세요
+$<JCFS 인공지능:H_JWAI>  알려주세요
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; JCFS 인공지능 알려줘봐
+$<JCFS 인공지능:H_JWAI>  알려줘봐
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; JCFS 인공지능 알려줘요
+$<JCFS 인공지능:H_JWAI>  알려줘요
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; JCFS 인공지능에 대해서 알려줘
+$<JCFS 인공지능:H_JWAI> 에 대해서 알려줘
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인공지능에 대해서 알려주세요
+$<JCFS 인공지능:H_JWAI> 에 대해서 알려주세요
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; JCFS 인공지능에 관해서 알려줘
+$<JCFS 인공지능:H_JWAI> 에 관해서 알려줘
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인공지능를 알려줘
+$<JCFS 인공지능:H_JWAI> 를 알려줘
+1	JCFS 인공지능	NNG	B_H_JWAI
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; JCFS 인공지능학과
+$<JCFS 인공지능학과:H_JWAI> 
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+
+; JCFS 인공지능학과 알려줘
+$<JCFS 인공지능학과:H_JWAI>  알려줘
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; JCFS 인공지능학과 알려주세요
+$<JCFS 인공지능학과:H_JWAI>  알려주세요
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; JCFS 인공지능학과 알려줘봐
+$<JCFS 인공지능학과:H_JWAI>  알려줘봐
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; JCFS 인공지능학과 알려줘요
+$<JCFS 인공지능학과:H_JWAI>  알려줘요
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; JCFS 인공지능학과에 대해서 알려줘
+$<JCFS 인공지능학과:H_JWAI> 에 대해서 알려줘
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인공지능학과에 대해서 알려주세요
+$<JCFS 인공지능학과:H_JWAI> 에 대해서 알려주세요
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; JCFS 인공지능학과에 관해서 알려줘
+$<JCFS 인공지능학과:H_JWAI> 에 관해서 알려줘
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인공지능학과를 알려줘
+$<JCFS 인공지능학과:H_JWAI> 를 알려줘
+1	JCFS 인공지능학과	NNG	B_H_JWAI
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; JCFS 데이터과학
+$<JCFS 데이터과학:H_JWDATASC> 
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+
+; JCFS 데이터과학 알려줘
+$<JCFS 데이터과학:H_JWDATASC>  알려줘
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; JCFS 데이터과학 알려주세요
+$<JCFS 데이터과학:H_JWDATASC>  알려주세요
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; JCFS 데이터과학 알려줘봐
+$<JCFS 데이터과학:H_JWDATASC>  알려줘봐
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; JCFS 데이터과학 알려줘요
+$<JCFS 데이터과학:H_JWDATASC>  알려줘요
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; JCFS 데이터과학에 대해서 알려줘
+$<JCFS 데이터과학:H_JWDATASC> 에 대해서 알려줘
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 데이터과학에 대해서 알려주세요
+$<JCFS 데이터과학:H_JWDATASC> 에 대해서 알려주세요
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; JCFS 데이터과학에 관해서 알려줘
+$<JCFS 데이터과학:H_JWDATASC> 에 관해서 알려줘
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 데이터과학를 알려줘
+$<JCFS 데이터과학:H_JWDATASC> 를 알려줘
+1	JCFS 데이터과학	NNG	B_H_JWDATASC
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; JCFS 데이터과학학과
+$<JCFS 데이터과학학과:H_JWDATASC> 
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+
+; JCFS 데이터과학학과 알려줘
+$<JCFS 데이터과학학과:H_JWDATASC>  알려줘
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; JCFS 데이터과학학과 알려주세요
+$<JCFS 데이터과학학과:H_JWDATASC>  알려주세요
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; JCFS 데이터과학학과 알려줘봐
+$<JCFS 데이터과학학과:H_JWDATASC>  알려줘봐
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; JCFS 데이터과학학과 알려줘요
+$<JCFS 데이터과학학과:H_JWDATASC>  알려줘요
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; JCFS 데이터과학학과에 대해서 알려줘
+$<JCFS 데이터과학학과:H_JWDATASC> 에 대해서 알려줘
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 데이터과학학과에 대해서 알려주세요
+$<JCFS 데이터과학학과:H_JWDATASC> 에 대해서 알려주세요
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; JCFS 데이터과학학과에 관해서 알려줘
+$<JCFS 데이터과학학과:H_JWDATASC> 에 관해서 알려줘
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 데이터과학학과를 알려줘
+$<JCFS 데이터과학학과:H_JWDATASC> 를 알려줘
+1	JCFS 데이터과학학과	NNG	B_H_JWDATASC
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; JCFS 인지과학
+$<JCFS 인지과학:H_JWCOSC> 
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+
+; JCFS 인지과학 알려줘
+$<JCFS 인지과학:H_JWCOSC>  알려줘
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; JCFS 인지과학 알려주세요
+$<JCFS 인지과학:H_JWCOSC>  알려주세요
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; JCFS 인지과학 알려줘봐
+$<JCFS 인지과학:H_JWCOSC>  알려줘봐
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; JCFS 인지과학 알려줘요
+$<JCFS 인지과학:H_JWCOSC>  알려줘요
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; JCFS 인지과학에 대해서 알려줘
+$<JCFS 인지과학:H_JWCOSC> 에 대해서 알려줘
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인지과학에 대해서 알려주세요
+$<JCFS 인지과학:H_JWCOSC> 에 대해서 알려주세요
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; JCFS 인지과학에 관해서 알려줘
+$<JCFS 인지과학:H_JWCOSC> 에 관해서 알려줘
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인지과학를 알려줘
+$<JCFS 인지과학:H_JWCOSC> 를 알려줘
+1	JCFS 인지과학	NNG	B_H_JWCOSC
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; JCFS 인지과학 학과
+$<JCFS 인지과학 학과:H_JWCOSC> 
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+
+; JCFS 인지과학 학과 알려줘
+$<JCFS 인지과학 학과:H_JWCOSC>  알려줘
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; JCFS 인지과학 학과 알려주세요
+$<JCFS 인지과학 학과:H_JWCOSC>  알려주세요
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; JCFS 인지과학 학과 알려줘봐
+$<JCFS 인지과학 학과:H_JWCOSC>  알려줘봐
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; JCFS 인지과학 학과 알려줘요
+$<JCFS 인지과학 학과:H_JWCOSC>  알려줘요
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; JCFS 인지과학 학과에 대해서 알려줘
+$<JCFS 인지과학 학과:H_JWCOSC> 에 대해서 알려줘
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인지과학 학과에 대해서 알려주세요
+$<JCFS 인지과학 학과:H_JWCOSC> 에 대해서 알려주세요
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; JCFS 인지과학 학과에 관해서 알려줘
+$<JCFS 인지과학 학과:H_JWCOSC> 에 관해서 알려줘
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; JCFS 인지과학 학과를 알려줘
+$<JCFS 인지과학 학과:H_JWCOSC> 를 알려줘
+1	JCFS 인지과학 학과	NNG	B_H_JWCOSC
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 장학금
+$<장학금:H_SCHOLARSHIP> 
+1	장학금	NNG	B_H_SCHOLARSHIP
+
+; 장학금 알려줘
+$<장학금:H_SCHOLARSHIP>  알려줘
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 장학금 알려주세요
+$<장학금:H_SCHOLARSHIP>  알려주세요
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 장학금 알려줘봐
+$<장학금:H_SCHOLARSHIP>  알려줘봐
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 장학금 알려줘요
+$<장학금:H_SCHOLARSHIP>  알려줘요
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 장학금에 대해서 알려줘
+$<장학금:H_SCHOLARSHIP> 에 대해서 알려줘
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 장학금에 대해서 알려주세요
+$<장학금:H_SCHOLARSHIP> 에 대해서 알려주세요
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 장학금에 관해서 알려줘
+$<장학금:H_SCHOLARSHIP> 에 관해서 알려줘
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 장학금를 알려줘
+$<장학금:H_SCHOLARSHIP> 를 알려줘
+1	장학금	NNG	B_H_SCHOLARSHIP
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 장학제도
+$<장학제도:H_SCHOLARSHIP> 
+1	장학제도	NNG	B_H_SCHOLARSHIP
+
+; 장학제도 알려줘
+$<장학제도:H_SCHOLARSHIP>  알려줘
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 장학제도 알려주세요
+$<장학제도:H_SCHOLARSHIP>  알려주세요
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 장학제도 알려줘봐
+$<장학제도:H_SCHOLARSHIP>  알려줘봐
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 장학제도 알려줘요
+$<장학제도:H_SCHOLARSHIP>  알려줘요
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 장학제도에 대해서 알려줘
+$<장학제도:H_SCHOLARSHIP> 에 대해서 알려줘
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 장학제도에 대해서 알려주세요
+$<장학제도:H_SCHOLARSHIP> 에 대해서 알려주세요
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 장학제도에 관해서 알려줘
+$<장학제도:H_SCHOLARSHIP> 에 관해서 알려줘
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 장학제도를 알려줘
+$<장학제도:H_SCHOLARSHIP> 를 알려줘
+1	장학제도	NNG	B_H_SCHOLARSHIP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 캠퍼스
+$<캠퍼스:H_MAP> 
+1	캠퍼스	NNG	B_H_MAP
+
+; 캠퍼스 알려줘
+$<캠퍼스:H_MAP>  알려줘
+1	캠퍼스	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 캠퍼스 알려주세요
+$<캠퍼스:H_MAP>  알려주세요
+1	캠퍼스	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 캠퍼스 알려줘봐
+$<캠퍼스:H_MAP>  알려줘봐
+1	캠퍼스	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 캠퍼스 알려줘요
+$<캠퍼스:H_MAP>  알려줘요
+1	캠퍼스	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 캠퍼스에 대해서 알려줘
+$<캠퍼스:H_MAP> 에 대해서 알려줘
+1	캠퍼스	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 캠퍼스에 대해서 알려주세요
+$<캠퍼스:H_MAP> 에 대해서 알려주세요
+1	캠퍼스	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 캠퍼스에 관해서 알려줘
+$<캠퍼스:H_MAP> 에 관해서 알려줘
+1	캠퍼스	NNG	B_H_MAP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 캠퍼스를 알려줘
+$<캠퍼스:H_MAP> 를 알려줘
+1	캠퍼스	NNG	B_H_MAP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 학교
+$<학교:H_MAP> 
+1	학교	NNG	B_H_MAP
+
+; 학교 알려줘
+$<학교:H_MAP>  알려줘
+1	학교	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 학교 알려주세요
+$<학교:H_MAP>  알려주세요
+1	학교	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 학교 알려줘봐
+$<학교:H_MAP>  알려줘봐
+1	학교	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 학교 알려줘요
+$<학교:H_MAP>  알려줘요
+1	학교	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 학교에 대해서 알려줘
+$<학교:H_MAP> 에 대해서 알려줘
+1	학교	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학교에 대해서 알려주세요
+$<학교:H_MAP> 에 대해서 알려주세요
+1	학교	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 학교에 관해서 알려줘
+$<학교:H_MAP> 에 관해서 알려줘
+1	학교	NNG	B_H_MAP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학교를 알려줘
+$<학교:H_MAP> 를 알려줘
+1	학교	NNG	B_H_MAP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 지도
+$<지도:H_MAP> 
+1	지도	NNG	B_H_MAP
+
+; 지도 알려줘
+$<지도:H_MAP>  알려줘
+1	지도	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 지도 알려주세요
+$<지도:H_MAP>  알려주세요
+1	지도	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 지도 알려줘봐
+$<지도:H_MAP>  알려줘봐
+1	지도	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 지도 알려줘요
+$<지도:H_MAP>  알려줘요
+1	지도	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 지도에 대해서 알려줘
+$<지도:H_MAP> 에 대해서 알려줘
+1	지도	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 지도에 대해서 알려주세요
+$<지도:H_MAP> 에 대해서 알려주세요
+1	지도	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 지도에 관해서 알려줘
+$<지도:H_MAP> 에 관해서 알려줘
+1	지도	NNG	B_H_MAP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 지도를 알려줘
+$<지도:H_MAP> 를 알려줘
+1	지도	NNG	B_H_MAP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 캠퍼스 맵
+$<캠퍼스 맵:H_MAP> 
+1	캠퍼스 맵	NNG	B_H_MAP
+
+; 캠퍼스 맵 알려줘
+$<캠퍼스 맵:H_MAP>  알려줘
+1	캠퍼스 맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 캠퍼스 맵 알려주세요
+$<캠퍼스 맵:H_MAP>  알려주세요
+1	캠퍼스 맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 캠퍼스 맵 알려줘봐
+$<캠퍼스 맵:H_MAP>  알려줘봐
+1	캠퍼스 맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 캠퍼스 맵 알려줘요
+$<캠퍼스 맵:H_MAP>  알려줘요
+1	캠퍼스 맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 캠퍼스 맵에 대해서 알려줘
+$<캠퍼스 맵:H_MAP> 에 대해서 알려줘
+1	캠퍼스 맵	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 캠퍼스 맵에 대해서 알려주세요
+$<캠퍼스 맵:H_MAP> 에 대해서 알려주세요
+1	캠퍼스 맵	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 캠퍼스 맵에 관해서 알려줘
+$<캠퍼스 맵:H_MAP> 에 관해서 알려줘
+1	캠퍼스 맵	NNG	B_H_MAP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 캠퍼스 맵를 알려줘
+$<캠퍼스 맵:H_MAP> 를 알려줘
+1	캠퍼스 맵	NNG	B_H_MAP
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 캠퍼스맵
+$<캠퍼스맵:H_MAP> 
+1	캠퍼스맵	NNG	B_H_MAP
+
+; 캠퍼스맵 알려줘
+$<캠퍼스맵:H_MAP>  알려줘
+1	캠퍼스맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 캠퍼스맵 알려주세요
+$<캠퍼스맵:H_MAP>  알려주세요
+1	캠퍼스맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 캠퍼스맵 알려줘봐
+$<캠퍼스맵:H_MAP>  알려줘봐
+1	캠퍼스맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 캠퍼스맵 알려줘요
+$<캠퍼스맵:H_MAP>  알려줘요
+1	캠퍼스맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 캠퍼스맵에 대해서 알려줘
+$<캠퍼스맵:H_MAP> 에 대해서 알려줘
+1	캠퍼스맵	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 캠퍼스맵에 대해서 알려주세요
+$<캠퍼스맵:H_MAP> 에 대해서 알려주세요
+1	캠퍼스맵	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 캠퍼스맵에 관해서 알려줘
+$<캠퍼스맵:H_MAP> 에 관해서 알려줘
+1	캠퍼스맵	NNG	B_H_MAP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 캠퍼스맵를 알려줘
+$<캠퍼스맵:H_MAP> 를 알려줘
+1	캠퍼스맵	NNG	B_H_MAP
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 학교맵
+$<학교맵:H_MAP> 
+1	학교맵	NNG	B_H_MAP
+
+; 학교맵 알려줘
+$<학교맵:H_MAP>  알려줘
+1	학교맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 학교맵 알려주세요
+$<학교맵:H_MAP>  알려주세요
+1	학교맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 학교맵 알려줘봐
+$<학교맵:H_MAP>  알려줘봐
+1	학교맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 학교맵 알려줘요
+$<학교맵:H_MAP>  알려줘요
+1	학교맵	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 학교맵에 대해서 알려줘
+$<학교맵:H_MAP> 에 대해서 알려줘
+1	학교맵	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학교맵에 대해서 알려주세요
+$<학교맵:H_MAP> 에 대해서 알려주세요
+1	학교맵	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 학교맵에 관해서 알려줘
+$<학교맵:H_MAP> 에 관해서 알려줘
+1	학교맵	NNG	B_H_MAP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 학교맵를 알려줘
+$<학교맵:H_MAP> 를 알려줘
+1	학교맵	NNG	B_H_MAP
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 우송대 위치
+$<우송대 위치:H_MAP> 
+1	우송대 위치	NNG	B_H_MAP
+
+; 우송대 위치 알려줘
+$<우송대 위치:H_MAP>  알려줘
+1	우송대 위치	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 우송대 위치 알려주세요
+$<우송대 위치:H_MAP>  알려주세요
+1	우송대 위치	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 우송대 위치 알려줘봐
+$<우송대 위치:H_MAP>  알려줘봐
+1	우송대 위치	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 우송대 위치 알려줘요
+$<우송대 위치:H_MAP>  알려줘요
+1	우송대 위치	NNG	B_H_MAP
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 우송대 위치에 대해서 알려줘
+$<우송대 위치:H_MAP> 에 대해서 알려줘
+1	우송대 위치	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 우송대 위치에 대해서 알려주세요
+$<우송대 위치:H_MAP> 에 대해서 알려주세요
+1	우송대 위치	NNG	B_H_MAP
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 우송대 위치에 관해서 알려줘
+$<우송대 위치:H_MAP> 에 관해서 알려줘
+1	우송대 위치	NNG	B_H_MAP
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 우송대 위치를 알려줘
+$<우송대 위치:H_MAP> 를 알려줘
+1	우송대 위치	NNG	B_H_MAP
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 기숙사
+$<기숙사:H_DORMITORY> 
+1	기숙사	NNG	B_H_DORMITORY
+
+; 기숙사 알려줘
+$<기숙사:H_DORMITORY>  알려줘
+1	기숙사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 기숙사 알려주세요
+$<기숙사:H_DORMITORY>  알려주세요
+1	기숙사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 기숙사 알려줘봐
+$<기숙사:H_DORMITORY>  알려줘봐
+1	기숙사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 기숙사 알려줘요
+$<기숙사:H_DORMITORY>  알려줘요
+1	기숙사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 기숙사에 대해서 알려줘
+$<기숙사:H_DORMITORY> 에 대해서 알려줘
+1	기숙사	NNG	B_H_DORMITORY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기숙사에 대해서 알려주세요
+$<기숙사:H_DORMITORY> 에 대해서 알려주세요
+1	기숙사	NNG	B_H_DORMITORY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 기숙사에 관해서 알려줘
+$<기숙사:H_DORMITORY> 에 관해서 알려줘
+1	기숙사	NNG	B_H_DORMITORY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기숙사를 알려줘
+$<기숙사:H_DORMITORY> 를 알려줘
+1	기숙사	NNG	B_H_DORMITORY
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 긱사
+$<긱사:H_DORMITORY> 
+1	긱사	NNG	B_H_DORMITORY
+
+; 긱사 알려줘
+$<긱사:H_DORMITORY>  알려줘
+1	긱사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 긱사 알려주세요
+$<긱사:H_DORMITORY>  알려주세요
+1	긱사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 긱사 알려줘봐
+$<긱사:H_DORMITORY>  알려줘봐
+1	긱사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 긱사 알려줘요
+$<긱사:H_DORMITORY>  알려줘요
+1	긱사	NNG	B_H_DORMITORY
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 긱사에 대해서 알려줘
+$<긱사:H_DORMITORY> 에 대해서 알려줘
+1	긱사	NNG	B_H_DORMITORY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 긱사에 대해서 알려주세요
+$<긱사:H_DORMITORY> 에 대해서 알려주세요
+1	긱사	NNG	B_H_DORMITORY
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 긱사에 관해서 알려줘
+$<긱사:H_DORMITORY> 에 관해서 알려줘
+1	긱사	NNG	B_H_DORMITORY
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 긱사를 알려줘
+$<긱사:H_DORMITORY> 를 알려줘
+1	긱사	NNG	B_H_DORMITORY
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 연락처
+$<연락처:H_CONINF> 
+1	연락처	NNG	B_H_CONINF
+
+; 연락처 알려줘
+$<연락처:H_CONINF>  알려줘
+1	연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 연락처 알려주세요
+$<연락처:H_CONINF>  알려주세요
+1	연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 연락처 알려줘봐
+$<연락처:H_CONINF>  알려줘봐
+1	연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 연락처 알려줘요
+$<연락처:H_CONINF>  알려줘요
+1	연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 연락처에 대해서 알려줘
+$<연락처:H_CONINF> 에 대해서 알려줘
+1	연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 연락처에 대해서 알려주세요
+$<연락처:H_CONINF> 에 대해서 알려주세요
+1	연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 연락처에 관해서 알려줘
+$<연락처:H_CONINF> 에 관해서 알려줘
+1	연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 연락처를 알려줘
+$<연락처:H_CONINF> 를 알려줘
+1	연락처	NNG	B_H_CONINF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 번호
+$<번호:H_CONINF> 
+1	번호	NNG	B_H_CONINF
+
+; 번호 알려줘
+$<번호:H_CONINF>  알려줘
+1	번호	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 번호 알려주세요
+$<번호:H_CONINF>  알려주세요
+1	번호	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 번호 알려줘봐
+$<번호:H_CONINF>  알려줘봐
+1	번호	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 번호 알려줘요
+$<번호:H_CONINF>  알려줘요
+1	번호	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 번호에 대해서 알려줘
+$<번호:H_CONINF> 에 대해서 알려줘
+1	번호	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 번호에 대해서 알려주세요
+$<번호:H_CONINF> 에 대해서 알려주세요
+1	번호	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 번호에 관해서 알려줘
+$<번호:H_CONINF> 에 관해서 알려줘
+1	번호	NNG	B_H_CONINF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 번호를 알려줘
+$<번호:H_CONINF> 를 알려줘
+1	번호	NNG	B_H_CONINF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 부서
+$<부서:H_CONINF> 
+1	부서	NNG	B_H_CONINF
+
+; 부서 알려줘
+$<부서:H_CONINF>  알려줘
+1	부서	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 부서 알려주세요
+$<부서:H_CONINF>  알려주세요
+1	부서	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 부서 알려줘봐
+$<부서:H_CONINF>  알려줘봐
+1	부서	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 부서 알려줘요
+$<부서:H_CONINF>  알려줘요
+1	부서	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 부서에 대해서 알려줘
+$<부서:H_CONINF> 에 대해서 알려줘
+1	부서	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 부서에 대해서 알려주세요
+$<부서:H_CONINF> 에 대해서 알려주세요
+1	부서	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 부서에 관해서 알려줘
+$<부서:H_CONINF> 에 관해서 알려줘
+1	부서	NNG	B_H_CONINF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 부서를 알려줘
+$<부서:H_CONINF> 를 알려줘
+1	부서	NNG	B_H_CONINF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 교무처 연락처
+$<교무처 연락처:H_CONINF> 
+1	교무처 연락처	NNG	B_H_CONINF
+
+; 교무처 연락처 알려줘
+$<교무처 연락처:H_CONINF>  알려줘
+1	교무처 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 교무처 연락처 알려주세요
+$<교무처 연락처:H_CONINF>  알려주세요
+1	교무처 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 교무처 연락처 알려줘봐
+$<교무처 연락처:H_CONINF>  알려줘봐
+1	교무처 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 교무처 연락처 알려줘요
+$<교무처 연락처:H_CONINF>  알려줘요
+1	교무처 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 교무처 연락처에 대해서 알려줘
+$<교무처 연락처:H_CONINF> 에 대해서 알려줘
+1	교무처 연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 교무처 연락처에 대해서 알려주세요
+$<교무처 연락처:H_CONINF> 에 대해서 알려주세요
+1	교무처 연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 교무처 연락처에 관해서 알려줘
+$<교무처 연락처:H_CONINF> 에 관해서 알려줘
+1	교무처 연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 교무처 연락처를 알려줘
+$<교무처 연락처:H_CONINF> 를 알려줘
+1	교무처 연락처	NNG	B_H_CONINF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 부서별 연락처
+$<부서별 연락처:H_CONINF> 
+1	부서별 연락처	NNG	B_H_CONINF
+
+; 부서별 연락처 알려줘
+$<부서별 연락처:H_CONINF>  알려줘
+1	부서별 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 부서별 연락처 알려주세요
+$<부서별 연락처:H_CONINF>  알려주세요
+1	부서별 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 부서별 연락처 알려줘봐
+$<부서별 연락처:H_CONINF>  알려줘봐
+1	부서별 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 부서별 연락처 알려줘요
+$<부서별 연락처:H_CONINF>  알려줘요
+1	부서별 연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 부서별 연락처에 대해서 알려줘
+$<부서별 연락처:H_CONINF> 에 대해서 알려줘
+1	부서별 연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 부서별 연락처에 대해서 알려주세요
+$<부서별 연락처:H_CONINF> 에 대해서 알려주세요
+1	부서별 연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 부서별 연락처에 관해서 알려줘
+$<부서별 연락처:H_CONINF> 에 관해서 알려줘
+1	부서별 연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 부서별 연락처를 알려줘
+$<부서별 연락처:H_CONINF> 를 알려줘
+1	부서별 연락처	NNG	B_H_CONINF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 부서별연락처
+$<부서별연락처:H_CONINF> 
+1	부서별연락처	NNG	B_H_CONINF
+
+; 부서별연락처 알려줘
+$<부서별연락처:H_CONINF>  알려줘
+1	부서별연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 부서별연락처 알려주세요
+$<부서별연락처:H_CONINF>  알려주세요
+1	부서별연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 부서별연락처 알려줘봐
+$<부서별연락처:H_CONINF>  알려줘봐
+1	부서별연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 부서별연락처 알려줘요
+$<부서별연락처:H_CONINF>  알려줘요
+1	부서별연락처	NNG	B_H_CONINF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 부서별연락처에 대해서 알려줘
+$<부서별연락처:H_CONINF> 에 대해서 알려줘
+1	부서별연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 부서별연락처에 대해서 알려주세요
+$<부서별연락처:H_CONINF> 에 대해서 알려주세요
+1	부서별연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 부서별연락처에 관해서 알려줘
+$<부서별연락처:H_CONINF> 에 관해서 알려줘
+1	부서별연락처	NNG	B_H_CONINF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 부서별연락처를 알려줘
+$<부서별연락처:H_CONINF> 를 알려줘
+1	부서별연락처	NNG	B_H_CONINF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 입학
+$<입학:H_ADMISSION> 
+1	입학	NNG	B_H_ADMISSION
+
+; 입학 알려줘
+$<입학:H_ADMISSION>  알려줘
+1	입학	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 입학 알려주세요
+$<입학:H_ADMISSION>  알려주세요
+1	입학	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 입학 알려줘봐
+$<입학:H_ADMISSION>  알려줘봐
+1	입학	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 입학 알려줘요
+$<입학:H_ADMISSION>  알려줘요
+1	입학	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 입학에 대해서 알려줘
+$<입학:H_ADMISSION> 에 대해서 알려줘
+1	입학	NNG	B_H_ADMISSION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학에 대해서 알려주세요
+$<입학:H_ADMISSION> 에 대해서 알려주세요
+1	입학	NNG	B_H_ADMISSION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 입학에 관해서 알려줘
+$<입학:H_ADMISSION> 에 관해서 알려줘
+1	입학	NNG	B_H_ADMISSION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학를 알려줘
+$<입학:H_ADMISSION> 를 알려줘
+1	입학	NNG	B_H_ADMISSION
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 입학처
+$<입학처:H_ADMISSION> 
+1	입학처	NNG	B_H_ADMISSION
+
+; 입학처 알려줘
+$<입학처:H_ADMISSION>  알려줘
+1	입학처	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 입학처 알려주세요
+$<입학처:H_ADMISSION>  알려주세요
+1	입학처	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 입학처 알려줘봐
+$<입학처:H_ADMISSION>  알려줘봐
+1	입학처	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 입학처 알려줘요
+$<입학처:H_ADMISSION>  알려줘요
+1	입학처	NNG	B_H_ADMISSION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 입학처에 대해서 알려줘
+$<입학처:H_ADMISSION> 에 대해서 알려줘
+1	입학처	NNG	B_H_ADMISSION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학처에 대해서 알려주세요
+$<입학처:H_ADMISSION> 에 대해서 알려주세요
+1	입학처	NNG	B_H_ADMISSION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 입학처에 관해서 알려줘
+$<입학처:H_ADMISSION> 에 관해서 알려줘
+1	입학처	NNG	B_H_ADMISSION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 입학처를 알려줘
+$<입학처:H_ADMISSION> 를 알려줘
+1	입학처	NNG	B_H_ADMISSION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 편의시설
+$<편의시설:H_AMENITIES> 
+1	편의시설	NNG	B_H_AMENITIES
+
+; 편의시설 알려줘
+$<편의시설:H_AMENITIES>  알려줘
+1	편의시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 편의시설 알려주세요
+$<편의시설:H_AMENITIES>  알려주세요
+1	편의시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 편의시설 알려줘봐
+$<편의시설:H_AMENITIES>  알려줘봐
+1	편의시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 편의시설 알려줘요
+$<편의시설:H_AMENITIES>  알려줘요
+1	편의시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 편의시설에 대해서 알려줘
+$<편의시설:H_AMENITIES> 에 대해서 알려줘
+1	편의시설	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 편의시설에 대해서 알려주세요
+$<편의시설:H_AMENITIES> 에 대해서 알려주세요
+1	편의시설	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 편의시설에 관해서 알려줘
+$<편의시설:H_AMENITIES> 에 관해서 알려줘
+1	편의시설	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 편의시설를 알려줘
+$<편의시설:H_AMENITIES> 를 알려줘
+1	편의시설	NNG	B_H_AMENITIES
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 편의
+$<편의:H_AMENITIES> 
+1	편의	NNG	B_H_AMENITIES
+
+; 편의 알려줘
+$<편의:H_AMENITIES>  알려줘
+1	편의	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 편의 알려주세요
+$<편의:H_AMENITIES>  알려주세요
+1	편의	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 편의 알려줘봐
+$<편의:H_AMENITIES>  알려줘봐
+1	편의	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 편의 알려줘요
+$<편의:H_AMENITIES>  알려줘요
+1	편의	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 편의에 대해서 알려줘
+$<편의:H_AMENITIES> 에 대해서 알려줘
+1	편의	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 편의에 대해서 알려주세요
+$<편의:H_AMENITIES> 에 대해서 알려주세요
+1	편의	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 편의에 관해서 알려줘
+$<편의:H_AMENITIES> 에 관해서 알려줘
+1	편의	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 편의를 알려줘
+$<편의:H_AMENITIES> 를 알려줘
+1	편의	NNG	B_H_AMENITIES
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 시설
+$<시설:H_AMENITIES> 
+1	시설	NNG	B_H_AMENITIES
+
+; 시설 알려줘
+$<시설:H_AMENITIES>  알려줘
+1	시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 시설 알려주세요
+$<시설:H_AMENITIES>  알려주세요
+1	시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 시설 알려줘봐
+$<시설:H_AMENITIES>  알려줘봐
+1	시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 시설 알려줘요
+$<시설:H_AMENITIES>  알려줘요
+1	시설	NNG	B_H_AMENITIES
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 시설에 대해서 알려줘
+$<시설:H_AMENITIES> 에 대해서 알려줘
+1	시설	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 시설에 대해서 알려주세요
+$<시설:H_AMENITIES> 에 대해서 알려주세요
+1	시설	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 시설에 관해서 알려줘
+$<시설:H_AMENITIES> 에 관해서 알려줘
+1	시설	NNG	B_H_AMENITIES
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 시설를 알려줘
+$<시설:H_AMENITIES> 를 알려줘
+1	시설	NNG	B_H_AMENITIES
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 농어촌학생
+$<농어촌학생:H_VILLAGE> 
+1	농어촌학생	NNG	B_H_VILLAGE
+
+; 농어촌학생 알려줘
+$<농어촌학생:H_VILLAGE>  알려줘
+1	농어촌학생	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 농어촌학생 알려주세요
+$<농어촌학생:H_VILLAGE>  알려주세요
+1	농어촌학생	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 농어촌학생 알려줘봐
+$<농어촌학생:H_VILLAGE>  알려줘봐
+1	농어촌학생	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 농어촌학생 알려줘요
+$<농어촌학생:H_VILLAGE>  알려줘요
+1	농어촌학생	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 농어촌학생에 대해서 알려줘
+$<농어촌학생:H_VILLAGE> 에 대해서 알려줘
+1	농어촌학생	NNG	B_H_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 농어촌학생에 대해서 알려주세요
+$<농어촌학생:H_VILLAGE> 에 대해서 알려주세요
+1	농어촌학생	NNG	B_H_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 농어촌학생에 관해서 알려줘
+$<농어촌학생:H_VILLAGE> 에 관해서 알려줘
+1	농어촌학생	NNG	B_H_VILLAGE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 농어촌학생를 알려줘
+$<농어촌학생:H_VILLAGE> 를 알려줘
+1	농어촌학생	NNG	B_H_VILLAGE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 농어촌
+$<농어촌:H_VILLAGE> 
+1	농어촌	NNG	B_H_VILLAGE
+
+; 농어촌 알려줘
+$<농어촌:H_VILLAGE>  알려줘
+1	농어촌	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 농어촌 알려주세요
+$<농어촌:H_VILLAGE>  알려주세요
+1	농어촌	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 농어촌 알려줘봐
+$<농어촌:H_VILLAGE>  알려줘봐
+1	농어촌	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 농어촌 알려줘요
+$<농어촌:H_VILLAGE>  알려줘요
+1	농어촌	NNG	B_H_VILLAGE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 농어촌에 대해서 알려줘
+$<농어촌:H_VILLAGE> 에 대해서 알려줘
+1	농어촌	NNG	B_H_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 농어촌에 대해서 알려주세요
+$<농어촌:H_VILLAGE> 에 대해서 알려주세요
+1	농어촌	NNG	B_H_VILLAGE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 농어촌에 관해서 알려줘
+$<농어촌:H_VILLAGE> 에 관해서 알려줘
+1	농어촌	NNG	B_H_VILLAGE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 농어촌를 알려줘
+$<농어촌:H_VILLAGE> 를 알려줘
+1	농어촌	NNG	B_H_VILLAGE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 특성화고교졸업자
+$<특성화고교졸업자:H_CHARA> 
+1	특성화고교졸업자	NNG	B_H_CHARA
+
+; 특성화고교졸업자 알려줘
+$<특성화고교졸업자:H_CHARA>  알려줘
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 특성화고교졸업자 알려주세요
+$<특성화고교졸업자:H_CHARA>  알려주세요
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 특성화고교졸업자 알려줘봐
+$<특성화고교졸업자:H_CHARA>  알려줘봐
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 특성화고교졸업자 알려줘요
+$<특성화고교졸업자:H_CHARA>  알려줘요
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 특성화고교졸업자에 대해서 알려줘
+$<특성화고교졸업자:H_CHARA> 에 대해서 알려줘
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특성화고교졸업자에 대해서 알려주세요
+$<특성화고교졸업자:H_CHARA> 에 대해서 알려주세요
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 특성화고교졸업자에 관해서 알려줘
+$<특성화고교졸업자:H_CHARA> 에 관해서 알려줘
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특성화고교졸업자를 알려줘
+$<특성화고교졸업자:H_CHARA> 를 알려줘
+1	특성화고교졸업자	NNG	B_H_CHARA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 특성화
+$<특성화:H_CHARA> 
+1	특성화	NNG	B_H_CHARA
+
+; 특성화 알려줘
+$<특성화:H_CHARA>  알려줘
+1	특성화	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 특성화 알려주세요
+$<특성화:H_CHARA>  알려주세요
+1	특성화	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 특성화 알려줘봐
+$<특성화:H_CHARA>  알려줘봐
+1	특성화	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 특성화 알려줘요
+$<특성화:H_CHARA>  알려줘요
+1	특성화	NNG	B_H_CHARA
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 특성화에 대해서 알려줘
+$<특성화:H_CHARA> 에 대해서 알려줘
+1	특성화	NNG	B_H_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특성화에 대해서 알려주세요
+$<특성화:H_CHARA> 에 대해서 알려주세요
+1	특성화	NNG	B_H_CHARA
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 특성화에 관해서 알려줘
+$<특성화:H_CHARA> 에 관해서 알려줘
+1	특성화	NNG	B_H_CHARA
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 특성화를 알려줘
+$<특성화:H_CHARA> 를 알려줘
+1	특성화	NNG	B_H_CHARA
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 기초생활수급자
+$<기초생활수급자:H_FOUNDATION> 
+1	기초생활수급자	NNG	B_H_FOUNDATION
+
+; 기초생활수급자 알려줘
+$<기초생활수급자:H_FOUNDATION>  알려줘
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 기초생활수급자 알려주세요
+$<기초생활수급자:H_FOUNDATION>  알려주세요
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 기초생활수급자 알려줘봐
+$<기초생활수급자:H_FOUNDATION>  알려줘봐
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 기초생활수급자 알려줘요
+$<기초생활수급자:H_FOUNDATION>  알려줘요
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 기초생활수급자에 대해서 알려줘
+$<기초생활수급자:H_FOUNDATION> 에 대해서 알려줘
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기초생활수급자에 대해서 알려주세요
+$<기초생활수급자:H_FOUNDATION> 에 대해서 알려주세요
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 기초생활수급자에 관해서 알려줘
+$<기초생활수급자:H_FOUNDATION> 에 관해서 알려줘
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기초생활수급자를 알려줘
+$<기초생활수급자:H_FOUNDATION> 를 알려줘
+1	기초생활수급자	NNG	B_H_FOUNDATION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 기초생활
+$<기초생활:H_FOUNDATION> 
+1	기초생활	NNG	B_H_FOUNDATION
+
+; 기초생활 알려줘
+$<기초생활:H_FOUNDATION>  알려줘
+1	기초생활	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 기초생활 알려주세요
+$<기초생활:H_FOUNDATION>  알려주세요
+1	기초생활	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 기초생활 알려줘봐
+$<기초생활:H_FOUNDATION>  알려줘봐
+1	기초생활	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 기초생활 알려줘요
+$<기초생활:H_FOUNDATION>  알려줘요
+1	기초생활	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 기초생활에 대해서 알려줘
+$<기초생활:H_FOUNDATION> 에 대해서 알려줘
+1	기초생활	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기초생활에 대해서 알려주세요
+$<기초생활:H_FOUNDATION> 에 대해서 알려주세요
+1	기초생활	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 기초생활에 관해서 알려줘
+$<기초생활:H_FOUNDATION> 에 관해서 알려줘
+1	기초생활	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기초생활를 알려줘
+$<기초생활:H_FOUNDATION> 를 알려줘
+1	기초생활	NNG	B_H_FOUNDATION
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 기초
+$<기초:H_FOUNDATION> 
+1	기초	NNG	B_H_FOUNDATION
+
+; 기초 알려줘
+$<기초:H_FOUNDATION>  알려줘
+1	기초	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 기초 알려주세요
+$<기초:H_FOUNDATION>  알려주세요
+1	기초	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 기초 알려줘봐
+$<기초:H_FOUNDATION>  알려줘봐
+1	기초	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 기초 알려줘요
+$<기초:H_FOUNDATION>  알려줘요
+1	기초	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 기초에 대해서 알려줘
+$<기초:H_FOUNDATION> 에 대해서 알려줘
+1	기초	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기초에 대해서 알려주세요
+$<기초:H_FOUNDATION> 에 대해서 알려주세요
+1	기초	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 기초에 관해서 알려줘
+$<기초:H_FOUNDATION> 에 관해서 알려줘
+1	기초	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 기초를 알려줘
+$<기초:H_FOUNDATION> 를 알려줘
+1	기초	NNG	B_H_FOUNDATION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 차상위
+$<차상위:H_FOUNDATION> 
+1	차상위	NNG	B_H_FOUNDATION
+
+; 차상위 알려줘
+$<차상위:H_FOUNDATION>  알려줘
+1	차상위	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 차상위 알려주세요
+$<차상위:H_FOUNDATION>  알려주세요
+1	차상위	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 차상위 알려줘봐
+$<차상위:H_FOUNDATION>  알려줘봐
+1	차상위	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 차상위 알려줘요
+$<차상위:H_FOUNDATION>  알려줘요
+1	차상위	NNG	B_H_FOUNDATION
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 차상위에 대해서 알려줘
+$<차상위:H_FOUNDATION> 에 대해서 알려줘
+1	차상위	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 차상위에 대해서 알려주세요
+$<차상위:H_FOUNDATION> 에 대해서 알려주세요
+1	차상위	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 차상위에 관해서 알려줘
+$<차상위:H_FOUNDATION> 에 관해서 알려줘
+1	차상위	NNG	B_H_FOUNDATION
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 차상위를 알려줘
+$<차상위:H_FOUNDATION> 를 알려줘
+1	차상위	NNG	B_H_FOUNDATION
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 전년도 등급컷
+$<전년도 등급컷:H_GRADE> 
+1	전년도 등급컷	NNG	B_H_GRADE
+
+; 전년도 등급컷 알려줘
+$<전년도 등급컷:H_GRADE>  알려줘
+1	전년도 등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 전년도 등급컷 알려주세요
+$<전년도 등급컷:H_GRADE>  알려주세요
+1	전년도 등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 전년도 등급컷 알려줘봐
+$<전년도 등급컷:H_GRADE>  알려줘봐
+1	전년도 등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 전년도 등급컷 알려줘요
+$<전년도 등급컷:H_GRADE>  알려줘요
+1	전년도 등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 전년도 등급컷에 대해서 알려줘
+$<전년도 등급컷:H_GRADE> 에 대해서 알려줘
+1	전년도 등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전년도 등급컷에 대해서 알려주세요
+$<전년도 등급컷:H_GRADE> 에 대해서 알려주세요
+1	전년도 등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 전년도 등급컷에 관해서 알려줘
+$<전년도 등급컷:H_GRADE> 에 관해서 알려줘
+1	전년도 등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전년도 등급컷를 알려줘
+$<전년도 등급컷:H_GRADE> 를 알려줘
+1	전년도 등급컷	NNG	B_H_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 전년도등급컷
+$<전년도등급컷:H_GRADE> 
+1	전년도등급컷	NNG	B_H_GRADE
+
+; 전년도등급컷 알려줘
+$<전년도등급컷:H_GRADE>  알려줘
+1	전년도등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 전년도등급컷 알려주세요
+$<전년도등급컷:H_GRADE>  알려주세요
+1	전년도등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 전년도등급컷 알려줘봐
+$<전년도등급컷:H_GRADE>  알려줘봐
+1	전년도등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 전년도등급컷 알려줘요
+$<전년도등급컷:H_GRADE>  알려줘요
+1	전년도등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 전년도등급컷에 대해서 알려줘
+$<전년도등급컷:H_GRADE> 에 대해서 알려줘
+1	전년도등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전년도등급컷에 대해서 알려주세요
+$<전년도등급컷:H_GRADE> 에 대해서 알려주세요
+1	전년도등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 전년도등급컷에 관해서 알려줘
+$<전년도등급컷:H_GRADE> 에 관해서 알려줘
+1	전년도등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전년도등급컷를 알려줘
+$<전년도등급컷:H_GRADE> 를 알려줘
+1	전년도등급컷	NNG	B_H_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 등급컷
+$<등급컷:H_GRADE> 
+1	등급컷	NNG	B_H_GRADE
+
+; 등급컷 알려줘
+$<등급컷:H_GRADE>  알려줘
+1	등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 등급컷 알려주세요
+$<등급컷:H_GRADE>  알려주세요
+1	등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 등급컷 알려줘봐
+$<등급컷:H_GRADE>  알려줘봐
+1	등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 등급컷 알려줘요
+$<등급컷:H_GRADE>  알려줘요
+1	등급컷	NNG	B_H_GRADE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 등급컷에 대해서 알려줘
+$<등급컷:H_GRADE> 에 대해서 알려줘
+1	등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 등급컷에 대해서 알려주세요
+$<등급컷:H_GRADE> 에 대해서 알려주세요
+1	등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 등급컷에 관해서 알려줘
+$<등급컷:H_GRADE> 에 관해서 알려줘
+1	등급컷	NNG	B_H_GRADE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 등급컷를 알려줘
+$<등급컷:H_GRADE> 를 알려줘
+1	등급컷	NNG	B_H_GRADE
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 전형방법
+$<전형방법:H_SYNS> 
+1	전형방법	NNG	B_H_SYNS
+
+; 전형방법 알려줘
+$<전형방법:H_SYNS>  알려줘
+1	전형방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 전형방법 알려주세요
+$<전형방법:H_SYNS>  알려주세요
+1	전형방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 전형방법 알려줘봐
+$<전형방법:H_SYNS>  알려줘봐
+1	전형방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 전형방법 알려줘요
+$<전형방법:H_SYNS>  알려줘요
+1	전형방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 전형방법에 대해서 알려줘
+$<전형방법:H_SYNS> 에 대해서 알려줘
+1	전형방법	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전형방법에 대해서 알려주세요
+$<전형방법:H_SYNS> 에 대해서 알려주세요
+1	전형방법	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 전형방법에 관해서 알려줘
+$<전형방법:H_SYNS> 에 관해서 알려줘
+1	전형방법	NNG	B_H_SYNS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전형방법를 알려줘
+$<전형방법:H_SYNS> 를 알려줘
+1	전형방법	NNG	B_H_SYNS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 지원방법
+$<지원방법:H_SYNS> 
+1	지원방법	NNG	B_H_SYNS
+
+; 지원방법 알려줘
+$<지원방법:H_SYNS>  알려줘
+1	지원방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 지원방법 알려주세요
+$<지원방법:H_SYNS>  알려주세요
+1	지원방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 지원방법 알려줘봐
+$<지원방법:H_SYNS>  알려줘봐
+1	지원방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 지원방법 알려줘요
+$<지원방법:H_SYNS>  알려줘요
+1	지원방법	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 지원방법에 대해서 알려줘
+$<지원방법:H_SYNS> 에 대해서 알려줘
+1	지원방법	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 지원방법에 대해서 알려주세요
+$<지원방법:H_SYNS> 에 대해서 알려주세요
+1	지원방법	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 지원방법에 관해서 알려줘
+$<지원방법:H_SYNS> 에 관해서 알려줘
+1	지원방법	NNG	B_H_SYNS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 지원방법를 알려줘
+$<지원방법:H_SYNS> 를 알려줘
+1	지원방법	NNG	B_H_SYNS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 전형
+$<전형:H_SYNS> 
+1	전형	NNG	B_H_SYNS
+
+; 전형 알려줘
+$<전형:H_SYNS>  알려줘
+1	전형	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 전형 알려주세요
+$<전형:H_SYNS>  알려주세요
+1	전형	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 전형 알려줘봐
+$<전형:H_SYNS>  알려줘봐
+1	전형	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 전형 알려줘요
+$<전형:H_SYNS>  알려줘요
+1	전형	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 전형에 대해서 알려줘
+$<전형:H_SYNS> 에 대해서 알려줘
+1	전형	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전형에 대해서 알려주세요
+$<전형:H_SYNS> 에 대해서 알려주세요
+1	전형	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 전형에 관해서 알려줘
+$<전형:H_SYNS> 에 관해서 알려줘
+1	전형	NNG	B_H_SYNS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 전형를 알려줘
+$<전형:H_SYNS> 를 알려줘
+1	전형	NNG	B_H_SYNS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 지원
+$<지원:H_SYNS> 
+1	지원	NNG	B_H_SYNS
+
+; 지원 알려줘
+$<지원:H_SYNS>  알려줘
+1	지원	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 지원 알려주세요
+$<지원:H_SYNS>  알려주세요
+1	지원	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 지원 알려줘봐
+$<지원:H_SYNS>  알려줘봐
+1	지원	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 지원 알려줘요
+$<지원:H_SYNS>  알려줘요
+1	지원	NNG	B_H_SYNS
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 지원에 대해서 알려줘
+$<지원:H_SYNS> 에 대해서 알려줘
+1	지원	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 지원에 대해서 알려주세요
+$<지원:H_SYNS> 에 대해서 알려주세요
+1	지원	NNG	B_H_SYNS
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 지원에 관해서 알려줘
+$<지원:H_SYNS> 에 관해서 알려줘
+1	지원	NNG	B_H_SYNS
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 지원를 알려줘
+$<지원:H_SYNS> 를 알려줘
+1	지원	NNG	B_H_SYNS
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 합격자 발표
+$<합격자 발표:H_ACCEPTANCE> 
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+
+; 합격자 발표 알려줘
+$<합격자 발표:H_ACCEPTANCE>  알려줘
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 합격자 발표 알려주세요
+$<합격자 발표:H_ACCEPTANCE>  알려주세요
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 합격자 발표 알려줘봐
+$<합격자 발표:H_ACCEPTANCE>  알려줘봐
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 합격자 발표 알려줘요
+$<합격자 발표:H_ACCEPTANCE>  알려줘요
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 합격자 발표에 대해서 알려줘
+$<합격자 발표:H_ACCEPTANCE> 에 대해서 알려줘
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 합격자 발표에 대해서 알려주세요
+$<합격자 발표:H_ACCEPTANCE> 에 대해서 알려주세요
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 합격자 발표에 관해서 알려줘
+$<합격자 발표:H_ACCEPTANCE> 에 관해서 알려줘
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 합격자 발표를 알려줘
+$<합격자 발표:H_ACCEPTANCE> 를 알려줘
+1	합격자 발표	NNG	B_H_ACCEPTANCE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 합격자발표
+$<합격자발표:H_ACCEPTANCE> 
+1	합격자발표	NNG	B_H_ACCEPTANCE
+
+; 합격자발표 알려줘
+$<합격자발표:H_ACCEPTANCE>  알려줘
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 합격자발표 알려주세요
+$<합격자발표:H_ACCEPTANCE>  알려주세요
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 합격자발표 알려줘봐
+$<합격자발표:H_ACCEPTANCE>  알려줘봐
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 합격자발표 알려줘요
+$<합격자발표:H_ACCEPTANCE>  알려줘요
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 합격자발표에 대해서 알려줘
+$<합격자발표:H_ACCEPTANCE> 에 대해서 알려줘
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 합격자발표에 대해서 알려주세요
+$<합격자발표:H_ACCEPTANCE> 에 대해서 알려주세요
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 합격자발표에 관해서 알려줘
+$<합격자발표:H_ACCEPTANCE> 에 관해서 알려줘
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 합격자발표를 알려줘
+$<합격자발표:H_ACCEPTANCE> 를 알려줘
+1	합격자발표	NNG	B_H_ACCEPTANCE
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 최종 합격자 조회
+$<최종 합격자 조회:H_INQUIRYF> 
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+
+; 최종 합격자 조회 알려줘
+$<최종 합격자 조회:H_INQUIRYF>  알려줘
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 최종 합격자 조회 알려주세요
+$<최종 합격자 조회:H_INQUIRYF>  알려주세요
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 최종 합격자 조회 알려줘봐
+$<최종 합격자 조회:H_INQUIRYF>  알려줘봐
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 최종 합격자 조회 알려줘요
+$<최종 합격자 조회:H_INQUIRYF>  알려줘요
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 최종 합격자 조회에 대해서 알려줘
+$<최종 합격자 조회:H_INQUIRYF> 에 대해서 알려줘
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 최종 합격자 조회에 대해서 알려주세요
+$<최종 합격자 조회:H_INQUIRYF> 에 대해서 알려주세요
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 최종 합격자 조회에 관해서 알려줘
+$<최종 합격자 조회:H_INQUIRYF> 에 관해서 알려줘
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 최종 합격자 조회를 알려줘
+$<최종 합격자 조회:H_INQUIRYF> 를 알려줘
+1	최종 합격자 조회	NNG	B_H_INQUIRYF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 최종
+$<최종:H_INQUIRYF> 
+1	최종	NNG	B_H_INQUIRYF
+
+; 최종 알려줘
+$<최종:H_INQUIRYF>  알려줘
+1	최종	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 최종 알려주세요
+$<최종:H_INQUIRYF>  알려주세요
+1	최종	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 최종 알려줘봐
+$<최종:H_INQUIRYF>  알려줘봐
+1	최종	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 최종 알려줘요
+$<최종:H_INQUIRYF>  알려줘요
+1	최종	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 최종에 대해서 알려줘
+$<최종:H_INQUIRYF> 에 대해서 알려줘
+1	최종	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 최종에 대해서 알려주세요
+$<최종:H_INQUIRYF> 에 대해서 알려주세요
+1	최종	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 최종에 관해서 알려줘
+$<최종:H_INQUIRYF> 에 관해서 알려줘
+1	최종	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 최종를 알려줘
+$<최종:H_INQUIRYF> 를 알려줘
+1	최종	NNG	B_H_INQUIRYF
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 최종 합격자
+$<최종 합격자:H_INQUIRYF> 
+1	최종 합격자	NNG	B_H_INQUIRYF
+
+; 최종 합격자 알려줘
+$<최종 합격자:H_INQUIRYF>  알려줘
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 최종 합격자 알려주세요
+$<최종 합격자:H_INQUIRYF>  알려주세요
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 최종 합격자 알려줘봐
+$<최종 합격자:H_INQUIRYF>  알려줘봐
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 최종 합격자 알려줘요
+$<최종 합격자:H_INQUIRYF>  알려줘요
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 최종 합격자에 대해서 알려줘
+$<최종 합격자:H_INQUIRYF> 에 대해서 알려줘
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 최종 합격자에 대해서 알려주세요
+$<최종 합격자:H_INQUIRYF> 에 대해서 알려주세요
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 최종 합격자에 관해서 알려줘
+$<최종 합격자:H_INQUIRYF> 에 관해서 알려줘
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 최종 합격자를 알려줘
+$<최종 합격자:H_INQUIRYF> 를 알려줘
+1	최종 합격자	NNG	B_H_INQUIRYF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 고지서
+$<고지서:H_INQUIRYF> 
+1	고지서	NNG	B_H_INQUIRYF
+
+; 고지서 알려줘
+$<고지서:H_INQUIRYF>  알려줘
+1	고지서	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 고지서 알려주세요
+$<고지서:H_INQUIRYF>  알려주세요
+1	고지서	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 고지서 알려줘봐
+$<고지서:H_INQUIRYF>  알려줘봐
+1	고지서	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 고지서 알려줘요
+$<고지서:H_INQUIRYF>  알려줘요
+1	고지서	NNG	B_H_INQUIRYF
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 고지서에 대해서 알려줘
+$<고지서:H_INQUIRYF> 에 대해서 알려줘
+1	고지서	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 고지서에 대해서 알려주세요
+$<고지서:H_INQUIRYF> 에 대해서 알려주세요
+1	고지서	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 고지서에 관해서 알려줘
+$<고지서:H_INQUIRYF> 에 관해서 알려줘
+1	고지서	NNG	B_H_INQUIRYF
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 고지서를 알려줘
+$<고지서:H_INQUIRYF> 를 알려줘
+1	고지서	NNG	B_H_INQUIRYF
+2	를	JKO	O
+3	알리	VV	O
+4	어	EC	O
+5	주	VX	O
+6	어	EC	O
+
+; 일반
+$<일반:H_GENERAL> 
+1	일반	NNG	B_H_GENERAL
+
+; 일반 알려줘
+$<일반:H_GENERAL>  알려줘
+1	일반	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반 알려주세요
+$<일반:H_GENERAL>  알려주세요
+1	일반	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반 알려줘봐
+$<일반:H_GENERAL>  알려줘봐
+1	일반	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반 알려줘요
+$<일반:H_GENERAL>  알려줘요
+1	일반	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반에 대해서 알려줘
+$<일반:H_GENERAL> 에 대해서 알려줘
+1	일반	NNG	B_H_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반에 대해서 알려주세요
+$<일반:H_GENERAL> 에 대해서 알려주세요
+1	일반	NNG	B_H_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반에 관해서 알려줘
+$<일반:H_GENERAL> 에 관해서 알려줘
+1	일반	NNG	B_H_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반를 알려줘
+$<일반:H_GENERAL> 를 알려줘
+1	일반	NNG	B_H_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O
+
+; 일반전형
+$<일반전형:H_GENERAL> 
+1	일반전형	NNG	B_H_GENERAL
+
+; 일반전형 알려줘
+$<일반전형:H_GENERAL>  알려줘
+1	일반전형	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+
+; 일반전형 알려주세요
+$<일반전형:H_GENERAL>  알려주세요
+1	일반전형	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	시	EP	O
+6	어요	EC	O
+
+; 일반전형 알려줘봐
+$<일반전형:H_GENERAL>  알려줘봐
+1	일반전형	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어	EC	O
+6	보	VX	O
+7	아	EC	O
+
+; 일반전형 알려줘요
+$<일반전형:H_GENERAL>  알려줘요
+1	일반전형	NNG	B_H_GENERAL
+2	알리	VV	O
+3	어	EC	O
+4	주	VX	O
+5	어요	EC	O
+
+; 일반전형에 대해서 알려줘
+$<일반전형:H_GENERAL> 에 대해서 알려줘
+1	일반전형	NNG	B_H_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반전형에 대해서 알려주세요
+$<일반전형:H_GENERAL> 에 대해서 알려주세요
+1	일반전형	NNG	B_H_GENERAL
+2	에	JKB	O
+3	대하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	시	EP	O
+9	어요	EC	O
+
+; 일반전형에 관해서 알려줘
+$<일반전형:H_GENERAL> 에 관해서 알려줘
+1	일반전형	NNG	B_H_GENERAL
+2	에	JKB	O
+3	관하	VV	O
+4	아서	EC	O
+5	알리	VV	O
+6	어	EC	O
+7	주	VX	O
+8	어	EC	O
+
+; 일반전형를 알려줘
+$<일반전형:H_GENERAL> 를 알려줘
+1	일반전형	NNG	B_H_GENERAL
+2	르	NNG	O
+3	ㄹ	JKO	O
+4	알리	VV	O
+5	어	EC	O
+6	주	VX	O
+7	어	EC	O

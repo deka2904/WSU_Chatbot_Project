@@ -1,0 +1,178 @@
+전공별 교육과정	H_CURRICULUM
+전공별 교육 과정	H_CURRICULUM
+학교생활 안내	H_SCHOOLLIFE
+출석 성적 반영 방법	H_ATTENDREF
+출석 성적 반영 비율	H_ATTENDREF
+출석 성적 반영법	H_ATTENDREF
+솔브릿지학과	H_SOL
+AI학과	H_ECAI
+빅데이터학과	H_ECAI
+AI빅데이터학과	H_ECAI
+호텔매니지먼트	H_GHOTELMA
+호텔매니지먼트학과	H_GHOTELMA
+호텔학과	H_GHOTELMA
+글로벌융합비즈니스학과	H_GCOMA
+글로벌융합비즈니스	H_GCOMA
+융합비즈니스학과	H_GCOMA
+융합비즈니스	H_GCOMA
+융합 경영	H_BM
+융합 경영학과	H_BM
+융합 세무 경영	H_FTM
+융합 세무 경영학과	H_FTM
+자율융합	H_ENDSTU
+자율융합학과	H_ENDSTU
+글로벌 철도	H_GLOTRAIN
+글로벌 철도학과	H_GLOTRAIN
+철도 건설	H_TRAININD
+철도 건설학과	H_TRAININD
+철도 경영	H_TRAINBM
+철도 경영학과	H_TRAINBM
+물류	H_SCMSYS
+물류시스템	H_SCMSYS
+물류시스템학과	H_SCMSYS
+철도 전기	H_TRELSYS
+철도 전기학과	H_TRELSYS
+철도 전기시스템	H_TRELSYS
+철도 전기시스템학과	H_TRELSYS
+철도 소프트웨어	H_TRSOFT
+철도 소프트웨어학과	H_TRSOFT
+철도 차량	H_TRSYS
+철도 차량 학과	H_TRSYS
+철도 차량 시스템	H_TRSYS
+철도 차량 시스템 학과	H_TRSYS
+건축공학과	H_BUILDENG
+글로벌 미디어	H_GLOMIDI
+글로벌 미디어학과	H_GLOMIDI
+글로벌 미디어영상	H_GLOMIDI
+글로벌 미디어영상학과	H_GLOMIDI
+게임멀티	H_GAME
+겜멀	H_GAME
+게임멀티미디어학과	H_GAME
+미디어디자인	H_MIDIDESIG
+미디어디자인학과	H_MIDIDESIG
+미디어디자인영상	H_MIDIDESIG
+미디어디자인 영상학과	H_MIDIDESIG
+컴정	H_COM
+컴퓨터 정보보안 학과	H_COM
+IT	H_IT
+IT 학과	H_IT
+IT보안	H_IT
+IT보안 학과	H_IT
+글로벌조리	H_GLOCOOK
+글로벌조리학과	H_GLOCOOK
+폴보퀴즈조리	H_PAULBO
+폴보퀴즈조리학과	H_PAULBO
+폴보	H_PAULBO
+글로벌외식	H_GLOCOST
+글로벌외식학과	H_GLOCOST
+글로벌외식창업	H_GLOCOST
+글로벌외식창업학과	H_GLOCOST
+글로벌외식창업전공	H_GLOCOST
+외식조리	H_COOK
+외식조리학과	H_COOK
+외조	H_COOK
+한식	H_KOCOOK
+한식조리	H_KOCOOK
+한식조리학과	H_KOCOOK
+한식조리과학	H_KOCOOK
+한식조리과학학과	H_KOCOOK
+외식조리경영	H_COOKBM
+외식조리경영학과	H_COOKBM
+외식조리영양	H_COOKNU
+외식조리영양학과	H_COOKNU
+호텔경영	H_HOBM
+호텔경영학과	H_HOBM
+호텔관광	H_HOBM
+호텔관광학과	H_HOBM
+호텔관광경영	H_HOBM
+호텔관광경영학과	H_HOBM
+사복	H_SOCIAL
+사회복지	H_SOCIAL
+사복학과	H_SOCIAL
+사회복지학과	H_SOCIAL
+작업치료학과	H_THERAPI
+언어치료	H_EARCLE
+언어치료학과	H_EARCLE
+청각	H_EARCLE
+언어치료청각재활학과	H_EARCLE
+청각재활	H_EARCLE
+청각재활학과	H_EARCLE
+보건경영	H_HEALTHBM
+보건경영학과	H_HEALTHBM
+보건의료	H_HEALTHBM
+보건의료학과	H_HEALTHBM
+보건의료경영	H_HEALTHBM
+보건의료경영학과	H_HEALTHBM
+유아교육과	H_CHILD
+유아교육학과	H_CHILD
+뷰티	H_BEAUTY
+뷰티디자인	H_BEAUTY
+뷰티학과	H_BEAUTY
+뷰티디자인학과	H_BEAUTY
+응급구조	H_EMERMEDI
+응급구조학과	H_EMERMEDI
+소방안전	H_FIREMAN
+소방안전학과	H_FIREMAN
+소방	H_FIREMAN
+소방학과	H_FIREMAN
+간호학과	H_NURSE
+간호	H_NURSE
+물리치료	H_DOCPHY
+물리치료학과	H_DOCPHY
+스포츠	H_SPORT
+스포츠학과	H_SPORT
+스포츠건강	H_SPORT
+스포츠건강학과	H_SPORT
+스포츠건강재활	H_SPORT
+스포츠건강재활학과	H_SPORT
+JCFS 인공지능	H_JWAI
+JCFS 인공지능학과	H_JWAI
+JCFS 데이터과학	H_JWDATASC
+JCFS 데이터과학학과	H_JWDATASC
+JCFS 인지과학	H_JWCOSC
+JCFS 인지과학 학과	H_JWCOSC
+장학금	H_SCHOLARSHIP
+장학제도	H_SCHOLARSHIP
+캠퍼스	H_MAP
+학교	H_MAP
+지도	H_MAP
+캠퍼스 맵	H_MAP
+캠퍼스맵	H_MAP
+학교맵	H_MAP
+우송대 위치	H_MAP
+기숙사	H_DORMITORY
+긱사	H_DORMITORY
+연락처	H_CONINF
+번호	H_CONINF
+부서	H_CONINF
+교무처 연락처	H_CONINF
+부서별 연락처	H_CONINF
+부서별연락처	H_CONINF
+입학	H_ADMISSION
+입학처	H_ADMISSION
+편의시설	H_AMENITIES
+편의	H_AMENITIES
+시설	H_AMENITIES
+농어촌학생	H_VILLAGE
+농어촌	H_VILLAGE
+특성화고교졸업자	H_CHARA
+특성화	H_CHARA
+기초생활수급자	H_FOUNDATION
+기초생활	H_FOUNDATION
+기초	H_FOUNDATION
+차상위	H_FOUNDATION
+전년도 등급컷	H_GRADE
+전년도등급컷	H_GRADE
+등급컷	H_GRADE
+전형방법	H_SYNS
+지원방법	H_SYNS
+전형	H_SYNS
+지원	H_SYNS
+합격자 발표	H_ACCEPTANCE
+합격자발표	H_ACCEPTANCE
+최종 합격자 조회	H_INQUIRYF
+최종	H_INQUIRYF
+최종 합격자	H_INQUIRYF
+고지서	H_INQUIRYF
+일반	H_GENERAL
+일반전형	H_GENERAL

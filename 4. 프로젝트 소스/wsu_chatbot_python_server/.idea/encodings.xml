@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
+    <file url="file://$PROJECT_DIR$/models/intent/1H_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/1J_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/1S_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/2H_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/2J_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/2S_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/3H_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/3J_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/3S_corpus.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/intent/결과.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/ner/Ner_h_test.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/ner/Ner_jungsi_test.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/models/ner/Ner_susi_test.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/test/TESTTEXT_JUNGSI.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/test/h_result.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/test/jungsi_result.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/test/nertag/exam/h.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/test/nertag/exam/jungsi.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/test/nertag/exam/susi.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/test/susi_result.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/train_tools/dict/chatbot_dict_txtTEST.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/train_tools/dict/corpus.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/train_tools/dict/h.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/train_tools/dict/j.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/train_tools/dict/s.txt" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/utils/user_dic.tsv" charset="x-windows-949" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,81 @@
+정시         B_J_JUNGSI
+정시전형 안내하기  B_J_JUNGSI
+정시 전형일정 및 모집인원 안내 B_J_SCHEDULESANN
+정시 전형유형별 지원안내 B_J_MODELANN
+입학원서접수 및 전형료안내 B_J_ADMISSIONFREE
+입학원서 접수 및 전형료 안내 B_J_ADMISSIONFREE
+정시 전형일정    B_J_SCHEDULE
+정시 전형      B_J_SCHEDULE
+정시 일정      B_J_SCHEDULE
+정시 모집인원    B_J_RECRUITMENT
+정시 모집      B_J_RECRUITMENT
+정시 인원      B_J_RECRUITMENT
+정시 일반전형    B_J_GENERAL
+정시 일반      B_J_GENERAL
+정시 일반 가    B_J_GENERAL
+정시 일반 가군   B_J_GENERAL
+정시 일반 나    B_J_GENERAL
+정시 일반 나군   B_J_GENERAL
+정시 일반 다    B_J_GENERAL
+정시 일반 다군   B_J_GENERAL
+일반 가       B_J_GENERAL
+일반 가군      B_J_GENERAL
+일반 나       B_J_GENERAL
+일반 나군      B_J_GENERAL
+일반 다       B_J_GENERAL
+일반 다군      B_J_GENERAL
+정시 학생부위주   B_J_STUDENT
+정시 학생부     B_J_STUDENT
+정시 학생      B_J_STUDENT
+학생부위주      B_J_STUDENT
+학생부        B_J_STUDENT
+학생         B_J_STUDENT
+정시 농어촌학생   B_J_VILLAGE
+정시 농어촌     B_J_VILLAGE
+정시 특성화고교졸업자 B_J_CHARA
+정시 특성화     B_J_CHARA
+정시 기초생활수급자 및 차상위계층 B_J_FOUNDATION
+정시 기초생활수급자 B_J_FOUNDATION
+정시 기초생활    B_J_FOUNDATION
+정시 기초      B_J_FOUNDATION
+정시 특수교육대상자 B_J_EDUCATION
+정시 특수교육    B_J_EDUCATION
+특수교육대상자    B_J_EDUCATION
+특수교육       B_J_EDUCATION
+정시 수능시험 점수 B_J_METHOD
+정시 반영      B_J_METHOD
+정시 점수 반영   B_J_METHOD
+정시 점수      B_J_METHOD
+정시 수능점수    B_J_METHOD
+정시 수능 점수   B_J_METHOD
+정시 수능점수반영  B_J_METHOD
+정시 수능 점수 반영 B_J_METHOD
+정시 수능시험 반영 방법 및 점수 B_J_METHOD
+수능시험 점수    B_J_METHOD
+반영         B_J_METHOD
+점수 반영      B_J_METHOD
+점수         B_J_METHOD
+수능점수       B_J_METHOD
+수능 점수      B_J_METHOD
+수능점수반영     B_J_METHOD
+수능 점수 반영   B_J_METHOD
+수능시험 반영 방법 및 점수 B_J_METHOD
+정시 등급컷     B_J_GRADE
+정시 전년도 등급컷 B_J_GRADE
+정시 전년도등급컷  B_J_GRADE
+정시 작년도 등급컷 B_J_GRADE
+정시 작년도등급컷  B_J_GRADE
+정시 지원자격    B_J_SYNS
+정시 지원방법    B_J_SYNS
+정시 전형방법    B_J_SYNS
+정시 합격자 안내  B_J_ACCEPTANCE
+정시 합격자발표   B_J_ACCEPTANCE
+정시 합격자 발표  B_J_ACCEPTANCE
+정시 최종 합격자 조회 B_J_INQUIRYF
+정시 최종 합격자  B_J_INQUIRYF
+정시 고지서     B_J_INQUIRYF
+정시 장학제도 안내 B_J_SCHOLARSHIP
+정시 장학제도안내  B_J_SCHOLARSHIP
+정시 장학제도    B_J_SCHOLARSHIP
+정시 장학금 안내  B_J_SCHOLARSHIP
+정시 장학금     B_J_SCHOLARSHIP

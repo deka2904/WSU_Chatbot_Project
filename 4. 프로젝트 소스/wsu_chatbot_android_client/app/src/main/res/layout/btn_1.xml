@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintHorizontal_weight="2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:elevation="10dp"
+            app:cardBackgroundColor="#FFFFFF"
+            app:cardCornerRadius="19dp">
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/wsu" />
+
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="216dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="13dp"
+            android:layout_weight="8"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="70dp"
+                android:layout_height="37dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:text="@string/bot_name"
+                    android:textColor="#000000"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+                <ImageButton
+                    android:id="@+id/starbtn1"
+                    android:layout_width="40dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="#ffffff"
+                    android:onClick="onClick"
+                    android:layout_marginBottom="4dp"
+                    app:srcCompat="@drawable/ic_staron2_foreground" />
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="2dp"
+                android:elevation="10dp"
+                app:cardBackgroundColor="@color/botback"
+                app:cardCornerRadius="3dp">
+
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@color/botback"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:id="@+id/botStartMsg_1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="5dp"
+                        android:backgroundTint="@color/botback"
+                        android:padding="3dp"
+                        android:text=""
+                        android:textColor="#000000" />
+
+                    <TextView
+                        android:id="@+id/textView"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="8dp"
+                        android:padding="3dp"
+                        android:text="[원하는 질문을 선택하세요]"
+                        android:textColor="#000000"
+                        android:textSize="15sp"
+                        app:layout_constraintStart_toStartOf="parent"
+                        app:layout_constraintTop_toBottomOf="@+id/holder2_botMsg" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btn_1"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_calender"
+                            android:paddingLeft="0dp"
+                            android:text="전형일정 모집인원"
+                            android:textSize="23px" />
+
+                        <Button
+                            android:id="@+id/btn_2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_test"
+                            android:paddingLeft="2dp"
+                            android:text="학생부 교과"
+                            android:textSize="23px" />
+
+                        <Button
+                            android:id="@+id/btn_3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_book"
+                            android:paddingLeft="6dp"
+                            android:text="학생부 종합"
+                            android:textSize="23px" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btn_4"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_report"
+                            android:paddingLeft="0dp"
+                            android:text="과별 교육과정"
+                            android:textSize="23px" />
+
+                        <Button
+                            android:id="@+id/btn_5"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_interview"
+                            android:paddingLeft="6dp"
+                            android:text="면접"
+                            android:textSize="23px" />
+
+                        <Button
+                            android:id="@+id/btn_6"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_money"
+
+                            android:paddingLeft="8dp"
+                            android:text="수시 장학금"
+                            android:textSize="23px" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal">
+
+                        <Button
+                            android:id="@+id/btn_7"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_pass"
+                            android:paddingLeft="0dp"
+                            android:text="수시 합격자안내"
+                            android:textSize="20px" />
+
+                        <Button
+                            android:id="@+id/btn_8"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_school"
+
+                            android:paddingLeft="0dp"
+                            android:text="학교생활"
+                            android:textSize="23px" />
+
+                        <Button
+                            android:id="@+id/btn_9"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_marginLeft="0dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_marginRight="0dp"
+                            android:layout_marginBottom="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="@color/botbutton"
+                            android:drawableLeft="@drawable/size_jumsusanchull"
+                            android:paddingLeft="7dp"
+                            android:text="성적산출프로그램"
+                            android:textSize="20px" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

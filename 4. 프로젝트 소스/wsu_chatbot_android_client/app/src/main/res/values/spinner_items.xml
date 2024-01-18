@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spn_3">
+        <item>일반1</item>
+        <item>일반2</item>
+        <item>지역인재</item>
+        <item>자기추천</item>
+        <item>농어촌학생</item>
+        <item>특성화고교졸업자</item>
+        <item>기초생활수급자 및 차상위계층</item>
+    </string-array>
+
+    <string-array name="spn_4">
+        <item>종합1</item>
+        <item>종합2</item>
+        <item>소프트웨어인재</item>
+        <item>지역인재</item>
+    </string-array>
+
+    <string-array name="spn_5">
+        <item>솔브릿지학과</item>
+        <item>AI빅데이터학과</item>
+        <item>호텔매니지먼트학과</item>
+        <item>글로벌융합비즈니스학과</item>
+        <item>융합 경영학과</item>
+        <item>융합 세무 경영학과</item>
+        <item>자율융합학과</item>
+        <item>글로벌 철도학과</item>
+        <item>철도 건설학과</item>
+        <item>철도 경영학과</item>
+        <item>물류시스템학과</item>
+        <item>철도 전기시스템학과</item>
+        <item>철도 소프트웨어학과</item>
+        <item>철도 차량 시스템 학과</item>
+        <item>건축공학과</item>
+        <item>글로벌 미디어영상학과</item>
+        <item>게임멀티미디어학과</item>
+        <item>미디어디자인 영상학과</item>
+        <item>컴퓨터 정보보안 학과</item>
+        <item>IT보안 학과</item>
+        <item>글로벌조리학과</item>
+        <item>폴보퀴즈조리학과</item>
+        <item>글로벌외식창업학과</item>
+        <item>외식조리학과</item>
+        <item>한식조리과학학과</item>
+        <item>외식조리경영학과</item>
+        <item>외식조리영양학과</item>
+        <item>호텔관광경영학과</item>
+        <item>사회복지학과</item>
+        <item>작업치료학과</item>
+        <item>언어치료청각재활학과</item>
+        <item>보건의료경영학과</item>
+        <item>유아교육학과</item>
+        <item>뷰티디자인학과</item>
+        <item>응급구조학과</item>
+        <item>소방안전학과</item>
+        <item>간호학과</item>
+        <item>물리치료학과</item>
+        <item>스포츠건강재활학과</item>
+        <item>JCFS 인공지능학과</item>
+        <item>JCFS 데이터과학학과</item>
+        <item>JCFS 인지과학 학과</item>
+    </string-array>
+
+    <string-array name="spn_13">
+        <item>일반(가군,나군,다군)</item>
+        <item>학생부위주(종합)(나군)</item>
+        <item>농어촌학생</item>
+        <item>특성화고교졸업자</item>
+        <item>기초생활수급자 및 차상위계층</item>
+    </string-array>
+</resources>

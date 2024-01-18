@@ -1,0 +1,81 @@
+정시	J_JUNGSI
+정시전형 안내하기	J_JUNGSI
+정시 전형일정 및 모집인원 안내	J_SCHEDULESANN
+정시 전형유형별 지원안내	J_MODELANN
+입학원서접수 및 전형료안내	J_ADMISSIONFREE
+입학원서 접수 및 전형료 안내	J_ADMISSIONFREE
+정시 전형일정	J_SCHEDULE
+정시 전형	J_SCHEDULE
+정시 일정	J_SCHEDULE
+정시 모집인원	J_RECRUITMENT
+정시 모집	J_RECRUITMENT
+정시 인원	J_RECRUITMENT
+정시 일반전형	J_GENERAL
+정시 일반	J_GENERAL
+정시 일반 가	J_GENERAL
+정시 일반 가군	J_GENERAL
+정시 일반 나	J_GENERAL
+정시 일반 나군	J_GENERAL
+정시 일반 다	J_GENERAL
+정시 일반 다군	J_GENERAL
+일반 가	J_GENERAL
+일반 가군	J_GENERAL
+일반 나	J_GENERAL
+일반 나군	J_GENERAL
+일반 다	J_GENERAL
+일반 다군	J_GENERAL
+정시 학생부위주	J_STUDENT
+정시 학생부	J_STUDENT
+정시 학생	J_STUDENT
+학생부위주	J_STUDENT
+학생부	J_STUDENT
+학생	J_STUDENT
+정시 농어촌학생	J_VILLAGE
+정시 농어촌	J_VILLAGE
+정시 특성화고교졸업자	J_CHARA
+정시 특성화	J_CHARA
+정시 기초생활수급자 및 차상위계층	J_FOUNDATION
+정시 기초생활수급자	J_FOUNDATION
+정시 기초생활	J_FOUNDATION
+정시 기초	J_FOUNDATION
+정시 특수교육대상자	J_EDUCATION
+정시 특수교육	J_EDUCATION
+특수교육대상자	J_EDUCATION
+특수교육	J_EDUCATION
+정시 수능시험 점수	J_METHOD
+정시 반영	J_METHOD
+정시 점수 반영	J_METHOD
+정시 점수	J_METHOD
+정시 수능점수	J_METHOD
+정시 수능 점수	J_METHOD
+정시 수능점수반영	J_METHOD
+정시 수능 점수 반영	J_METHOD
+정시 수능시험 반영 방법 및 점수	J_METHOD
+수능시험 점수	J_METHOD
+반영	J_METHOD
+점수 반영	J_METHOD
+점수	J_METHOD
+수능점수	J_METHOD
+수능 점수	J_METHOD
+수능점수반영	J_METHOD
+수능 점수 반영	J_METHOD
+수능시험 반영 방법 및 점수	J_METHOD
+정시 등급컷	J_GRADE
+정시 전년도 등급컷	J_GRADE
+정시 전년도등급컷	J_GRADE
+정시 작년도 등급컷	J_GRADE
+정시 작년도등급컷	J_GRADE
+정시 지원자격	J_SYNS
+정시 지원방법	J_SYNS
+정시 전형방법	J_SYNS
+정시 합격자 안내	J_ACCEPTANCE
+정시 합격자발표	J_ACCEPTANCE
+정시 합격자 발표	J_ACCEPTANCE
+정시 최종 합격자 조회	J_INQUIRYF
+정시 최종 합격자	J_INQUIRYF
+정시 고지서	J_INQUIRYF
+정시 장학제도 안내	J_SCHOLARSHIP
+정시 장학제도안내	J_SCHOLARSHIP
+정시 장학제도	J_SCHOLARSHIP
+정시 장학금 안내	J_SCHOLARSHIP
+정시 장학금	J_SCHOLARSHIP
